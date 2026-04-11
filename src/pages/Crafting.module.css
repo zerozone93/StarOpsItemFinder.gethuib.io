@@ -1,0 +1,115 @@
+.notice {
+  background: rgba(234,179,8,0.1);
+  border: 1px solid rgba(234,179,8,0.3);
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 13px;
+  color: #facc15;
+  margin-bottom: 28px;
+}
+
+.sectionTitle {
+  font-size: 20px;
+  font-weight: 700;
+  color: #e2e8f0;
+  margin: 28px 0 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #1e3a5f;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.card {
+  background: #111827;
+  border: 1px solid #1e3a5f;
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.cardHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.cardName {
+  font-size: 15px;
+  font-weight: 700;
+  color: #e2e8f0;
+}
+
+.cardDesc {
+  font-size: 13px;
+  color: #94a3b8;
+  line-height: 1.5;
+  margin: 0 0 10px;
+}
+
+.price {
+  font-size: 14px;
+  color: #00e5ff;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.vendorInfo {
+  font-size: 12px;
+  color: #64748b;
+  margin-bottom: 6px;
+}
+
+.recipeRef {
+  font-size: 12px;
+  color: #38bdf8;
+  margin-top: 8px;
+}
+
+.ingredients {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #1e3a5f;
+}
+
+.ingTitle {
+  font-size: 12px;
+  font-weight: 700;
+  color: #00bfff;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 8px;
+}
+
+.ingItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+  font-size: 13px;
+  color: #cbd5e1;
+  border-bottom: 1px solid #1a2744;
+}
+
+.ingItem:last-child {
+  border-bottom: none;
+}
+
+.ingName {}
+
+.ingQty {
+  color: #00e5ff;
+  font-weight: 600;
+}
+
+.craftingMeta {
+  display: flex;
+  gap: 16px;
+  margin-top: 10px;
+  font-size: 12px;
+  color: #475569;
+}

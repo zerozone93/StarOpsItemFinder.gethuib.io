@@ -1,0 +1,199 @@
+.hero {
+  text-align: center;
+  padding: 60px 20px 40px;
+  position: relative;
+}
+
+.heroGlow {
+  position: absolute;
+  top: 0; left: 50%;
+  transform: translateX(-50%);
+  width: 600px;
+  height: 200px;
+  background: radial-gradient(ellipse at center, rgba(0, 191, 255, 0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.heroTitle {
+  font-size: clamp(28px, 5vw, 48px);
+  font-weight: 800;
+  color: #e2e8f0;
+  letter-spacing: 0.03em;
+  margin-bottom: 12px;
+}
+
+.heroAccent {
+  color: #00bfff;
+}
+
+.heroSubtitle {
+  font-size: 16px;
+  color: #64748b;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.6;
+}
+
+.heroSearch {
+  max-width: 480px;
+  margin: 0 auto 16px;
+}
+
+.heroHint {
+  font-size: 12px;
+  color: #475569;
+}
+
+.searchResults {
+  max-width: 700px;
+  margin: 24px auto 0;
+  display: grid;
+  gap: 8px;
+}
+
+.searchResult {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #111827;
+  border: 1px solid #1e3a5f;
+  border-radius: 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: border-color 0.2s;
+}
+
+.searchResult:hover {
+  border-color: #00bfff;
+}
+
+.searchResultType {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #00bfff;
+  background: rgba(0,191,255,0.1);
+  padding: 2px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+
+.searchResultName {
+  font-size: 14px;
+  color: #e2e8f0;
+  font-weight: 500;
+}
+
+.searchResultDesc {
+  font-size: 12px;
+  color: #475569;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 300px;
+}
+
+.categories {
+  margin-top: 48px;
+}
+
+.sectionTitle {
+  font-size: 18px;
+  font-weight: 700;
+  color: #e2e8f0;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.sectionTitle::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: #1e3a5f;
+}
+
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 14px;
+}
+
+.categoryCard {
+  display: block;
+  background: #111827;
+  border: 1px solid #1e3a5f;
+  border-radius: 12px;
+  padding: 20px 16px;
+  text-decoration: none;
+  text-align: center;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.categoryCard:hover {
+  border-color: #00bfff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0,191,255,0.1);
+}
+
+.categoryIcon {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.categoryName {
+  font-size: 14px;
+  font-weight: 600;
+  color: #e2e8f0;
+  margin-bottom: 4px;
+}
+
+.categoryCount {
+  font-size: 12px;
+  color: #475569;
+}
+
+.featured {
+  margin-top: 48px;
+}
+
+.featuredGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+
+.statBar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.statLabel {
+  font-size: 11px;
+  color: #475569;
+  white-space: nowrap;
+}
+
+.statValue {
+  font-size: 13px;
+  font-weight: 600;
+  color: #00e5ff;
+}
+
+.rarityBadge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.rarityCommon { background: #1e3a5f; color: #94a3b8; }
+.rarityUncommon { background: rgba(34,197,94,0.15); color: #4ade80; }
+.rarityRare { background: rgba(0,191,255,0.15); color: #00bfff; }
+.rarityVeryRare { background: rgba(168,85,247,0.15); color: #c084fc; }

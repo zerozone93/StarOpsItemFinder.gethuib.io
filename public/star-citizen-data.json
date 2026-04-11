@@ -1,0 +1,615 @@
+{
+  "systems": [
+    {
+      "id": "sys-stanton", "slug": "stanton", "name": "Stanton", "description": "A corporate-controlled system with four planets and numerous moons, mined and settled by mega-corporations.",
+      "category": "system", "starType": "G-type main sequence", "locationIds": ["loc-hurston","loc-crusader","loc-arccorp","loc-microtech","loc-daymar","loc-aberdeen","loc-arial","loc-yela","loc-wala","loc-ita","loc-cellin","loc-orison","loc-area18","loc-lorville","loc-new-babbage","loc-port-olisar","loc-everus-harbor","loc-port-tressler","loc-cru-l4","loc-cru-l5"],
+      "tags": ["stanton","system","corporate"], "verificationStatus": "verified", "sourceNotes": "Live game data 3.22+"
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc-stanton", "slug": "stanton-system", "name": "Stanton System", "description": "Corporate-controlled system.",
+      "category": "planet", "systemId": "sys-stanton", "resourceIds": [], "vendorIds": [],
+      "tags": ["system"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-hurston", "slug": "hurston", "name": "Hurston", "description": "A toxic industrial planet controlled by Hurston Dynamics. Rich in heavy metals.",
+      "category": "planet", "systemId": "sys-stanton", "resourceIds": ["res-titanium","res-tungsten","res-agricium","res-laranite"],
+      "vendorIds": ["v-centermass","v-conscientious","v-tammany-sons"],
+      "tags": ["planet","hurston","industrial","toxic"], "verificationStatus": "verified", "sourceNotes": "Live game data 3.22+"
+    },
+    {
+      "id": "loc-lorville", "slug": "lorville", "name": "Lorville", "description": "Hurston Dynamics company city. Home to CenterMass and Conscientious Objects.",
+      "category": "city", "systemId": "sys-stanton", "parentId": "loc-hurston",
+      "resourceIds": [], "vendorIds": ["v-centermass","v-conscientious","v-tammany-sons"],
+      "tags": ["city","lorville","hurston"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-aberdeen", "slug": "aberdeen", "name": "Aberdeen", "description": "Hurston moon rich in Hadanite and Dolivine deposits in caves.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-hurston",
+      "resourceIds": ["res-hadanite","res-dolivine","res-titanium"],
+      "vendorIds": [],
+      "tags": ["moon","aberdeen","hurston","cave","mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-arial", "slug": "arial", "name": "Arial", "description": "Hurston moon with FPS mining caves and surface deposits.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-hurston",
+      "resourceIds": ["res-hadanite","res-laranite","res-titanium"],
+      "vendorIds": [],
+      "tags": ["moon","arial","hurston","mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-ita", "slug": "ita", "name": "Ita", "description": "Hurston moon with rare mineral deposits.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-hurston",
+      "resourceIds": ["res-agricium","res-laranite"],
+      "vendorIds": [],
+      "tags": ["moon","ita","hurston","mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-everus-harbor", "slug": "everus-harbor", "name": "Everus Harbor", "description": "Hurston Dynamics orbital station above Hurston. Trade hub with weapon and armor shops.",
+      "category": "station", "systemId": "sys-stanton", "parentId": "loc-hurston",
+      "resourceIds": [], "vendorIds": ["v-centermass","v-garrity"],
+      "tags": ["station","everus","hurston","orbital"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-crusader", "slug": "crusader", "name": "Crusader", "description": "A gas giant colonized by Crusader Industries. Features the floating city Orison.",
+      "category": "planet", "systemId": "sys-stanton",
+      "resourceIds": ["res-quantanium","res-titanium"],
+      "vendorIds": ["v-skutters"],
+      "tags": ["planet","crusader","gas giant"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-orison", "slug": "orison", "name": "Orison", "description": "Floating platform city above Crusader. Home to Crusader Industries shops.",
+      "category": "city", "systemId": "sys-stanton", "parentId": "loc-crusader",
+      "resourceIds": [], "vendorIds": ["v-skutters","v-crusader-ind"],
+      "tags": ["city","orison","crusader","floating"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-daymar", "slug": "daymar", "name": "Daymar", "description": "Crusader moon famous for Quantanium deposits and ROC mining. Harsh sandstorm environment.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-crusader",
+      "resourceIds": ["res-quantanium","res-titanium","res-dolivine"],
+      "vendorIds": [],
+      "tags": ["moon","daymar","crusader","quantanium","roc","mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-yela", "slug": "yela", "name": "Yela", "description": "Crusader moon with asteroid belt and cave systems containing Diamond deposits.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-crusader",
+      "resourceIds": ["res-diamond","res-titanium"],
+      "vendorIds": [],
+      "tags": ["moon","yela","crusader","diamond","cave"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-cellin", "slug": "cellin", "name": "Cellin", "description": "Crusader moon with volcanic activity and mineral deposits.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-crusader",
+      "resourceIds": ["res-titanium","res-tungsten"],
+      "vendorIds": [],
+      "tags": ["moon","cellin","crusader","volcanic"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-wala", "slug": "wala", "name": "Wala", "description": "ArcCorp moon with rare mineral deposits and FPS mining opportunities.",
+      "category": "moon", "systemId": "sys-stanton", "parentId": "loc-arccorp",
+      "resourceIds": ["res-hadanite","res-agricium","res-dolivine"],
+      "vendorIds": [],
+      "tags": ["moon","wala","arccorp","fps mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-port-olisar", "slug": "port-olisar", "name": "Port Olisar", "description": "Legacy orbital station above Crusader. Now decommissioned in newer patches but historically a major hub.",
+      "category": "station", "systemId": "sys-stanton", "parentId": "loc-crusader",
+      "resourceIds": [], "vendorIds": [],
+      "tags": ["station","port olisar","crusader","legacy"], "verificationStatus": "community", "sourceNotes": "Decommissioned in 3.17"
+    },
+    {
+      "id": "loc-cru-l4", "slug": "cru-l4", "name": "CRU-L4 (Shallow Fields Station)", "description": "Lagrange point station between Crusader and the system edge. Good mining staging area.",
+      "category": "lagrange", "systemId": "sys-stanton",
+      "resourceIds": [], "vendorIds": [],
+      "tags": ["station","lagrange","cru-l4","crusader"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-cru-l5", "slug": "cru-l5", "name": "CRU-L5 (The Garden)", "description": "Lagrange point station with lush plant life installations.",
+      "category": "lagrange", "systemId": "sys-stanton",
+      "resourceIds": [], "vendorIds": [],
+      "tags": ["station","lagrange","cru-l5","crusader"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-arccorp", "slug": "arccorp", "name": "ArcCorp", "description": "Fully industrialized planet covered in city blocks and factories.",
+      "category": "planet", "systemId": "sys-stanton",
+      "resourceIds": ["res-tungsten","res-titanium"],
+      "vendorIds": ["v-centermass","v-garrity"],
+      "tags": ["planet","arccorp","industrial","city planet"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-area18", "slug": "area18", "name": "Area18", "description": "ArcCorp's major city district. Hub for weapons, armor, and equipment shopping.",
+      "category": "city", "systemId": "sys-stanton", "parentId": "loc-arccorp",
+      "resourceIds": [], "vendorIds": ["v-centermass","v-garrity","v-cubby-blast","v-vantage-customs"],
+      "tags": ["city","area18","arccorp","shopping"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-port-tressler", "slug": "port-tressler", "name": "Port Tressler", "description": "MicroTech orbital station. Trade and resupply hub above MicroTech.",
+      "category": "station", "systemId": "sys-stanton", "parentId": "loc-microtech",
+      "resourceIds": [], "vendorIds": ["v-centermass","v-garrity"],
+      "tags": ["station","port tressler","microtech"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-microtech", "slug": "microtech", "name": "MicroTech", "description": "A cold, snowy planet controlled by microTech corporation. High-tech manufacturing.",
+      "category": "planet", "systemId": "sys-stanton",
+      "resourceIds": ["res-laranite","res-agricium","res-tungsten"],
+      "vendorIds": ["v-centermass","v-garrity"],
+      "tags": ["planet","microtech","snow","tech"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "loc-new-babbage", "slug": "new-babbage", "name": "New Babbage", "description": "MicroTech city in a giant domed complex. Premium tech and equipment available.",
+      "category": "city", "systemId": "sys-stanton", "parentId": "loc-microtech",
+      "resourceIds": [], "vendorIds": ["v-centermass","v-garrity","v-vantage-customs","v-microtech-store"],
+      "tags": ["city","new babbage","microtech","tech","dome"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "resources": [
+    {
+      "id": "res-hadanite", "slug": "hadanite", "name": "Hadanite", "description": "A rare crystalline mineral found in cave systems, especially on Hurston's moons. Highly valued for its optical properties.",
+      "category": "mineral", "rarity": "rare", "instabilityRating": 2, "baseValue": 150, "currency": "aUEC",
+      "locationIds": ["loc-aberdeen","loc-arial","loc-wala"],
+      "miningMethodIds": ["mm-fps"],
+      "vendorIds": [],
+      "tags": ["rare","cave","fps mining","hurston moons","crystal"], "verificationStatus": "verified", "sourceNotes": "FPS mining caves on Aberdeen and Arial"
+    },
+    {
+      "id": "res-quantanium", "slug": "quantanium", "name": "Quantanium", "description": "Extremely unstable and highly valuable ore found on Daymar. Must be refined quickly due to decay.",
+      "category": "mineral", "rarity": "very_rare", "instabilityRating": 9, "baseValue": 512, "currency": "aUEC",
+      "locationIds": ["loc-daymar","loc-crusader"],
+      "miningMethodIds": ["mm-roc","mm-ship"],
+      "vendorIds": [],
+      "tags": ["very rare","unstable","daymar","roc mining","ship mining","quantanium"], "verificationStatus": "verified", "sourceNotes": "Daymar surface deposits. Unstable - refine ASAP."
+    },
+    {
+      "id": "res-dolivine", "slug": "dolivine", "name": "Dolivine", "description": "A green crystalline mineral used in industrial manufacturing. Found across multiple Stanton moons.",
+      "category": "mineral", "rarity": "uncommon", "instabilityRating": 1, "baseValue": 80, "currency": "aUEC",
+      "locationIds": ["loc-aberdeen","loc-daymar","loc-wala"],
+      "miningMethodIds": ["mm-fps","mm-roc"],
+      "vendorIds": [],
+      "tags": ["uncommon","cave","surface","industrial"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "res-agricium", "slug": "agricium", "name": "Agricium", "description": "A rare metallic mineral used in advanced manufacturing. Found on Hurston and MicroTech.",
+      "category": "mineral", "rarity": "rare", "instabilityRating": 3, "baseValue": 220, "currency": "aUEC",
+      "locationIds": ["loc-hurston","loc-ita","loc-wala","loc-microtech"],
+      "miningMethodIds": ["mm-fps","mm-roc","mm-ship"],
+      "vendorIds": [],
+      "tags": ["rare","manufacturing","microtech","hurston"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "res-laranite", "slug": "laranite", "name": "Laranite", "description": "A dense metallic ore with energy-conducting properties. Prized for electronic components.",
+      "category": "mineral", "rarity": "rare", "instabilityRating": 2, "baseValue": 198, "currency": "aUEC",
+      "locationIds": ["loc-arial","loc-ita","loc-microtech"],
+      "miningMethodIds": ["mm-fps","mm-roc","mm-ship"],
+      "vendorIds": [],
+      "tags": ["rare","electronic","microtech","energy"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "res-titanium", "slug": "titanium", "name": "Titanium", "description": "A common structural metal found throughout the Stanton system. Used in basic manufacturing.",
+      "category": "mineral", "rarity": "common", "instabilityRating": 0, "baseValue": 25, "currency": "aUEC",
+      "locationIds": ["loc-hurston","loc-aberdeen","loc-arial","loc-daymar","loc-yela","loc-cellin","loc-crusader","loc-arccorp","loc-microtech"],
+      "miningMethodIds": ["mm-fps","mm-roc","mm-ship"],
+      "vendorIds": [],
+      "tags": ["common","structural","basic","widespread"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "res-tungsten", "slug": "tungsten", "name": "Tungsten", "description": "A heavy, high-melting-point metal found in industrial zones. Used for armor and weapon components.",
+      "category": "mineral", "rarity": "uncommon", "instabilityRating": 0, "baseValue": 65, "currency": "aUEC",
+      "locationIds": ["loc-hurston","loc-cellin","loc-arccorp","loc-microtech"],
+      "miningMethodIds": ["mm-roc","mm-ship"],
+      "vendorIds": [],
+      "tags": ["uncommon","industrial","armor","weapons"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "res-diamond", "slug": "diamond", "name": "Diamond", "description": "A rare precious mineral found in Yela's cave systems. High market value.",
+      "category": "mineral", "rarity": "rare", "instabilityRating": 0, "baseValue": 175, "currency": "aUEC",
+      "locationIds": ["loc-yela"],
+      "miningMethodIds": ["mm-fps"],
+      "vendorIds": [],
+      "tags": ["rare","precious","yela","cave","fps mining"], "verificationStatus": "verified", "sourceNotes": "Found in Yela cave systems"
+    }
+  ],
+  "miningMethods": [
+    {
+      "id": "mm-fps", "slug": "fps-mining", "name": "FPS Mining", "description": "Hand-held mining using the Pyro RYT Multi-Tool with a mining attachment. Mine smaller deposits in caves and on foot.",
+      "category": "fps",
+      "requiredTools": ["tool-multitool-mining"],
+      "resourceIds": ["res-hadanite","res-dolivine","res-agricium","res-laranite","res-titanium","res-diamond"],
+      "tags": ["fps","hand mining","cave","multitool","on foot"], "verificationStatus": "verified",
+      "sourceNotes": "Requires Multitool + OreBit mining attachment or equivalent"
+    },
+    {
+      "id": "mm-roc", "slug": "roc-mining", "name": "ROC Mining", "description": "Use the MISC ROC ground vehicle to mine surface deposits. Good for Quantanium and medium-value ores.",
+      "category": "roc",
+      "requiredTools": ["tool-roc"],
+      "resourceIds": ["res-quantanium","res-dolivine","res-agricium","res-laranite","res-titanium"],
+      "tags": ["roc","ground vehicle","surface","daymar"], "verificationStatus": "verified",
+      "sourceNotes": "ROC vehicle required. Can be stored in ship cargo hold."
+    },
+    {
+      "id": "mm-ship", "slug": "ship-mining", "name": "Ship Mining", "description": "Use dedicated mining ships like the Prospector or MOLE to mine large asteroids and surface deposits from space.",
+      "category": "ship",
+      "requiredTools": ["tool-prospector","tool-mole"],
+      "resourceIds": ["res-quantanium","res-agricium","res-laranite","res-titanium","res-tungsten"],
+      "tags": ["ship","space","asteroid","prospector","mole","large scale"], "verificationStatus": "verified",
+      "sourceNotes": "Prospector for solo. MOLE for crew mining."
+    }
+  ],
+  "tools": [
+    {
+      "id": "tool-multitool-mining", "slug": "multitool-mining", "name": "Pyro RYT Multi-Tool (Mining Attachment)",
+      "description": "The standard FPS mining setup. Equip the OreBit Mining Attachment on the Multi-Tool to mine small deposits by hand.",
+      "category": "fps", "manufacturer": "Pyro RYT",
+      "buyPrice": 350, "rentPrice": null,
+      "vendorIds": ["v-centermass","v-cubby-blast"],
+      "tags": ["fps","multitool","orebit","hand mining"], "verificationStatus": "verified", "sourceNotes": "Sold at most shops. OreBit attachment sold separately."
+    },
+    {
+      "id": "tool-roc", "slug": "roc", "name": "MISC ROC",
+      "description": "A compact ground vehicle specifically designed for surface mining. Fits in most medium-large ship cargo bays.",
+      "category": "vehicle", "manufacturer": "MISC",
+      "buyPrice": 172000, "rentPrice": null,
+      "vendorIds": ["v-crusader-ind","v-skutters"],
+      "tags": ["roc","vehicle","ground","surface mining","misc"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "tool-prospector", "slug": "prospector", "name": "MISC Prospector",
+      "description": "Solo mining ship with two mining hardpoints. The go-to ship for solo miners.",
+      "category": "ship", "manufacturer": "MISC",
+      "buyPrice": 2061900, "rentPrice": null,
+      "vendorIds": ["v-crusader-ind","v-skutters"],
+      "tags": ["prospector","ship","solo mining","misc"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "tool-mole", "slug": "mole", "name": "Argo MOLE",
+      "description": "Multi-Operator Laser Extractor. Crew mining ship with three turret-mounted mining lasers.",
+      "category": "ship", "manufacturer": "Argo Astronautics",
+      "buyPrice": 5130000, "rentPrice": null,
+      "vendorIds": ["v-skutters","v-crusader-ind"],
+      "tags": ["mole","ship","crew mining","argo","large scale"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "veh-roc", "slug": "roc-vehicle", "name": "MISC ROC",
+      "description": "Compact ground vehicle for surface mining. Deployable from ship cargo bays.",
+      "category": "ground", "manufacturer": "MISC",
+      "buyPrice": 172000, "rentPrice": null,
+      "vendorIds": ["v-crusader-ind"],
+      "tags": ["roc","ground","mining","misc"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "weapons": [
+    {
+      "id": "wpn-s38", "slug": "s38", "name": "Klaus & Werner S38",
+      "description": "A reliable semi-automatic pistol favored by security forces throughout the Stanton system. Accurate at mid-range.",
+      "category": "pistol", "manufacturer": "Klaus & Werner",
+      "damage": 23, "fireRate": 300, "ammoType": "9mm",
+      "attachmentSlots": 2, "buyPrice": 650,
+      "vendorIds": ["v-centermass","v-cubby-blast","v-garrity"],
+      "lootSourceIds": ["ls-security-npc"],
+      "tags": ["pistol","semi-auto","security","common"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "wpn-p4ar", "slug": "p4ar", "name": "Behring P4-AR",
+      "description": "A standard assault rifle issued widely. Burst and semi-auto modes. Great all-rounder.",
+      "category": "rifle", "manufacturer": "Behring",
+      "damage": 35, "fireRate": 600, "ammoType": "5.56mm",
+      "attachmentSlots": 4, "buyPrice": 1800,
+      "vendorIds": ["v-centermass","v-cubby-blast","v-garrity","v-tammany-sons"],
+      "lootSourceIds": ["ls-security-npc","ls-outpost-crate"],
+      "tags": ["rifle","assault","behring","all-rounder"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "wpn-lh86", "slug": "lh86", "name": "Kastak Arms LH86",
+      "description": "Compact semi-automatic pistol ideal for close quarters. Popular with pilots.",
+      "category": "pistol", "manufacturer": "Kastak Arms",
+      "damage": 19, "fireRate": 350, "ammoType": "9mm",
+      "attachmentSlots": 1, "buyPrice": 480,
+      "vendorIds": ["v-centermass","v-cubby-blast"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["pistol","compact","kastak","pilot friendly"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "wpn-ful", "slug": "ful", "name": "Gemini F55",
+      "description": "A heavy assault rifle with high damage output. Effective against armored targets.",
+      "category": "rifle", "manufacturer": "Gemini",
+      "damage": 48, "fireRate": 480, "ammoType": "7.62mm",
+      "attachmentSlots": 4, "buyPrice": 3200,
+      "vendorIds": ["v-garrity","v-centermass"],
+      "lootSourceIds": ["ls-elite-npc"],
+      "tags": ["rifle","heavy","anti-armor","gemini"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "wpn-mp5k", "slug": "animus", "name": "Kastak Arms Animus",
+      "description": "A compact submachine gun. Excellent close-range suppressor option.",
+      "category": "smg", "manufacturer": "Kastak Arms",
+      "damage": 18, "fireRate": 800, "ammoType": "9mm",
+      "attachmentSlots": 3, "buyPrice": 1100,
+      "vendorIds": ["v-centermass","v-cubby-blast"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["smg","compact","suppressor","kastak"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "wpn-ksg", "slug": "ksg", "name": "Broadsword Ballista",
+      "description": "Pump-action shotgun. Devastating at close range, lethal against lightly armored opponents.",
+      "category": "shotgun", "manufacturer": "Broadsword",
+      "damage": 90, "fireRate": 60, "ammoType": "12 gauge",
+      "attachmentSlots": 2, "buyPrice": 2400,
+      "vendorIds": ["v-garrity","v-tammany-sons"],
+      "lootSourceIds": ["ls-security-npc"],
+      "tags": ["shotgun","pump-action","close range","broadsword"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "wpn-sr1", "slug": "sr1", "name": "Behring SR1",
+      "description": "A precision sniper rifle for long-range engagements. Bolt-action with a 10x scope.",
+      "category": "sniper", "manufacturer": "Behring",
+      "damage": 145, "fireRate": 30, "ammoType": ".338 Lapua",
+      "attachmentSlots": 3, "buyPrice": 4200,
+      "vendorIds": ["v-garrity","v-centermass"],
+      "lootSourceIds": ["ls-elite-npc"],
+      "tags": ["sniper","long range","bolt action","behring"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "armor": [
+    {
+      "id": "arm-light-civ-helmet", "slug": "light-civ-helmet", "name": "Light Civilian Helmet",
+      "description": "Basic civilian helmet offering light protection against environmental hazards.",
+      "category": "helmet", "manufacturer": "Cabrio Defense",
+      "armorRating": 15, "temperatureRating": "moderate",
+      "buyPrice": 350,
+      "vendorIds": ["v-centermass","v-cubby-blast"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["helmet","light","civilian","basic"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-medium-civ-torso", "slug": "medium-civ-torso", "name": "Medium Civilian Torso",
+      "description": "Standard torso armor for civilian use. Balances protection and mobility.",
+      "category": "torso", "manufacturer": "Cabrio Defense",
+      "armorRating": 30, "temperatureRating": "moderate",
+      "buyPrice": 800,
+      "vendorIds": ["v-centermass","v-cubby-blast"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["torso","medium","civilian"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-rfo-helmet", "slug": "rfo-helmet", "name": "RFO Helmet Mk1",
+      "description": "Military-grade helmet favored by Hurston security forces. Heavy protection.",
+      "category": "helmet", "manufacturer": "Hurston Dynamics",
+      "armorRating": 55, "temperatureRating": "high",
+      "buyPrice": 1800,
+      "vendorIds": ["v-tammany-sons"],
+      "lootSourceIds": ["ls-security-npc","ls-elite-npc"],
+      "tags": ["helmet","heavy","military","hurston"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-rfo-torso", "slug": "rfo-torso", "name": "RFO Torso Mk1",
+      "description": "Heavy military torso armor. High ballistic and energy resistance.",
+      "category": "torso", "manufacturer": "Hurston Dynamics",
+      "armorRating": 75, "temperatureRating": "high",
+      "buyPrice": 3200,
+      "vendorIds": ["v-tammany-sons","v-garrity"],
+      "lootSourceIds": ["ls-security-npc","ls-elite-npc"],
+      "tags": ["torso","heavy","military","hurston"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-novikov-set", "slug": "novikov-set", "name": "Novikov Light Armor Set",
+      "description": "Complete light armor set for agile combatants. Good for stealth operations.",
+      "category": "set", "manufacturer": "Nostromo Defense",
+      "armorRating": 35, "temperatureRating": "moderate",
+      "buyPrice": 4500,
+      "vendorIds": ["v-cubby-blast","v-vantage-customs"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["set","light","stealth","agile","nostromo"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-calva-undersuit", "slug": "calva-undersuit", "name": "Calva Undersuit",
+      "description": "Environmental undersuit providing thermal regulation. Worn under all armor.",
+      "category": "undersuit", "manufacturer": "RSI",
+      "armorRating": 5, "temperatureRating": "all",
+      "buyPrice": 220,
+      "vendorIds": ["v-centermass","v-vantage-customs","v-microtech-store"],
+      "lootSourceIds": [],
+      "tags": ["undersuit","thermal","rsi","base layer"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-medium-arms", "slug": "medium-arms", "name": "Medium Combat Arm Guards",
+      "description": "Reinforced arm protection for frontline combat. Standard issue.",
+      "category": "arms", "manufacturer": "Cabrio Defense",
+      "armorRating": 28, "temperatureRating": "moderate",
+      "buyPrice": 600,
+      "vendorIds": ["v-centermass","v-cubby-blast","v-garrity"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["arms","medium","combat","cabrio"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "arm-medium-legs", "slug": "medium-legs", "name": "Medium Combat Leg Guards",
+      "description": "Reinforced leg protection. Pairs with Medium Combat Arm Guards.",
+      "category": "legs", "manufacturer": "Cabrio Defense",
+      "armorRating": 28, "temperatureRating": "moderate",
+      "buyPrice": 700,
+      "vendorIds": ["v-centermass","v-cubby-blast","v-garrity"],
+      "lootSourceIds": ["ls-outpost-crate"],
+      "tags": ["legs","medium","combat","cabrio"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "vendors": [
+    {
+      "id": "v-centermass", "slug": "centermass", "name": "CenterMass",
+      "description": "A well-stocked weapons and armor shop chain found across multiple Stanton locations.",
+      "category": "weapons",
+      "locationId": "loc-lorville",
+      "inventory": ["wpn-s38","wpn-p4ar","wpn-lh86","wpn-ful","wpn-mp5k","wpn-sr1","arm-light-civ-helmet","arm-medium-civ-torso","arm-medium-arms","arm-medium-legs","arm-calva-undersuit"],
+      "tags": ["weapons","armor","centermass","multi-location"], "verificationStatus": "verified", "sourceNotes": "Also in Area18, Everus Harbor, Port Tressler, New Babbage"
+    },
+    {
+      "id": "v-conscientious", "slug": "conscientious-objects", "name": "Conscientious Objects",
+      "description": "Weapons shop in Lorville focused on legal civilian and security weapons.",
+      "category": "weapons",
+      "locationId": "loc-lorville",
+      "inventory": ["wpn-p4ar","wpn-s38"],
+      "tags": ["weapons","lorville","hurston","civilian"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "v-tammany-sons", "slug": "tammany-sons", "name": "Tammany and Sons",
+      "description": "Armor and weapons vendor in Lorville with Hurston Dynamics branded equipment.",
+      "category": "armor",
+      "locationId": "loc-lorville",
+      "inventory": ["wpn-p4ar","wpn-ksg","arm-rfo-helmet","arm-rfo-torso"],
+      "tags": ["armor","weapons","lorville","hurston"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "v-garrity", "slug": "garrity-defense", "name": "Garrity Defense",
+      "description": "Defense contractor selling heavy weapons and armor. Found in Area18 and orbital stations.",
+      "category": "weapons",
+      "locationId": "loc-area18",
+      "inventory": ["wpn-ful","wpn-ksg","wpn-sr1","wpn-p4ar","arm-rfo-torso","arm-medium-arms","arm-medium-legs"],
+      "tags": ["weapons","armor","area18","heavy","garrity"], "verificationStatus": "verified", "sourceNotes": "Also at Everus Harbor and Port Tressler"
+    },
+    {
+      "id": "v-cubby-blast", "slug": "cubby-blast", "name": "Cubby Blast",
+      "description": "Popular gun shop in Area18 with a wide selection of weapons and basic armor.",
+      "category": "weapons",
+      "locationId": "loc-area18",
+      "inventory": ["wpn-s38","wpn-p4ar","wpn-lh86","wpn-mp5k","arm-light-civ-helmet","arm-medium-civ-torso","arm-novikov-set","arm-medium-arms","arm-medium-legs","tool-multitool-mining"],
+      "tags": ["weapons","area18","arccorp","cubby blast"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "v-vantage-customs", "slug": "vantage-customs", "name": "Vantage Customs",
+      "description": "Armor customization and sales shop. Found in Area18 and New Babbage.",
+      "category": "armor",
+      "locationId": "loc-area18",
+      "inventory": ["arm-novikov-set","arm-calva-undersuit"],
+      "tags": ["armor","customization","area18","new babbage"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "v-crusader-ind", "slug": "crusader-industries", "name": "Crusader Industries Shop",
+      "description": "Crusader Industries storefront in Orison selling their vehicles and ship components.",
+      "category": "equipment",
+      "locationId": "loc-orison",
+      "inventory": ["tool-roc","tool-prospector","tool-mole"],
+      "tags": ["ships","vehicles","orison","crusader industries"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "v-skutters", "slug": "skutters", "name": "Skutters",
+      "description": "Ship parts and vehicles dealer. Part of the Orison platform shops.",
+      "category": "equipment",
+      "locationId": "loc-orison",
+      "inventory": ["tool-roc","tool-prospector","tool-mole"],
+      "tags": ["ships","vehicles","orison"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "v-microtech-store", "slug": "microtech-store", "name": "microTech Store",
+      "description": "Official microTech merchandise and equipment store in New Babbage.",
+      "category": "equipment",
+      "locationId": "loc-new-babbage",
+      "inventory": ["arm-calva-undersuit"],
+      "tags": ["microtech","new babbage","equipment"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "lootSources": [
+    {
+      "id": "ls-security-npc", "slug": "security-npc", "name": "Security NPC",
+      "description": "Standard security NPCs found guarding outposts and restricted areas. Drop common weapons and armor.",
+      "category": "npc",
+      "locationIds": ["loc-hurston","loc-aberdeen","loc-daymar","loc-arccorp"],
+      "dropTable": ["wpn-s38","wpn-p4ar","wpn-ksg","arm-light-civ-helmet","arm-rfo-helmet","arm-rfo-torso"],
+      "tags": ["npc","security","common loot"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "ls-outpost-crate", "slug": "outpost-crate", "name": "Outpost Storage Crate",
+      "description": "Loot crates found in abandoned and active outposts throughout the system.",
+      "category": "crate",
+      "locationIds": ["loc-daymar","loc-aberdeen","loc-yela","loc-wala"],
+      "dropTable": ["wpn-p4ar","wpn-lh86","wpn-mp5k","arm-light-civ-helmet","arm-medium-civ-torso","arm-novikov-set","arm-medium-arms","arm-medium-legs"],
+      "tags": ["crate","outpost","loot","common"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "ls-elite-npc", "slug": "elite-npc", "name": "Elite/Named NPC",
+      "description": "High-value NPC targets that drop rare weapons and heavy armor.",
+      "category": "npc",
+      "locationIds": ["loc-hurston","loc-aberdeen","loc-arccorp"],
+      "dropTable": ["wpn-ful","wpn-sr1","arm-rfo-helmet","arm-rfo-torso"],
+      "tags": ["npc","elite","rare loot","named"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "recipes": [
+    {
+      "id": "rec-basic-ammo", "slug": "basic-ammo", "name": "Basic 5.56mm Ammo",
+      "description": "Standard rifle ammunition crafted from Titanium and basic materials.",
+      "category": "ammo",
+      "ingredients": [{"resourceId": "res-titanium", "quantity": 5}],
+      "outputItemId": "ammo-556", "outputQuantity": 50,
+      "craftingTime": 120, "craftingStation": "Personal Inventory (future)",
+      "tags": ["ammo","basic","crafting","future content"], "verificationStatus": "community", "sourceNotes": "Anticipated crafting system"
+    },
+    {
+      "id": "rec-mining-charge", "slug": "mining-charge", "name": "Mining Charge",
+      "description": "Explosive charge used to break open large rock formations during FPS mining.",
+      "category": "tool",
+      "ingredients": [{"resourceId": "res-tungsten", "quantity": 2}, {"resourceId": "res-titanium", "quantity": 3}],
+      "outputItemId": "item-mining-charge", "outputQuantity": 5,
+      "craftingTime": 60, "craftingStation": "Personal Inventory",
+      "tags": ["mining","charge","fps","crafting"], "verificationStatus": "community", "sourceNotes": "Future crafting content"
+    }
+  ],
+  "blueprints": [
+    {
+      "id": "bp-basic-ammo", "slug": "bp-basic-ammo", "name": "Basic Ammo Blueprint",
+      "description": "Blueprint for crafting standard 5.56mm ammunition.",
+      "category": "ammo", "recipeId": "rec-basic-ammo",
+      "vendorIds": ["v-centermass"],
+      "buyPrice": 500,
+      "tags": ["blueprint","ammo","crafting"], "verificationStatus": "community", "sourceNotes": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-weapons", "slug": "weapons", "name": "Weapons", "description": "All handheld weapons in the Stanton system.",
+      "category": "weapons", "itemCount": 7,
+      "tags": ["weapons"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "cat-armor", "slug": "armor", "name": "Armor", "description": "Body armor and protective gear.",
+      "category": "armor", "itemCount": 8,
+      "tags": ["armor"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "cat-resources", "slug": "resources", "name": "Resources", "description": "Mineable and harvestable resources.",
+      "category": "resources", "itemCount": 8,
+      "tags": ["resources"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "cat-mining", "slug": "mining", "name": "Mining", "description": "Mining methods, tools, and vehicles.",
+      "category": "mining", "itemCount": 4,
+      "tags": ["mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "cat-locations", "slug": "locations", "name": "Locations", "description": "Planets, moons, stations, and cities.",
+      "category": "locations", "itemCount": 21,
+      "tags": ["locations"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ],
+  "manufacturers": [
+    {
+      "id": "mfr-behring", "slug": "behring", "name": "Behring Applied Technology", "description": "Major arms manufacturer producing reliable assault rifles and snipers.",
+      "category": "weapons", "specialization": "Rifles and precision weapons",
+      "tags": ["behring","weapons","rifles"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "mfr-kastak", "slug": "kastak-arms", "name": "Kastak Arms", "description": "Produces compact and reliable firearms favored by pilots and smugglers.",
+      "category": "weapons", "specialization": "Compact firearms, SMGs, pistols",
+      "tags": ["kastak","compact","pistols"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "mfr-misc", "slug": "misc", "name": "MISC (Musashi Industrial)", "description": "Ship and vehicle manufacturer. Produces the Prospector and ROC.",
+      "category": "ships", "specialization": "Mining ships and vehicles",
+      "tags": ["misc","ships","mining"], "verificationStatus": "verified", "sourceNotes": ""
+    },
+    {
+      "id": "mfr-hurston-dynamics", "slug": "hurston-dynamics", "name": "Hurston Dynamics", "description": "Corporate megacorp producing industrial and military equipment.",
+      "category": "industrial", "specialization": "Industrial weapons and heavy armor",
+      "tags": ["hurston","industrial","corporate"], "verificationStatus": "verified", "sourceNotes": ""
+    }
+  ]
+}
