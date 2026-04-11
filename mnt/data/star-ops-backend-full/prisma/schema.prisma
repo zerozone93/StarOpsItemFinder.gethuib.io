@@ -1,0 +1,580 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum VerificationStatus {
+  official_verified
+  community_verified
+  multi_source_match
+  partial
+  conflicting
+  outdated
+  unknown
+}
+
+enum EntityType {
+  resource
+  location
+  mining_method
+  tool
+  vehicle
+  vendor
+  loot_source
+  weapon
+  armor
+  recipe
+  blueprint
+  manufacturer
+  system
+}
+
+enum LocationType {
+  system
+  planet
+  moon
+  city
+  station
+  cave
+  outpost
+  bunker
+  poi
+  region
+  other
+}
+
+enum ItemSlot {
+  head
+  torso
+  arms
+  legs
+  undersuit
+  backpack
+  full_set
+  utility
+  other
+}
+
+enum ObtainMethod {
+  buy
+  loot
+  craft
+  mission
+  reputation
+  mixed
+  unknown
+}
+
+model PatchVersion {
+  id          String   @id @default(cuid())
+  version     String   @unique
+  releaseDate DateTime?
+  notes       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  resources    Resource[]
+  locations    Location[]
+  miningMethods MiningMethod[]
+  tools        Tool[]
+  vehicles     Vehicle[]
+  vendors      Vendor[]
+  lootSources  LootSource[]
+  weapons      Weapon[]
+  armor        Armor[]
+  recipes      Recipe[]
+  blueprints   Blueprint[]
+}
+
+model SourceReference {
+  id          String   @id @default(cuid())
+  label       String
+  url         String?
+  sourceType  String?
+  notes       String?
+  lastChecked DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  resourceLinks     ResourceSourceReference[]
+  locationLinks     LocationSourceReference[]
+  miningMethodLinks MiningMethodSourceReference[]
+  toolLinks         ToolSourceReference[]
+  vehicleLinks      VehicleSourceReference[]
+  vendorLinks       VendorSourceReference[]
+  lootSourceLinks   LootSourceSourceReference[]
+  weaponLinks       WeaponSourceReference[]
+  armorLinks        ArmorSourceReference[]
+  recipeLinks       RecipeSourceReference[]
+  blueprintLinks    BlueprintSourceReference[]
+}
+
+model Tag {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  name      String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  resources     ResourceTag[]
+  locations     LocationTag[]
+  miningMethods MiningMethodTag[]
+  tools         ToolTag[]
+  vehicles      VehicleTag[]
+  vendors       VendorTag[]
+  lootSources   LootSourceTag[]
+  weapons       WeaponTag[]
+  armor         ArmorTag[]
+  recipes       RecipeTag[]
+  blueprints    BlueprintTag[]
+}
+
+model System {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  locations Location[]
+}
+
+model Manufacturer {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String   @unique
+  description String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  weapons  Weapon[]
+  armor    Armor[]
+  tools    Tool[]
+  vehicles Vehicle[]
+}
+
+model Location {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  type               LocationType       @default(other)
+  riskLevel          String?
+  parentLocationId   String?
+  systemId           String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  parentLocation Location?   @relation("LocationToLocation", fields: [parentLocationId], references: [id])
+  childLocations Location[]  @relation("LocationToLocation")
+  system         System?     @relation(fields: [systemId], references: [id])
+  patchVersion   PatchVersion? @relation(fields: [patchVersionId], references: [id])
+
+  resourceLocations ResourceLocation[]
+  vendorLocations   VendorLocation[]
+  lootLocationLinks LootSourceLocation[]
+  tags              LocationTag[]
+  sources           LocationSourceReference[]
+}
+
+model Resource {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  category           String?
+  miningTier         String?
+  processingNotes    String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  patchVersion   PatchVersion?         @relation(fields: [patchVersionId], references: [id])
+  locations      ResourceLocation[]
+  miningMethods  ResourceMiningMethod[]
+  tools          ResourceTool[]
+  vehicles       ResourceVehicle[]
+  recipeInputs   RecipeIngredient[]
+  tags           ResourceTag[]
+  sources        ResourceSourceReference[]
+}
+
+model MiningMethod {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  category           String?
+  requirements       String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  patchVersion PatchVersion?         @relation(fields: [patchVersionId], references: [id])
+  resources    ResourceMiningMethod[]
+  tools        MiningMethodTool[]
+  vehicles     MiningMethodVehicle[]
+  tags         MiningMethodTag[]
+  sources      MiningMethodSourceReference[]
+}
+
+model Tool {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  category           String?
+  manufacturerId     String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  manufacturer Manufacturer? @relation(fields: [manufacturerId], references: [id])
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  miningMethods MiningMethodTool[]
+  resources     ResourceTool[]
+  tags          ToolTag[]
+  sources       ToolSourceReference[]
+}
+
+model Vehicle {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  category           String?
+  manufacturerId     String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  manufacturer Manufacturer? @relation(fields: [manufacturerId], references: [id])
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  miningMethods MiningMethodVehicle[]
+  resources     ResourceVehicle[]
+  tags          VehicleTag[]
+  sources       VehicleSourceReference[]
+}
+
+model Vendor {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  locations    VendorLocation[]
+  weaponLinks  VendorWeapon[]
+  armorLinks   VendorArmor[]
+  tags         VendorTag[]
+  sources      VendorSourceReference[]
+}
+
+model LootSource {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  obtainMethod       ObtainMethod       @default(unknown)
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  locations    LootSourceLocation[]
+  weapons      WeaponLootSource[]
+  armor        ArmorLootSource[]
+  tags         LootSourceTag[]
+  sources      LootSourceSourceReference[]
+}
+
+model Weapon {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  category           String?
+  obtainMethod       ObtainMethod       @default(unknown)
+  manufacturerId     String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  manufacturer Manufacturer? @relation(fields: [manufacturerId], references: [id])
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  vendors      VendorWeapon[]
+  lootSources  WeaponLootSource[]
+  recipe       Recipe?       @relation(fields: [recipeId], references: [id])
+  recipeId     String?       @unique
+  tags         WeaponTag[]
+  sources      WeaponSourceReference[]
+}
+
+model Armor {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  category           String?
+  slot               ItemSlot           @default(other)
+  obtainMethod       ObtainMethod       @default(unknown)
+  manufacturerId     String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  manufacturer Manufacturer? @relation(fields: [manufacturerId], references: [id])
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  vendors      VendorArmor[]
+  lootSources  ArmorLootSource[]
+  recipe       Recipe?       @relation(fields: [recipeId], references: [id])
+  recipeId     String?       @unique
+  tags         ArmorTag[]
+  sources      ArmorSourceReference[]
+}
+
+model Blueprint {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  qualityNotes       String?
+  patchVersionId     String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  recipes      Recipe[]
+  tags         BlueprintTag[]
+  sources      BlueprintSourceReference[]
+}
+
+model Recipe {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String?
+  fabricator         String?
+  outputType         EntityType?
+  patchVersionId     String?
+  blueprintId        String?
+  verificationStatus VerificationStatus @default(unknown)
+  confidenceScore    Float              @default(0.5)
+  sourceNotes        String?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+
+  patchVersion PatchVersion? @relation(fields: [patchVersionId], references: [id])
+  blueprint    Blueprint?    @relation(fields: [blueprintId], references: [id])
+  ingredients  RecipeIngredient[]
+  weapon       Weapon?
+  armor        Armor?
+  tags         RecipeTag[]
+  sources      RecipeSourceReference[]
+}
+
+model AdminUser {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  isActive     Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model ResourceLocation {
+  resourceId String
+  locationId String
+  notes      String?
+  resource   Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  location   Location @relation(fields: [locationId], references: [id], onDelete: Cascade)
+
+  @@id([resourceId, locationId])
+}
+
+model ResourceMiningMethod {
+  resourceId     String
+  miningMethodId String
+  notes          String?
+  resource       Resource     @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  miningMethod   MiningMethod @relation(fields: [miningMethodId], references: [id], onDelete: Cascade)
+
+  @@id([resourceId, miningMethodId])
+}
+
+model ResourceTool {
+  resourceId String
+  toolId     String
+  notes      String?
+  resource   Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  tool       Tool     @relation(fields: [toolId], references: [id], onDelete: Cascade)
+
+  @@id([resourceId, toolId])
+}
+
+model ResourceVehicle {
+  resourceId String
+  vehicleId  String
+  notes      String?
+  resource   Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+  vehicle    Vehicle  @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+
+  @@id([resourceId, vehicleId])
+}
+
+model MiningMethodTool {
+  miningMethodId String
+  toolId         String
+  notes          String?
+  miningMethod   MiningMethod @relation(fields: [miningMethodId], references: [id], onDelete: Cascade)
+  tool           Tool         @relation(fields: [toolId], references: [id], onDelete: Cascade)
+
+  @@id([miningMethodId, toolId])
+}
+
+model MiningMethodVehicle {
+  miningMethodId String
+  vehicleId      String
+  notes          String?
+  miningMethod   MiningMethod @relation(fields: [miningMethodId], references: [id], onDelete: Cascade)
+  vehicle        Vehicle      @relation(fields: [vehicleId], references: [id], onDelete: Cascade)
+
+  @@id([miningMethodId, vehicleId])
+}
+
+model VendorLocation {
+  vendorId   String
+  locationId String
+  notes      String?
+  vendor     Vendor   @relation(fields: [vendorId], references: [id], onDelete: Cascade)
+  location   Location @relation(fields: [locationId], references: [id], onDelete: Cascade)
+
+  @@id([vendorId, locationId])
+}
+
+model VendorWeapon {
+  vendorId String
+  weaponId String
+  notes    String?
+  vendor   Vendor @relation(fields: [vendorId], references: [id], onDelete: Cascade)
+  weapon   Weapon @relation(fields: [weaponId], references: [id], onDelete: Cascade)
+
+  @@id([vendorId, weaponId])
+}
+
+model VendorArmor {
+  vendorId String
+  armorId  String
+  notes    String?
+  vendor   Vendor @relation(fields: [vendorId], references: [id], onDelete: Cascade)
+  armor    Armor  @relation(fields: [armorId], references: [id], onDelete: Cascade)
+
+  @@id([vendorId, armorId])
+}
+
+model LootSourceLocation {
+  lootSourceId String
+  locationId   String
+  notes        String?
+  lootSource   LootSource @relation(fields: [lootSourceId], references: [id], onDelete: Cascade)
+  location     Location   @relation(fields: [locationId], references: [id], onDelete: Cascade)
+
+  @@id([lootSourceId, locationId])
+}
+
+model WeaponLootSource {
+  weaponId     String
+  lootSourceId String
+  notes        String?
+  weapon       Weapon     @relation(fields: [weaponId], references: [id], onDelete: Cascade)
+  lootSource   LootSource @relation(fields: [lootSourceId], references: [id], onDelete: Cascade)
+
+  @@id([weaponId, lootSourceId])
+}
+
+model ArmorLootSource {
+  armorId      String
+  lootSourceId String
+  notes        String?
+  armor        Armor      @relation(fields: [armorId], references: [id], onDelete: Cascade)
+  lootSource   LootSource @relation(fields: [lootSourceId], references: [id], onDelete: Cascade)
+
+  @@id([armorId, lootSourceId])
+}
+
+model RecipeIngredient {
+  recipeId    String
+  resourceId  String
+  quantity    Int
+  notes       String?
+  recipe      Recipe   @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+  resource    Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+
+  @@id([recipeId, resourceId])
+}
+
+model ResourceTag { resourceId String; tagId String; resource Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([resourceId, tagId]) }
+model LocationTag { locationId String; tagId String; location Location @relation(fields: [locationId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([locationId, tagId]) }
+model MiningMethodTag { miningMethodId String; tagId String; miningMethod MiningMethod @relation(fields: [miningMethodId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([miningMethodId, tagId]) }
+model ToolTag { toolId String; tagId String; tool Tool @relation(fields: [toolId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([toolId, tagId]) }
+model VehicleTag { vehicleId String; tagId String; vehicle Vehicle @relation(fields: [vehicleId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([vehicleId, tagId]) }
+model VendorTag { vendorId String; tagId String; vendor Vendor @relation(fields: [vendorId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([vendorId, tagId]) }
+model LootSourceTag { lootSourceId String; tagId String; lootSource LootSource @relation(fields: [lootSourceId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([lootSourceId, tagId]) }
+model WeaponTag { weaponId String; tagId String; weapon Weapon @relation(fields: [weaponId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([weaponId, tagId]) }
+model ArmorTag { armorId String; tagId String; armor Armor @relation(fields: [armorId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([armorId, tagId]) }
+model RecipeTag { recipeId String; tagId String; recipe Recipe @relation(fields: [recipeId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([recipeId, tagId]) }
+model BlueprintTag { blueprintId String; tagId String; blueprint Blueprint @relation(fields: [blueprintId], references: [id], onDelete: Cascade); tag Tag @relation(fields: [tagId], references: [id], onDelete: Cascade); @@id([blueprintId, tagId]) }
+
+model ResourceSourceReference { resourceId String; sourceReferenceId String; resource Resource @relation(fields: [resourceId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([resourceId, sourceReferenceId]) }
+model LocationSourceReference { locationId String; sourceReferenceId String; location Location @relation(fields: [locationId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([locationId, sourceReferenceId]) }
+model MiningMethodSourceReference { miningMethodId String; sourceReferenceId String; miningMethod MiningMethod @relation(fields: [miningMethodId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([miningMethodId, sourceReferenceId]) }
+model ToolSourceReference { toolId String; sourceReferenceId String; tool Tool @relation(fields: [toolId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([toolId, sourceReferenceId]) }
+model VehicleSourceReference { vehicleId String; sourceReferenceId String; vehicle Vehicle @relation(fields: [vehicleId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([vehicleId, sourceReferenceId]) }
+model VendorSourceReference { vendorId String; sourceReferenceId String; vendor Vendor @relation(fields: [vendorId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([vendorId, sourceReferenceId]) }
+model LootSourceSourceReference { lootSourceId String; sourceReferenceId String; lootSource LootSource @relation(fields: [lootSourceId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([lootSourceId, sourceReferenceId]) }
+model WeaponSourceReference { weaponId String; sourceReferenceId String; weapon Weapon @relation(fields: [weaponId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([weaponId, sourceReferenceId]) }
+model ArmorSourceReference { armorId String; sourceReferenceId String; armor Armor @relation(fields: [armorId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([armorId, sourceReferenceId]) }
+model RecipeSourceReference { recipeId String; sourceReferenceId String; recipe Recipe @relation(fields: [recipeId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([recipeId, sourceReferenceId]) }
+model BlueprintSourceReference { blueprintId String; sourceReferenceId String; blueprint Blueprint @relation(fields: [blueprintId], references: [id], onDelete: Cascade); sourceReference SourceReference @relation(fields: [sourceReferenceId], references: [id], onDelete: Cascade); @@id([blueprintId, sourceReferenceId]) }
