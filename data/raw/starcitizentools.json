@@ -1,0 +1,2995 @@
+{
+  "meta": {
+    "sourceName": "StarCitizen.tools",
+    "sourceKey": "starcitizentools",
+    "priority": 90,
+    "fetchedAt": "2026-04-11T16:26:23.885Z"
+  },
+  "systems": [],
+  "locations": [
+    {
+      "name": "Area18",
+      "slug": "area18",
+      "description": "Area18 is one of the main commercial ports for interplanetary traffic for the surrounding region of ArcCorp. Travelers can find a variety of goods from trusted names as well as local providers, if they're not overwhelmed by the sights and sounds of this landing zone. Security is taken very seriously on the surface, as ArcCorp has enlisted (notorious) private security firm BlacJac Security to maintain the peace. The Observist advises if you have problems, to head to the local UEE Advocacy office instead. Area18 features a number of common stores including CenterMass, Abernathy Interiors, Dumper's Depot, Casaba, et cetera. == Significant Characters == Tecia \"Twitch\" Pacheco is a drug dealer with connections, who resents BlacJac Security. Voiced by Katrina Nare. Lt. Michael Callum of PMC BlacJac Security is the corrupt security rep in charge of Area18 (they are essentially ArcCorp's police)",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "New Babbage",
+      "slug": "new-babbage",
+      "description": "New Babbage is the largest city on planet microTech and a major trading hub, serving as headquarters for software and high-end electronics manufacturer microTech. The landing zone is also a haven for small tech companies, as the cold climate makes for an ideal location to house heat-sensitive computing and manufacturing centers. Large public spaces are enclosed under domes to protect inhabitants against the planet's freezing elements. == Districts == === New Babbage Interstellar Spaceport === New Babbage Interstellar Spaceport sits outside of New Babbage, on the opposite side of the frozen lake. The structure is built into the side of the mountain and supports large volumes of traffic landing and taking off constantly. Next to the spaceport is a set of garages, where you can go to park or retrieve your vehicle if you desire to travel by ground instead of taking the transit system. === Th",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Lorville",
+      "slug": "lorville",
+      "description": "Lorville is one of the many company towns Hurston Dynamics has established for its employees on the company-owned planet Hurston. Lorville is the only important landing zone on the planet. While the city overlooks some of the larger strip-mining operations that are currently underway, it exists in the shadow of Central Tower, the corporate headquarters for Hurston Dynamics. Lorville is surrounded by a wall that dwarfs even decently sized ships. The City is located in the Desert, and is close to the Polluted Coast biome. \"Took some incredible photos of Lorville the other day. I know the pollution there isn't great for you, but if it's magic hour and the wind's blowin' in the right direction, you can get some incredible shots of the skyline.\"NPC conversation == Etymology == After Hurston Dynamics purchased Stanton I, the planet was thoroughly scanned to locate the most resource rich sector",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Seraphim Station",
+      "slug": "seraphim-station",
+      "description": "Seraphim Station is a R&R-owned space station located in the trade lanes above Crusader, offering breathtaking views of the planet below. It is named after Seraphim Systems, a former shuttlecraft manufacturer based in Tram, which was purchased by August Dunlow and then rebranded as Crusader Industries. == Trade data == == Vehicle rental == Players are able to rent a selection of vehicles from the Cargo Center. Available rental ships: == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Everus Harbor",
+      "slug": "everus-harbor",
+      "description": "Everus Harbor is a space station that is in a geostationary orbit around Hurston above the city of Lorville. It serves as the primary trading port for Lorville. It is owned and operated by Hurston Dynamics. Hurston's primary port of call for Lorville for all large-scale incoming and outgoing cargo. Everus Harbor has been outfitted with a handful of amenities for capital ships and travelers looking for a quick stopover before heading down to the planet surface. == Trade data == == Vehicle Rental (Cargo Center) == Everus Harbor features a Travelers Rental terminal within the Cargo Center. The terminal is adjacent to the Cargo Supplies storefront. From this terminal, players are able to rent a selection of ships. Prices are in aUEC. When renting for more than one day, the rate is not flat. The more days you rent, the lower the average cost is per day. The discount follows this pattern: == C",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Baijini Point",
+      "slug": "baijini-point",
+      "description": "Baijini Point is a space station in geostationary orbit around ArcCorp, located above Area18. == In-game description == The primary cargo and transfer point for ArcCorp. Perfect as a waypoint on your down or back from the surface, Baijini Point features plenty of amenities for travelers while also providing a top-tier loading/unloading system for capital ships that are unable to head down to the surface. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Port Tressler",
+      "slug": "port-tressler",
+      "description": "Port Tressler is a space station in geostationary orbit around planet microTech, located above New Babbage. Owned and operated by microTech, it is named after Aleena Tressler, who was a mentor to the company's founder, Magnus Tobin. == In-game description == Located in the trade lane above microTech, Port Tressler is the main transfer hub for New Babbage. Millions of SCU pass through this station everyday between exports from microTech and the other companies on the surface and the resources and trade coming in from the other systems. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Personal Armor, Clothing, Food, and Habs. == Trading == == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "ARC-L1 Wide Forest Station",
+      "slug": "arc-l1-wide-forest-station",
+      "description": "ARC-L1 Wide Forest Station is a Rest Stop owned by Rest & Relax, located in ArcCorp's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of ArcCorp (Stanton III), Rest & Relax's Wide Forest Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "ARC-L2 Lively Pathway Station",
+      "slug": "arc-l2-lively-pathway-station",
+      "description": "ARC-L2 Lively Pathway Station is a Rest & Relax owned Rest Stop located in ArcCorp's L2 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space-weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments. == Visitor information == == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "ARC-L3 Modern Express Station",
+      "slug": "arc-l3-modern-express-station",
+      "description": "ARC-L3 Modern Express Station is a Rest & Relax owned Rest Stop located in ArcCorp's L3 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "ARC-L5 Yellow Core Station",
+      "slug": "arc-l5-yellow-core-station",
+      "description": "ARC-L5 Yellow Core Station is a Rest & Relax owned Rest Stop located in ArcCorp's L5 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space-weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments. == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "CRU-L1 Ambitious Dream Station",
+      "slug": "cru-l1-ambitious-dream-station",
+      "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "CRU-L5 Beautiful Glen Station",
+      "slug": "cru-l5-beautiful-glen-station",
+      "description": "CRU-L5 Beautiful Glen Station is a Rest & Relax owned Rest Stop located in Crusader's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Crusader (Stanton II), Rest & Relax's Beautiful Glen Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading Info == Last updated with info from patch 3.21.1. ==== Black Market ==== ==== Admin ==== == Development == Since Alpha 3.8.0, the quantum travel marker for the space station has been removed. The best way to access it is to fly towards the biggest rock and you will eventually see the station. == Gallery =",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "HUR-L2 Faithful Dream Station",
+      "slug": "hur-l2-faithful-dream-station",
+      "description": "HUR-L2 Faithful Dream Station is a Rest & Relax owned Rest Stop located in Hurston's L2 Lagrangian point. == In-game description == Located at the L2 Lagrange point of Hurston (Stanton I), Rest & Relax's Faithful Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Nearby Mining Resources == The asteroids at HUR-L2 are composed of the following raw elements: == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "HUR-L4 Melodic Fields Station",
+      "slug": "hur-l4-melodic-fields-station",
+      "description": "HUR-L4 Melodic Fields Station is a Rest & Relax owned Rest Stop located in Hurston's L4 Lagrangian point. == In-game description == Located at the L4 Lagrange point of Hurston (Stanton I), Rest & Relax's Melodic Fields Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Nearby Mining Resources == The asteroids at HUR-L4 are composed of the following raw elements: == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "HUR-L5 High Course Station",
+      "slug": "hur-l5-high-course-station",
+      "description": "HUR-L5 High Course Station is a Rest & Relax owned Rest Stop located in Hurston's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Hurston (Stanton I), Rest & Relax's High Course Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Trading == == Nearby Mining Resources == The asteroids at HUR-L5 are composed of the following raw elements: == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "MIC-L3 Endless Odyssey Station",
+      "slug": "mic-l3-endless-odyssey-station",
+      "description": "MIC-L3 Endless Odyssey Station is a Rest & Relax owned Rest Stop located in microTech's L3 Lagrangian point. == In-game description == Located at the L3 Lagrange point of microTech (Stanton IV), Rest & Relax's Endless Odyssey Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "description": "Aberdeen or Stanton 1b is a natural satellite of Hurston. It was named after scientist Aberdeen Hurston, designer of the first Hurston Dynamics antimatter warhead. Aberdeen is notable for being the only moon in the Stanton system to feature once-thriving grasslands and scattered trees. Although some dead and desiccated examples of Aberdeen's former ecosystems remain, nothing now grows in the highly toxic, boiling environment. It is unclear how or when Aberdeen's ecosystem collapsed into its current hellscape, but it is most likely that the moon was used as a testing site for Hurston Dynamics antimatter weapons. If true this would be most ironic, given who the moon was named after. At present, Aberdeen is known primarily for being the location of the Klescher Rehabilitation Facility. == Atmosphere == Aberdeen's atmosphere is comprised primarily of sulfur dioxide and sulfur oxide, giving i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Arial",
+      "slug": "arial",
+      "description": "Arial is a moon of Hurston. This moon was named after the 3rd CEO of Hurston Dynamics, Arial Hurston, who was known for creating the controversial Life/Labor-style employee contract. Prota Harvestables can be found here. == Atmosphere == Arial's atmosphere primarily contains nitrogen, although trace amounts of methane and hydrogen are present as well. It is toxic to humans, and average temperatures are considerably above the boiling point as well; environmental survival equipment is required. Surface conditions on the moon tend to be hazy, and its temperature causes shimmering refraction effects, further reducing visibility. == Locations == === Surface outposts === === Other locations === === Artificial satellites === ==== CommArray ST1-13 ==== == Gallery == == Trivia == While initially named Ariel, this was changed to Arial on the approach to implementation in Alpha 3.3.0, likely to dis",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Daymar",
+      "slug": "daymar",
+      "description": "Daymar or Stanton 2b is a natural satellite of Crusader. It is named after one of the siblings from a tale called A Gift for Baba. Darnell Ajay built the first permanent homestead on Daymar in 2906. == Atmosphere == Daymar has a toxic, non-breathable nitrogen-methane atmosphere with trace amounts of hydrogen. The moon is also subject to extreme temperatures. As such, full environmental protection is an absolute necessity for surface explorers. Dust storms are a frequent occurrence close to the surface, resulting in low-visibility conditions. == Locations == === Surface outposts (with landing services) === === Surface outposts === === Unmarked locations === === Artificial Satellites === ==== Covalex Hub Gundo ==== ==== Comm Array ST2-47 ==== == Gallery == == Trivia == On 2904-03-17, Meiko Norwood collapsed here while loading soil samples into her ship. She passed away later that day due t",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Wala",
+      "slug": "wala",
+      "description": "Wala is a natural satellite that orbits ArcCorp. It has a barren surface, but features outcrops of geode-like minerals. The low density of Wala is particularly susceptible to tidal forces which result in the moon being noticeably prolate. == Atmosphere == While the atmosphere is too thin to be breathable, pressure suits can replenish their oxygen supplies by extracting it from the surrounding environment. == Locations == === Surface Outposts === === Other locations === === Artificial satellites === ==== CommArray ST3-35 ==== == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Lyria",
+      "slug": "lyria",
+      "description": "Lyria is a natural satellite orbiting ArcCorp. This icy moon's surface features dirty ice, active cryogeysers and cryovolcanoes that create a constant cold and humid atmosphere. == Atmosphere == Lyria has a very thin atmosphere (at a surface pressure of about 0.09 atmospheres) comprised mostly of oxygen, with trace amounts of water vapor and anhydrous ammonia. While it is too thin to be breathable, pressure suits can replenish their oxygen supplies by extracting it from the surrounding environment. == Locations == === Surface outposts === === Other locations === === Artificial satellites === ==== CommArray ST3-18 ==== == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Magda",
+      "slug": "magda",
+      "description": "This moon was named after Hurston Dynamics CEO Magda Hurston who made the decision to purchase Stanton I from the UEE. Magda is the mother of current CEO \"Colonel\" Gavin E. Hurston. In recent years, natural formations like Sketto Rock have become popular with visitors. == Atmosphere == Nitrogen is the predominant element found in Magda's atmosphere, with trace amounts of methane, hydrogen, and carbon dioxide rounding off its mix. It is toxic to humans and breathing equipment is required. == Locations == === Surface outposts === === Other locations === === Artificial satellites === ==== CommArray ST1-48 ==== == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Ita",
+      "slug": "ita",
+      "description": "Ita (Stanton 1d) is a natural satellite of Stanton The moon was named after Ita Hurston, who died during the First Tevarin War. == Atmosphere == Ita's atmosphere is almost entirely made of nitrogen, but contains trace amounts of methane and carbon monoxide. Breathing equipment is required for all surface activities. == Locations == === Surface outposts === === Artificial satellites === ==== Comm Array ST1-02 ==== == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "microTech",
+      "slug": "microtech",
+      "description": "microTech may refer to: microTech : Stanton IV — Planet in Stanton system microTech — Company",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Calliope",
+      "slug": "calliope",
+      "description": "Calliope is a moon orbiting microTech. It is named after the ancient Greek muse who inspires eloquence. Beset by high winds and low temperatures, Calliope becomes so cold at night that even exceptionally insulated weather suits can fail. The dark side of this moon is a dangerous one, even to the most experienced adventurer. Low clouds and ground fog regularly reduce surface visibility to a minimum. == Atmosphere == Due to Calliope's extremely low temperatures, environmental survival gear is an absolute requirement for all surface activity. However, pressure suits can easily replenish their air supply from the moon's oxygen-rich atmosphere. == Locations == === Surface outposts === === Other locations === === Artificial satellites === ==== CommArray ST4-31 ==== == Gallery == == Trivia == In Greek mythology, Calliope is the Muse who presides over eloquence and epic poetry; so called from th",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "Ignis",
+      "slug": "ignis",
+      "description": "Ignis is the innermost moon of Pyro V. The now dry moon features deep canyons and remains of riverbeds. Like the other moons of Pyro V are named after fire related words in different languages, \"Ignis\" is the Latin word for \"fire\". == Locations == Ashland Kabir's Post == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.74
+    },
+    {
+      "name": "2930-CRU983",
+      "slug": "2930-cru983",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "78 Leonis (star)",
+      "slug": "78-leonis-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aaron Halo",
+      "slug": "aaron-halo",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aberdeen",
+      "slug": "aberdeen",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Abyss",
+      "slug": "abyss",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Adir",
+      "slug": "adir",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Adira Falls",
+      "slug": "adira-falls",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Administration Office",
+      "slug": "administration-office",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aemilia",
+      "slug": "aemilia",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aero",
+      "slug": "aero",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ail'ka (star)",
+      "slug": "ail-ka-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ail'ka - Kyuk'ya",
+      "slug": "ail-ka-kyuk-ya",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ail'ka - T.āl",
+      "slug": "ail-ka-t-l",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ail'ka - Yā'mon",
+      "slug": "ail-ka-y-mon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ail'ka Belt Alpha",
+      "slug": "ail-ka-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ail'ka Belt Beta",
+      "slug": "ail-ka-belt-beta",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Akiro Cluster",
+      "slug": "akiro-cluster",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ambulance pad",
+      "slug": "ambulance-pad",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Amidon Island",
+      "slug": "amidon-island",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Angeli",
+      "slug": "angeli",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ankorum",
+      "slug": "ankorum",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Anóna",
+      "slug": "an-na",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ARC-L1 Wide Forest Station",
+      "slug": "arc-l1-wide-forest-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ARC-L2 Lively Pathway Station",
+      "slug": "arc-l2-lively-pathway-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ARC-L3 Modern Express Station",
+      "slug": "arc-l3-modern-express-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ARC-L4 Faint Glen Station",
+      "slug": "arc-l4-faint-glen-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ARC-L5 Yellow Core Station",
+      "slug": "arc-l5-yellow-core-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp (planet)",
+      "slug": "arccorp-planet",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp Mining Area 045",
+      "slug": "arccorp-mining-area-045",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp Mining Area 048",
+      "slug": "arccorp-mining-area-048",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp Mining Area 056",
+      "slug": "arccorp-mining-area-056",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp Mining Area 061",
+      "slug": "arccorp-mining-area-061",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp Mining Area 141",
+      "slug": "arccorp-mining-area-141",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ArcCorp Mining Area 157",
+      "slug": "arccorp-mining-area-157",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Archangel Station",
+      "slug": "archangel-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Archibald Station",
+      "slug": "archibald-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Archon Base",
+      "slug": "archon-base",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Area18",
+      "slug": "area18",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aremis",
+      "slug": "aremis",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Arial",
+      "slug": "arial",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ariel",
+      "slug": "ariel",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Armitage (planet)",
+      "slug": "armitage-planet",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ashana",
+      "slug": "ashana",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Ashburn Channel Aid Shelter",
+      "slug": "ashburn-channel-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Asiatica",
+      "slug": "asiatica",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aspire Grand",
+      "slug": "aspire-grand",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aston Ridge Aid Shelter",
+      "slug": "aston-ridge-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Asura",
+      "slug": "asura",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "August Dunlow Spaceport",
+      "slug": "august-dunlow-spaceport",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Aydo",
+      "slug": "aydo",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus - Geddon",
+      "slug": "bacchus-geddon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus A",
+      "slug": "bacchus-a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus B",
+      "slug": "bacchus-b",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus Belt Alpha",
+      "slug": "bacchus-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus Flotilla",
+      "slug": "bacchus-flotilla",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus I",
+      "slug": "bacchus-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus II",
+      "slug": "bacchus-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bacchus III",
+      "slug": "bacchus-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baijini Point",
+      "slug": "baijini-point",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker - Kiel",
+      "slug": "baker-kiel",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker - Osiris",
+      "slug": "baker-osiris",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker - Tayac",
+      "slug": "baker-tayac",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker - Th.us'ūng",
+      "slug": "baker-th-us-ng",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker - Yā'mon",
+      "slug": "baker-y-mon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker A",
+      "slug": "baker-a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker B",
+      "slug": "baker-b",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker I",
+      "slug": "baker-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker II",
+      "slug": "baker-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker III",
+      "slug": "baker-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Baker IV",
+      "slug": "baker-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee (star)",
+      "slug": "banshee-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee - Fora",
+      "slug": "banshee-fora",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee - Garron",
+      "slug": "banshee-garron",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee - Leir",
+      "slug": "banshee-leir",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee - Tamsa",
+      "slug": "banshee-tamsa",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee - Yulin",
+      "slug": "banshee-yulin",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee I",
+      "slug": "banshee-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee II",
+      "slug": "banshee-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Banshee IV",
+      "slug": "banshee-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Barton Flats Aid Shelter",
+      "slug": "barton-flats-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Benny Henge",
+      "slug": "benny-henge",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Benson Mining Outpost",
+      "slug": "benson-mining-outpost",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bethor",
+      "slug": "bethor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bevic Convention Center",
+      "slug": "bevic-convention-center",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bloom",
+      "slug": "bloom",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bombora",
+      "slug": "bombora",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Borea",
+      "slug": "borea",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bountiful Harvest Hydroponics",
+      "slug": "bountiful-harvest-hydroponics",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Branaugh (star)",
+      "slug": "branaugh-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Branaugh - Chronos",
+      "slug": "branaugh-chronos",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Branaugh Belt Alpha",
+      "slug": "branaugh-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Branaugh I",
+      "slug": "branaugh-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Branaugh II",
+      "slug": "branaugh-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Branaugh III",
+      "slug": "branaugh-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen (star)",
+      "slug": "bremen-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen - Kallis",
+      "slug": "bremen-kallis",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen - Nyx",
+      "slug": "bremen-nyx",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen - Tanga",
+      "slug": "bremen-tanga",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen - Vega",
+      "slug": "bremen-vega",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen I",
+      "slug": "bremen-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen III",
+      "slug": "bremen-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bremen IV",
+      "slug": "bremen-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Brentworth Care Center (New Babbage)",
+      "slug": "brentworth-care-center-new-babbage",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Brio's Breaker Yard",
+      "slug": "brio-s-breaker-yard",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Broken Moon",
+      "slug": "broken-moon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bruder",
+      "slug": "bruder",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Bud's Growery",
+      "slug": "bud-s-growery",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Buloi Sataball Arena",
+      "slug": "buloi-sataball-arena",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Café Musain",
+      "slug": "caf-musain",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Calhoun Pass Emergency Shelter",
+      "slug": "calhoun-pass-emergency-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban (star)",
+      "slug": "caliban-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban - Nul",
+      "slug": "caliban-nul",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban - Oberon",
+      "slug": "caliban-oberon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban - Orion",
+      "slug": "caliban-orion",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban - Viking",
+      "slug": "caliban-viking",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 2a",
+      "slug": "caliban-2a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 3a",
+      "slug": "caliban-3a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 3b",
+      "slug": "caliban-3b",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 4a",
+      "slug": "caliban-4a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 4b",
+      "slug": "caliban-4b",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 4c",
+      "slug": "caliban-4c",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 4d",
+      "slug": "caliban-4d",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 4e",
+      "slug": "caliban-4e",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban 4f",
+      "slug": "caliban-4f",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban Belt Alpha",
+      "slug": "caliban-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban I",
+      "slug": "caliban-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban III",
+      "slug": "caliban-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban IV",
+      "slug": "caliban-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caliban V",
+      "slug": "caliban-v",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Calliope",
+      "slug": "calliope",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Callisto",
+      "slug": "callisto",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cano (star)",
+      "slug": "cano-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cano - Davien",
+      "slug": "cano-davien",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cano - Pyro",
+      "slug": "cano-pyro",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cano belt alpha",
+      "slug": "cano-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cano I",
+      "slug": "cano-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cano III",
+      "slug": "cano-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Caplan Circuit",
+      "slug": "caplan-circuit",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Carteyna",
+      "slug": "carteyna",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cascom",
+      "slug": "cascom",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cassel",
+      "slug": "cassel",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Casselean",
+      "slug": "casselean",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castor",
+      "slug": "castor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra (star)",
+      "slug": "castra-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra - Hadrian",
+      "slug": "castra-hadrian",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra - Nyx",
+      "slug": "castra-nyx",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra - Oso",
+      "slug": "castra-oso",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra - Oya",
+      "slug": "castra-oya",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra - Pyro",
+      "slug": "castra-pyro",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Castra I",
+      "slug": "castra-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cathcart (star)",
+      "slug": "cathcart-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cathcart - Davien",
+      "slug": "cathcart-davien",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cathcart - Hades",
+      "slug": "cathcart-hades",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cathcart - Kilian",
+      "slug": "cathcart-kilian",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cathcart - Nexus",
+      "slug": "cathcart-nexus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cathcart Belt Alpha",
+      "slug": "cathcart-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cellin",
+      "slug": "cellin",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri (star)",
+      "slug": "centauri-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri - Elysium",
+      "slug": "centauri-elysium",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri - Nul",
+      "slug": "centauri-nul",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri Belt Alpha",
+      "slug": "centauri-belt-alpha",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri I",
+      "slug": "centauri-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri IV",
+      "slug": "centauri-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Centauri V",
+      "slug": "centauri-v",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Central Business District (Lorville)",
+      "slug": "central-business-district-lorville",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cestulus",
+      "slug": "cestulus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Chairman's Club Lounge (Lorville)",
+      "slug": "chairman-s-club-lounge-lorville",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Chairman's Club Lounge (Orison)",
+      "slug": "chairman-s-club-lounge-orison",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Char",
+      "slug": "char",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon (moon)",
+      "slug": "charon-moon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon (star)",
+      "slug": "charon-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon - Genesis",
+      "slug": "charon-genesis",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon - Helios",
+      "slug": "charon-helios",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon - Kins",
+      "slug": "charon-kins",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon - Tyrol",
+      "slug": "charon-tyrol",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon 2a",
+      "slug": "charon-2a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon 2b",
+      "slug": "charon-2b",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon 3a",
+      "slug": "charon-3a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon I",
+      "slug": "charon-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon II",
+      "slug": "charon-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "id": "pyro",
+      "name": "Pyro",
+      "systemId": "pyro",
+      "locationType": "system"
+    },
+    {
+      "id": "pyro-1",
+      "name": "Pyro I",
+      "systemId": "pyro",
+      "locationType": "planet"
+    },
+    {
+      "id": "pyro-2",
+      "name": "Pyro II",
+      "systemId": "pyro",
+      "locationType": "planet"
+    },
+    {
+      "id": "pyro-3",
+      "name": "Pyro III",
+      "systemId": "pyro",
+      "locationType": "planet"
+    },
+    {
+      "id": "pyro-4",
+      "name": "Pyro IV",
+      "systemId": "pyro",
+      "locationType": "planet"
+    },
+    {
+      "id": "pyro-5",
+      "name": "Pyro V",
+      "systemId": "pyro",
+      "locationType": "planet"
+    },
+    {
+      "id": "pyro-6",
+      "name": "Pyro VI",
+      "systemId": "pyro",
+      "locationType": "planet"
+    },
+    {
+      "id": "ruin-station",
+      "name": "Ruin Station",
+      "systemId": "pyro",
+      "locationType": "station"
+    },
+    {
+      "id": "terminus",
+      "name": "Terminus",
+      "systemId": "pyro",
+      "locationType": "station"
+    },
+    {
+      "id": "bloom",
+      "name": "Bloom",
+      "systemId": "pyro",
+      "locationType": "moon"
+    },
+    {
+      "id": "monox",
+      "name": "Monox",
+      "systemId": "pyro",
+      "locationType": "moon"
+    },
+    {
+      "id": "adir",
+      "name": "Adir",
+      "systemId": "pyro",
+      "locationType": "moon"
+    },
+    {
+      "id": "ignis",
+      "name": "Ignis",
+      "systemId": "pyro",
+      "locationType": "planet"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Hadanite",
+      "slug": "hadanite",
+      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids.\n\n\n== Description ==\nA crystal oscillator sought out for its extremely high frequency of vibration which makes it useful in various applications.\n\n\n== Harvest locations ==\n\n\n== Trade data ==\n\n\n== Gallery ==\n\n\n== Development ==\n\n\n== Trivia ==\nDuring PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node.\n\n\n== References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.85,
+      "environments": [
+        "surface",
+        "cave"
+      ],
+      "sourceNotes": "Populate exact locations from wiki text parser"
+    },
+    {
+      "name": "Janalite",
+      "slug": "janalite",
+      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits.\n\n\n== Description ==\n\n\n== Trade data ==\n\n\n== Harvest locations ==\n\n\n== Gallery ==\n\n\n== Development ==\n\n\n== References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.9,
+      "environments": [
+        "sand_cave"
+      ]
+    },
+    {
+      "name": "Quantanium",
+      "slug": "quantanium",
+      "description": "Quantanium (Raw) is a volatile mineral that can be mined from asteroids or ore deposits and be refined into quantanium. Raw quantanium  degrades over time and must be deposited at a refinery deck or it will explode violently.\n\n\n== Description ==\n\n\n== Harvest locations ==\n\n\n== Gallery ==\n\n\n== Development ==\n\n\n== See also ==\nMining\nRefining\nQuantanium on Galactapedia\n\n\n== References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.9,
+      "environments": [
+        "space",
+        "surface"
+      ],
+      "volatile": true,
+      "requiresRefining": true
+    },
+    {
+      "name": "Hadanite",
+      "slug": "hadanite",
+      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == A crystal oscillator sought out for its extremely high frequency of vibration which makes it useful in various applications. == Harvest locations == == Trade data == == Gallery == == Development == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "baijini_point",
+        "port_tressler",
+        "arc_l1",
+        "arc_l3",
+        "arc_l5",
+        "hur_l1",
+        "hur_l2",
+        "mic_l1",
+        "daymar"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
+      "sourceNotes": "Live wiki enrichment for Hadanite"
+    },
+    {
+      "name": "Aphorite",
+      "slug": "aphorite",
+      "description": "Aphorite is a mineable commodity with a relatively low instability. == Description == Decorative jewel crystal prized for its multi-hued tones. == Trade data == == Harvest locations == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "area18",
+        "new_babbage",
+        "baijini_point",
+        "port_tressler",
+        "arc_l1",
+        "arc_l2",
+        "arc_l3",
+        "arc_l5",
+        "hur_l1",
+        "hur_l2",
+        "mic_l1",
+        "daymar"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
+      "sourceNotes": "Live wiki enrichment for Aphorite"
+    },
+    {
+      "name": "Dolivine",
+      "slug": "dolivine",
+      "description": "Dolivine is a green colored mineable gemstone. == Description == A dull green gemstone that is used decoratively but also can be used for industrial purposes thanks to its resistance to weathering and high density. == Trade data == == Harvest locations == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == See also == Mining == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "area18",
+        "new_babbage",
+        "baijini_point",
+        "port_tressler",
+        "arc_l1",
+        "arc_l2",
+        "arc_l3",
+        "arc_l5",
+        "hur_l1",
+        "hur_l2",
+        "mic_l1",
+        "daymar"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
+      "sourceNotes": "Live wiki enrichment for Dolivine"
+    },
+    {
+      "name": "Janalite",
+      "slug": "janalite",
+      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Trade data == == Harvest locations == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
+      "sourceNotes": "Live wiki enrichment for Janalite"
+    },
+    {
+      "name": "Quantanium (Raw)",
+      "slug": "quantanium-raw",
+      "description": "Quantanium (Raw) is a volatile mineral that can be mined from asteroids or ore deposits and be refined into quantanium. Raw quantanium degrades over time and must be deposited at a refinery deck or it will explode violently. == Description == == Harvest locations == == Gallery == == Development == == See also == Mining Refining Quantanium on Galactapedia == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "hur_l2",
+        "hur_l4",
+        "microtech",
+        "pyro"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/8/87/Quantanium_%28Raw%29_-_Galactapedia.png",
+      "sourceNotes": "Live wiki enrichment for Quantanium (Raw)"
+    },
+    {
+      "name": "Agricium",
+      "slug": "agricium",
+      "description": "Agricium is the refined form of agricium ore, it is a tradable commodity. == Description == A rare and valuable silvery metal with a blue-green sheen. Malleable, ductile, and largely non-reactive. == Trade data == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "mic_l1",
+        "microtech",
+        "pyro"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Agricium"
+    },
+    {
+      "name": "Bexalite",
+      "slug": "bexalite",
+      "description": "Bexalite is a mineral commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "lorville",
+        "hur_l1",
+        "hur_l2",
+        "hur_l4",
+        "hur_l5",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Bexalite"
+    },
+    {
+      "name": "Borase",
+      "slug": "borase",
+      "description": "Borase is the refined form of borase ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "hur_l5",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "sourceNotes": "Live wiki enrichment for Borase"
+    },
+    {
+      "name": "Laranite",
+      "slug": "laranite",
+      "description": "Laranite is a gemstone commodity. == Description == A somewhat radioactive, crystalline gemstone. Black with streaks of dark red, it can only be used as jewelry if shielded. == Trade data == == Gallery == == Development == == Trivia == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "hur_l4",
+        "hur_l5",
+        "mic_l1",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Laranite"
+    },
+    {
+      "name": "Taranite",
+      "slug": "taranite",
+      "description": "Taranite is a commodity, it is refined from raw taranite. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "hur_l4",
+        "hur_l5"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Taranite"
+    },
+    {
+      "name": "Gold",
+      "slug": "gold",
+      "description": "Gold is a metal commodity that is refined from gold ore. == Description == A commonly found ductile metal favored for its conductivity. Though it falls in and out of fashion, it is often used for decorative purposes as well. == Trade data == == Gallery == == Development == == See also == Mining Refining == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "mic_l1",
+        "microtech",
+        "pyro",
+        "pyro-1",
+        "ruin-station"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Gold"
+    },
+    {
+      "name": "Diamond",
+      "slug": "diamond",
+      "description": "Diamond is a commodity. == Description == An allotrope of the element carbon, diamonds form over billions of years under high heat and pressure. Extremely hard and thermally conductive. == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "grimhex",
+        "arc_l1",
+        "aberdeen",
+        "arial",
+        "daymar",
+        "wala",
+        "lyria",
+        "magda",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Diamond"
+    },
+    {
+      "name": "Titanium",
+      "slug": "titanium",
+      "description": "Titanium is the refined form of titanium ore, it is a tradable commodity. == Description == This silver-colored chemical element is excellent at producing strong, lightweight alloys. == Trade data == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "hur_l2",
+        "microtech",
+        "pyro",
+        "pyro-1",
+        "pyro-2",
+        "monox"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Titanium"
+    },
+    {
+      "name": "Tungsten",
+      "slug": "tungsten",
+      "description": "Tungsten is the refined form of tungsten ore, it is a tradable commodity. == Description == Used in many different alloys, tungsten in its pure form becomes malleable while maintaining its hardness. == Trade data == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "hur_l1",
+        "hur_l2",
+        "hur_l5",
+        "microtech",
+        "pyro"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Tungsten"
+    },
+    {
+      "name": "Corundum",
+      "slug": "corundum",
+      "description": "Corundum is a commodity. == Description == The crystalline form of aluminum oxide. Used as a gem. Varieties include ruby, sapphire, and padparadscha. == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "lorville",
+        "grimhex",
+        "cru_l5",
+        "hur_l1",
+        "hur_l2",
+        "hur_l5",
+        "mic_l1",
+        "microtech",
+        "pyro"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Corundum"
+    },
+    {
+      "name": "Copper",
+      "slug": "copper",
+      "description": "Copper is the refined form of coper ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "new_babbage",
+        "port_tressler",
+        "hur_l1",
+        "hur_l2",
+        "hur_l5",
+        "mic_l1",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Copper"
+    },
+    {
+      "name": "Beryl",
+      "slug": "beryl",
+      "description": "Beryl is a commodity. == Description == A mineral that creates natural hexagonal crystals. Colorless in its pure form, its impure forms include the gems emerald and aquamarine. == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "hur_l4",
+        "hur_l5",
+        "mic_l1",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Beryl"
+    },
+    {
+      "name": "Hephaestanite",
+      "slug": "hephaestanite",
+      "description": "Hephaestanite is a mineral commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "arc_l1",
+        "hur_l1",
+        "hur_l2",
+        "hur_l4",
+        "hur_l5"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Hephaestanite"
+    },
+    {
+      "name": "Iron",
+      "slug": "iron",
+      "description": "Iron is the refined form of iron ore, it is a tradable commodity. == Description == == Trade data == == Gallery == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "new_babbage",
+        "port_tressler",
+        "hur_l1",
+        "hur_l4",
+        "hur_l5",
+        "microtech",
+        "pyro"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Iron"
+    },
+    {
+      "name": "Quartz",
+      "slug": "quartz",
+      "description": "Quartz is a mineral commodity. == Description == A chiral crystal composed of silicon and oxygen that can be found in a wide variety of forms and colors. == Trade data == == Gallery == == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "lorville",
+        "hur_l5",
+        "mic_l1",
+        "daymar",
+        "microtech",
+        "pyro"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "sourceNotes": "Live wiki enrichment for Quartz"
+    },
+    {
+      "name": "Aluminum",
+      "slug": "aluminum",
+      "description": "Aluminum is the refined form of aluminum ore, it is a tradable commodity. == Description == A chemically reactive, gray metal that is malleable, lightweight, ductile, strong, and resistant to corrosion. Capable of superconductivity. == Trade data == == Gallery == == See also == Mining Refining == Development == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.82,
+      "knownLocations": [
+        "hur_l1",
+        "hur_l2",
+        "hur_l4",
+        "hur_l5",
+        "mic_l1",
+        "microtech"
+      ],
+      "purchaseLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "sourceNotes": "Live wiki enrichment for Aluminum"
+    }
+  ],
+  "miningMethods": [
+    {
+      "name": "FPS mining",
+      "slug": "fps-mining",
+      "description": "Handheld cave and small-node mining",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.8
+    },
+    {
+      "name": "ROC mining",
+      "slug": "roc-mining",
+      "description": "Vehicle-based gemstone mining",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.8
+    },
+    {
+      "name": "Ship mining",
+      "slug": "ship-mining",
+      "description": "Large ore and asteroid mining",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.8
+    }
+  ],
+  "tools": [
+    {
+      "name": "Barrel attachment",
+      "slug": "barrel-attachment",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "A barrel attachment is a Star Citizen weapon attachment that attaches to the barrel of a weapon to modify its behavior. == Types == == References ==",
+      "imageUrl": null,
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Escalate Stabilizer1",
+      "slug": "escalate-stabilizer1",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == ArmaMod's enhanced circuitry in the Escalate Stabilizer1 boosts the output of handheld weapons substantially, trading control for power. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Escalate Stabilizer2",
+      "slug": "escalate-stabilizer2",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Escalate Stabilizer2 is a barrel attachment manufactured by ArmaMod. == Description == Unleash the full destructive potential of your weapon with the Escalate Stabilizer2, increasing the fire rate and shot spread at the cost of accuracy. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Escalate Stabilizer3",
+      "slug": "escalate-stabilizer3",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Escalate Stabilizer3 is a barrel attachment manufactured by ArmaMod. == Description == By allowing for increased energy consumption, the Escalate Stabilizer3 can overclock your weapon to significantly reduce charge time and increase damage output. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/1/1a/Escalate_3.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Magazine",
+      "slug": "magazine",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "A magazine is an ammunition storage and feeding device for a repeating firearm, either integral within the gun (internal/fixed magazine) or externally attached (detachable magazine). The magazine functions by holding several cartridges within itself and sequentially pushing each one into a position where it may be readily loaded into the barrel chamber by the firearm's moving action. The detachable magazine is sometimes colloquially referred to as a \"clip\", although this is technically inaccurate since a clip is actually an accessory device used to help load ammunition into a magazine. == References ==",
+      "imageUrl": null,
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Multi-Tool attachment",
+      "slug": "multi-tool-attachment",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "A Multi-Tool attachment is a FPS weapon attachment that attaches to a Multi-Tool such as the Pyro RYT Multi-Tool. == References ==",
+      "imageUrl": null,
+      "purchaseLocations": [],
+      "foundLocations": [
+        "pyro"
+      ]
+    },
+    {
+      "name": "Optics attachment",
+      "slug": "optics-attachment",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "An optical attachment is a FPS weapon attachment that uses optics that give the Star Citizen player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
+      "imageUrl": null,
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Quell Suppressor1",
+      "slug": "quell-suppressor1",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Quell Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == The Quell Suppressor1 utilizes an advanced carbon polymer that reduces both noise and recoil at the cost of increased heat build-up. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Quell Suppressor2",
+      "slug": "quell-suppressor2",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Quell Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == With careful placement of high insulation materials to allow increased heat dissipation, the Quell Suppressor2 ensures you'll stay cool under pressure in favor of a slightly wider bullet spread. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Quell Suppressor3",
+      "slug": "quell-suppressor3",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Quell Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == Designed for stealth work, the Quell Suppressor3 rewards those who take slow, steady shots. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stark Compensator1",
+      "slug": "stark-compensator1",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == Redirecting gases from the barrel to increase the force of bullet impact, this Stark Compensator1 slows the rate of fire but significantly increases damage output. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stark Compensator2",
+      "slug": "stark-compensator2",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == The Stark Compensator2 disperses energy more evenly from the gun barrel to counteract recoil, helping you stay sure and steady with every shot. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stark Compensator3",
+      "slug": "stark-compensator3",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Stark Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == Designed by ArmaMod to cycle rounds quicker, the Stark Compensator3 amplifies the speed in which the bullets leave the chamber in exchange for reduced accuracy. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stoic Suppressor1",
+      "slug": "stoic-suppressor1",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Stoic Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == Featuring a more spacious chamber that widens shot spread, the Stoic Suppressor1's increased size reduces noise while allowing for superior recoil control. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stoic Suppressor2",
+      "slug": "stoic-suppressor2",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Stoic Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == Using a more heavyweight barrel attachment for increased control, the longer chamber of the Stoic Suppressor2 grants reduced noise and increased accuracy at the cost of slower responsiveness. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stoic Suppressor3",
+      "slug": "stoic-suppressor3",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Stoic Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == As the largest suppressor in the series, the Stoic Suppressor3's heavy duty design reduces noise and recoil, while tightening shot spread. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Torrent Compensator1",
+      "slug": "torrent-compensator1",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == The Torrent Compensator1 rewards those with a steady hand and a sharp eye with faster, more controlled fire. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Torrent Compensator2",
+      "slug": "torrent-compensator2",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Torrent Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == Designed to overwhelm opponents in the heat of battle, the Torrent Compensator2 increases projectile speed whilst reducing accuracy. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Torrent Compensator3",
+      "slug": "torrent-compensator3",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Torrent Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == The Torrent Compensator3 uses its unique shape to combine the total number of pellets into a tighter spread, increasing accuracy at the cost of lower damage output. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Underbarrel attachment",
+      "slug": "underbarrel-attachment",
+      "category": "weapon_attachment",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "An underbarrel attachment is a FPS weapon attachment that attaches to the underbarrel/bottom of the weapon. == References ==",
+      "imageUrl": null,
+      "purchaseLocations": [],
+      "foundLocations": []
+    }
+  ],
+  "vehicles": [],
+  "vendors": [
+    {
+      "name": "CenterMass",
+      "slug": "centermass",
+      "description": "CenterMass is a Human spacecraft weapons and armor retailer with franchise stores in multiple locations across the United Empire of Earth (UEE). Founded as a weapons-only store, they added armor to their inventory in 2939. They also keep mechanics on staff for installation, modification, and repair of any items purchased at a CenterMass store. == Locations == 2nd floor of the IO-North tower, Area18, ArcCorp The Plaza, New Babbage, microTech == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18",
+        "new_babbage",
+        "microtech"
+      ]
+    },
+    {
+      "name": "CenterMass",
+      "slug": "centermass",
+      "description": "CenterMass is a Human spacecraft weapons and armor retailer with franchise stores in multiple locations across the United Empire of Earth (UEE). Founded as a weapons-only store, they added armor to their inventory in 2939. They also keep mechanics on staff for installation, modification, and repair of any items purchased at a CenterMass store. == Locations == 2nd floor of the IO-North tower, Area18, ArcCorp The Plaza, New Babbage, microTech == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18",
+        "new_babbage",
+        "microtech"
+      ]
+    },
+    {
+      "name": "Cubby Blast",
+      "slug": "cubby-blast",
+      "description": "Cubby Blast is a weapon dealership in Zone 1 in Area18 on ArcCorp. The store is owned and operated by the former outlaw Clor Vee. == Items for sale == === Armor === == Portfolio (lore) == “Racks of rifles, stacks of shotguns, piles of pistols,” excitedly promises the Cubby Blast holo-jingle, and the store delivers, firmly establishing itself as one of Area18’s more eccentric locales. While most of the stores on the planet strive to achieve an aura of respectability, Cubby Blast seems to stand in staunch defiance to the corporate culture that surrounds it. Supposedly modeled after a weapons shop on the infamous Spider station in the Cathcart system, this small personal weapons store is pure counterculture. Even the name itself is taken from a Cathcart sales phrase meaning “the weapon fires fine.” It’s this flavor that makes Cubby Blast a popular destination for all people traveling throug",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18"
+      ]
+    },
+    {
+      "name": "Live Fire Weapons",
+      "slug": "live-fire-weapons",
+      "description": "Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": []
+    },
+    {
+      "name": "Live Fire Weapons",
+      "slug": "live-fire-weapons",
+      "description": "Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": []
+    },
+    {
+      "name": "Live Fire Weapons",
+      "slug": "live-fire-weapons",
+      "description": "Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": []
+    },
+    {
+      "name": "Live Fire Weapons",
+      "slug": "live-fire-weapons",
+      "description": "Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": []
+    },
+    {
+      "name": "Tammany and Sons",
+      "slug": "tammany-and-sons",
+      "description": "Tammany and Sons is a shop in Lorville. It belongs to Hurston Dynamics and primarly sells goods to their workers in a truck-shop scheme that ensures no credits (or employees) leave the Hurston ecosystem. == Location == The shop is located in the L19 Workers District of Lorville, Hurston right next to the miners' rail line. In addition to Clothing and Armor, the shop also sells Greycat Industrial's Pyro RYT Multi-Tool. Also of note is that this is where you can pick up a Gyson Ready-Up - the notorious \"baghead\" soft-body breathing helmet, which is frequently used by residents to cope with the planet's abysmal atmospheric quality. == Gallery == == Merchandise == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "lorville",
+        "pyro"
+      ]
+    },
+    {
+      "name": "Casaba Outlet",
+      "slug": "casaba-outlet",
+      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18"
+      ]
+    },
+    {
+      "name": "Casaba Outlet",
+      "slug": "casaba-outlet",
+      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18"
+      ]
+    },
+    {
+      "name": "Casaba Outlet",
+      "slug": "casaba-outlet",
+      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18"
+      ]
+    },
+    {
+      "name": "Casaba Outlet",
+      "slug": "casaba-outlet",
+      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18"
+      ]
+    },
+    {
+      "name": "Casaba Outlet",
+      "slug": "casaba-outlet",
+      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": [
+        "area18"
+      ]
+    },
+    {
+      "name": "Mining Support Center",
+      "slug": "mining-support-center",
+      "description": "The Mining Support Center is a location commonly found on Refinery Decks on Rest Stop stations. It contains a supply shop that sells various mining supplies. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.72,
+      "locationIds": []
+    }
+  ],
+  "lootSources": [],
+  "blueprints": [],
+  "recipes": [],
+  "weapons": [
+    {
+      "name": "C54 SMG",
+      "slug": "c54-smg",
+      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == Easy to handle and a beauty to behold with its purple accented styling, the C54 is a sleek and precisely balanced SMG from Gemini. Its lightweight polymer frame and ergonomic design makes it ideal for close quarter engagements. The C54 is capable of firing 10mm rounds on full auto to provide maximum support and target saturation to en",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/7/75/Gemini_-_C54.jpg",
+      "class": "smg",
+      "damageType": "ballistic_or_energy_variant_unknown"
+    },
+    {
+      "name": "P4-AR Rifle",
+      "slug": "p4-ar-rifle",
+      "description": "The P4-AR Rifle is a 5.56mm, selective-fire assault rifle manufactured by Behring Applied Technology. It boasts an effective range of 50 meters and can be operated in semi-automatic, three-round burst, and fully automatic modes. The P4-AR rifle is equipped with a collapsible stock and shortened barrel, rendering it a suitable option for close-quarter combat. Its accuracy and user-friendly design have earned it widespread recognition among security, military, and civilian users alike, cementing its status as a highly regarded firearm. == Description == Behring's classic P4-AR rifle features a collapsible stock and shortened barrel, making it an ideal choice for close-quarter firefights. Its accuracy and general ease of use make it universally valued among security, military and civilian users. == Item ports == == Acquisition == == Model == === Variants === == Lore == The P4-AR Rifle was t",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/b/b2/P4-AR_4.6.png",
+      "class": "assault_rifle",
+      "damageType": "ballistic"
+    },
+    {
+      "name": "P8-SC SMG",
+      "slug": "p8-sc-smg",
+      "description": "The P8-SC SMG is a 10-mm, selective-fire submachine gun manufactured by Behring Applied Technology. It boasts an effective range of 30 meters and can be fired in rapid or burst mode. The weapon features a folding stock for ease of transport and storage. The UEE Marines, widely regarded as the top fighting force in the 'verse, have adopted the P8-SC as their standard ballistic submachine gun. However, the weapon has also gained popularity among civilians seeking personal safety and protection. Its widespread use is a testament to its reliability and effectiveness in combat situations. == Description == When the top fighting force in the universe chooses a weapon as their standard, it pays to stand up and take notice. The Behring-crafted P8-SC has been the ballistic submachine gun of choice for the UEE Marines since it first came off the production line, but since then, many have come to r",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/f/fe/StarCitizen-Preview_BEHR_P8SC_01-pcgh.jpg",
+      "class": "smg",
+      "damageType": "ballistic"
+    },
+    {
+      "name": "FS-9 LMG",
+      "slug": "fs-9-lmg",
+      "description": "The FS-9 LMG is a 5-mm light machine gun manufactured by Behring Applied Technology. With an effective range of 40 meters, the FS-9 is designed to be a dominant force on the battlefield. Behring's intention was to create a weapon that could provide overwhelming firepower. The full auto mode of the light machine gun is particularly useful for laying down covering fire or holding back advancing enemies. Additionally, the FS-9 is renowned for its ability to maintain accuracy while unleashing sustained fire, making it a highly effective weapon in combat situations. == Description == Behring designed the FS-9 to be an overwhelming battlefield force. This light machine gun features a full auto mode that makes it ideal for laying down covering fire or holding back advancing enemies. The FS-9 is also acclaimed for its ability to maintain accuracy while unleashing sustained fire. == Item ports ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/b/bd/FS-9_-_On_crate_with_extra_magazine.jpg",
+      "class": "lmg",
+      "damageType": "ballistic"
+    },
+    {
+      "name": "Gallant Rifle",
+      "slug": "gallant-rifle",
+      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology, there will always be a place for a dependable a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/e/ef/Gallant_-_with_3_clips_and_ArcLight_-_Flat.png",
+      "class": "assault_rifle",
+      "damageType": "energy"
+    },
+    {
+      "name": "Custodian SMG",
+      "slug": "custodian-smg",
+      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == The Custodian SMG from Kastak Arms focuses on a high rate of fire over damage and accuracy making it an ideal choice for sweeping through tight environments and close quarters combat. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custod",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/a/a8/Custodian_-_with_x4_clips_-_Flat.jpg",
+      "class": "smg",
+      "damageType": "energy"
+    },
+    {
+      "name": "S71 Rifle",
+      "slug": "s71-rifle",
+      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == With the S71, Gemini designed an ergonomic assault rifle ideal for mid-range engagements. Chambered with a smaller caliber round than other weapons in its class, the S71 has become popular among private military professionals for its sleek aesthetics and precise accuracy. == Item ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "arc_l1",
+        "cru_l1",
+        "cru_l5",
+        "hur_l1",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/2c/Gmni-st71.png",
+      "class": "battle_rifle",
+      "damageType": "ballistic"
+    }
+  ],
+  "armor": [
+    {
+      "name": "MacFlex",
+      "slug": "macflex",
+      "description": "Whether you're planetside or in vacuum, RSI's MacFlex industrial armor set has your back. Reinforced plating keeps you safe from environmental hazards while the array of pouches keep your tools accessible. == Armor components == == Editions == === Rust Society Edition === The Rust Society Edition celebrates blue-collar workers with an exclusive red and tan coloration that hides dirt and wear and tear well. It was given out in individual parts (i.e. Arms, Legs, Torso, Helmet, undersuit), one per month, as Subscriber Flair to Imperator-Level backers. Current subscribers can retro-actively purchase the flair in the store. == Gallery ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/2/21/MacFlex_armor_set.jpg",
+      "manufacturer": "Roberts Space Industries"
+    },
+    {
+      "name": "ADP",
+      "slug": "adp",
+      "description": "== Product description == \"Revolutionary when first released, the ADP heavy armor system was heralded as the pinnacle of personal protection. Clark Defense Systems' maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor.\" == Armor components == == Model == === Variations === (All are available in-game only) == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/8/8b/ADP_armor_set.jpg",
+      "manufacturer": "Clark Defense Systems"
+    },
+    {
+      "name": "ADP-mk4",
+      "slug": "adp-mk4",
+      "description": "The ADP-mk4 is a heavy armor developed by Clark Defense Systems for the UEE Marine Corps. Its maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor. == Armor components == == Model == === Variations === (All are available in-game only) === Special editions === == Gallery == == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/c/c3/ADP-mk4_armor_set.jpg",
+      "manufacturer": "Clark Defense Systems"
+    },
+    {
+      "name": "ORC-mkV",
+      "slug": "orc-mkv",
+      "description": "Clark Defense Systems' ORC-mkV armor has been a trusted and enduring choice on the battlefield for centuries. This medium armor is highly regarded for its dependable and durable construction, which combines composite plating with a special fiber reinforced polymer. The result is a solid level of protection that allows for a wide range of movement. The ORC-mkV is a prime example of how dependable and durable armor never goes out of style, and continues to be a staple for those who require reliable protection in high-risk situations. == Armor components == === Variations ===",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/3/32/ORC-mkV_armor_set.jpg",
+      "manufacturer": "Clark Defense Systems"
+    },
+    {
+      "name": "ORC-mkX",
+      "slug": "orc-mkx",
+      "description": "The mark X is the latest in CDS' award-winning Omni-Role Combat armor series. This EVA-rated suit features new EdgeCore composite weave technology, maximizing protection against projectiles, explosives and the elements while minimizing operator agility. == Armor components == == Armor variants ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/6/64/ORC-mkX_Woodland_armor_set.jpg",
+      "manufacturer": "Clark Defense Systems"
+    },
+    {
+      "name": "PAB-1",
+      "slug": "pab-1",
+      "description": "Clark Defense Systems built the PAB-1 light but strong enough to stay in a fight. The first CDS suit to utilize their proprietary nano-weave, this light armor became a favorite of those who needed a little extra protection while remaining agile. == Armor components ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/9/91/PAB-1_armor_set.jpg",
+      "manufacturer": "Clark Defense Systems"
+    },
+    {
+      "name": "FBL-8a",
+      "slug": "fbl-8a",
+      "description": "The FBL-8a set is an armor set manufactured by Clark Defense Systems. There are currently three color variants available. No helmet belongs to the armor set as of the current LIVE build, but the Mandible Helmet is believed to be the one. == In-game description == CDS's quest to create the ideal light armor continues with the FBL-8a. This light armor will keep you fast on your feet with its strategic mix of protective plating and reinforced nano-weave fabrics. While the armor works with any undersuit, it was specifically designed to match the FBL-8u undersuit with special attention given to how the two fit together to make the set as streamlined and responsive as possible. == Model == === Variations === (All are available in-game only) == Armor components == == Development == The FBL-8a set was introduced in Alpha 3.11.1 in the Intergalactic Aerospace Expo 2950 event. == References ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/4/49/FBL8_set.jpg",
+      "manufacturer": "Clark Defense Systems"
+    },
+    {
+      "name": "Field Recon Suit",
+      "slug": "field-recon-suit",
+      "description": "CDS' Field Recon Suit is the perfect solution for the combat operator who wants a little extra protection without compromising any of their situational agility. EdgeCore composite plating is strategically sewn into the nano-weave suit to cover vital organs while keeping the suit flexible. == Armor components ==",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": [],
+      "imageUrl": "https://media.starcitizen.tools/5/53/Field_Recon_armor_set.jpg",
+      "manufacturer": "unknown"
+    },
+    {
+      "name": "ADP",
+      "slug": "adp",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "== Product description == \"Revolutionary when first released, the ADP heavy armor system was heralded as the pinnacle of personal protection. Clark Defense Systems' maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor.\" == Armor components == == Model == === Variations === (All are available in-game only) == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/8/8b/ADP_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "ADP-mk4",
+      "slug": "adp-mk4",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The ADP-mk4 is a heavy armor developed by Clark Defense Systems for the UEE Marine Corps. Its maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor. == Armor components == == Model == === Variations === (All are available in-game only) === Special editions === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/c/c3/ADP-mk4_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Antium",
+      "slug": "antium",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Antium is a heavy armor set manufactured by Quirinus Tech. == In-game description == If you're in need of top-of-the-line protection enhanced with bleeding-edge technology, look no further than the Antium Armor Set. Developed by the award-winning engineering team at Quirinus Tech, the suit is fully enclosed to protect its wearer against hazardous environments and the dangers of the battlefield. Instead of a traditional laminate faceplate, the helmet utilizes a suite of sensors to create an uncompromised field of vision. == Armor components == == Regular Models == == Special Models == == Gallery ==",
+      "imageUrl": "https://media.starcitizen.tools/9/91/Antium_Base_Set.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Arden-SL",
+      "slug": "arden-sl",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Arden-SL armor set is a set of light armor manufactured by Roussimoff Rehabilitation Systems. The whole set, including the TBF-4 Combat Knife and a CitizenCon 2951 Trophy, was handed out for free to all backers for CitizenCon 2021. The set edition handed out was the dark red \"Balefire\" edition. == Product description == \"With its excellent design and eye-catching style, the Arden-SL armor exemplifies why security specialists love Roussimoff Rehabilitation Systems. This versatile armor set lets the wearer stay agile but safe thanks to the precise placement of special composite armor plating and fabrics. It also features a toolbelt for easy access to important gear.\" == Armor components == == Model == == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/e/ee/Arden-SL_-_Default.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Aril",
+      "slug": "aril",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Aril medium armor set is manufactured by Greycat Industrial. It was originally designed for miners and includes a fully enclosed helmet and high collar providing additional support and protection for the neck and back of the head. An integrated tool belt and attachable backpack can accommodate a variety of tools and supplies to keep the user's hands free. == Armor components == === Variations === === Special editions === == History == The Aril armor set was designed by the Greycat Industrial engineer and designer Ruben Pardue in the 24th Century. It was designed to help workers in the Uriel tunnel collapse by incorporating new safety features and advanced alloy plating. It was his first design in his career at the company and had set the standard for Greycat products going forward. It had become a huge success and remains a bestseller for Greycat today, with only minimal changes made",
+      "imageUrl": "https://media.starcitizen.tools/0/08/Aril_Blue-White_-_Hand_mining_on_Wala.jpg",
+      "purchaseLocations": [],
+      "foundLocations": [
+        "ignis",
+        "pyro"
+      ]
+    },
+    {
+      "name": "Artimex",
+      "slug": "artimex",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Artimex is a medium armor set manufactured by Quirinus Tech. == Description == Blending durability and a striking style, the Artimex armor exemplifies the Quirinus aesthetic. This intricately detailed armor considers both form and function, especially when paired with the fully enclosed helmet that features a neon ocular flourish. The armor also comes with a unique cowl that fans over the helmet and a knee length fitted cape. == Armor components == == Armor variants == == Special variants == == Gallery == == Development == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/8/86/Artimex_Suit_-_SCT_BG-min.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Aves",
+      "slug": "aves",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Aves Armor, made by CC's Conversions, was designed with Tevarin aesthetic elements. The helmet was used in conjugation with the flyable sale of the Esperia Prowler and the full set was free as a part of the Talon warbond concept sales. == Product Description == \"Honor and embody the Tevarin aesthetic with the Aves armor. Cutting edge manufacturing techniques were used to place white, red, grey, and black plating perfectly to fit the Human form and evoke the shape language imbued into the Tevarin’s iconic ships. This medium armor from CC’s Conversions is both sensational and practical, providing solid protection while keeping you light on your feet. When paired with the Aves helmet, the suit combines for a striking and unforgettable look.\" == Acquisition == Armour was first introduced with the Esperia Prowler. This armour set was included in the Concept Warbond sales of the Talon and ",
+      "imageUrl": "https://media.starcitizen.tools/4/4f/Aves_armor_front_and_back_-_cropped.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "AVS-E",
+      "slug": "avs-e",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The AVS-E armor set is an armor set manufactured by United Empire of Earth Navy (UEEN). It is used by the combat pilots in the UEEN. It is featured in Squadron 42 and not available in the Persistent Universe at the moment. == In-game description == The AVS-E is a unique armor set designed to integrate seamlessly with the OMNI-CFS series of flightsuits. The AVS features component armor plating, strategically placed to protect vital areas, but also integrates numerous pouches to keep you equipped in the field. == Armor components == == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/a/a4/AVS-E_Colton_Full.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Aztalan",
+      "slug": "aztalan",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Tehachapi Aztalan is a light armor set. Its line of personal body armor provides strategic protection of vital areas while keeping the bearer fast and mobile. It is a small production armour set produced by Tehachapi employing a mixture of plating and reinforced polymer weaves. This armour set was made famous in 2946, when featured in a Spectrum show, Shadow Siren, by the main character, Déraciné, making the company famous and a trending fad. == In-game description == Fear no frontier while wearing the Aztalan armor. This mixture of armor plating and reinforced fabrics will keep you safe yet swift on your feet. Tehachapi's masterful design gives the armor a subtle yet unmistakable frontier style that also providing ample storage. Suitable for everything from sand dunes to bustling backstreets, the Aztalan is the ideal choice for your next adventure. == Armor components == == Model ==",
+      "imageUrl": "https://media.starcitizen.tools/c/c7/Aztalan_Armor_Set_-_SCT_Mesh_BG-min.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Bastion (armor set)",
+      "slug": "bastion-armor-set",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Bastion armor set is a light armor set manufactured by Greycat Industrial. It consists of the Foundation Undersuit, Bastion Helmet, Bastion Core, Bastion Arms, Bastion Legs. It is marked as a Odin Munitions Corporation (OMC) armor in its game item ID, suggesting that it is being used in Squadron 42. As of Alpha 3.12.0, it is not available in game. == In-game description == Work harder for longer with GreyCat's award-winning Bastion safety harness. Featuring a reinforced composite harness and pads, the Bastion provides your workers with affordable impact protection that are capable of surviving the harshest of environments. == Armor components == == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/3/3f/OMC_suit-01.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Calico",
+      "slug": "calico",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Designed to be an EVA-compliant light combat suit, the Calico set is the perfect armor suit for infiltrators, snipers, thieves, basically anyone who likes to avoid kicking in doors. Built out of a combination of PAB-3 armor and a custom helmet, it can help you weather some incoming fire without slowing you down. == Gallery == == Armor components ==",
+      "imageUrl": "https://media.starcitizen.tools/b/ba/Calico_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Carrion",
+      "slug": "carrion",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Carrion medium armor set was added in Update:Star Citizen Alpha 4.3.2 and can be assumed to be sold by Grey's Market. == Product Description == \"Insert the text of the quote here, without quotation marks.\" == Model == === Variations === Payback (part of CC2025 Goodies Pack) == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/a/a0/Grey%27s_Market.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Citadel",
+      "slug": "citadel",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Citadel is a three-piece heavy armor set manufactured by Kastak Arms. == Armor variants == == Gallery == == Development == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/a/a0/Citadel_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Clash (armor set)",
+      "slug": "clash-armor-set",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Clash armor set is a medium armor set manufactured by Doomsday. == In-game description == Sometimes all you gotta do is put on the right piece of armor to make your message loud and clear. Clash armor first started popping up when the Dredge got strong-armed into mass-producing their armor and it's been scaring everyone stupid since. Now everybody's stealing it. Clash features a reinforced medium plating to get you a good balance of protection without giving up too much speed. == Armor components == == Development == The Clash armor set is introduced in Alpha 3.4.0 as a part of the Shipjacker (Clash) armor set. == References ==",
+      "imageUrl": "https://media.starcitizen.tools/8/82/Clash_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Corbel",
+      "slug": "corbel",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "A heavy utility armor set manufactured by the Clark Defense Systems. == Armor components == == Armor variants == == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Defiance",
+      "slug": "defiance",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Incorporating the same manufacturing know-how and expertise that the UEE Marines have come to rely on, Clark Defense Systems has designed their civilian-line of Defiance heavy armors to stand firm in the face of even the most adverse combat scenarios with its three-star rated protective plating and fully integrated mobility framework. == Armor components == === Armor variants ===",
+      "imageUrl": "https://media.starcitizen.tools/d/db/Star_citizen_defiance_cosplay.jpg",
+      "purchaseLocations": [
+        "area18"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Dust Devil",
+      "slug": "dust-devil",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "TheDust Devil is a heavy armor set. Salvaged pieces of disused protective gear were welded together to make this intimidating armor set. The cape, made from an old Banu wall-hanging, adds an elegant finishing touch. == Armor components == == Model == === Special editions === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "DustUp",
+      "slug": "dustup",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Kastak Arms DustUp is a medium armor set. Its body plating is built off of the same CDS undersuit used by the UEE Marines, it adds reconstructed Omni-Role mkII pieces to give the player solid protection against incoming fire, but the real gem is the modified helmet. It was built to withstand explosions and vacuum. == Gallery == == Armor components == === Variations === == References ==",
+      "imageUrl": "https://media.starcitizen.tools/5/52/DustUp_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "FBL-8a",
+      "slug": "fbl-8a",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The FBL-8a set is an armor set manufactured by Clark Defense Systems. There are currently three color variants available. No helmet belongs to the armor set as of the current LIVE build, but the Mandible Helmet is believed to be the one. == In-game description == CDS's quest to create the ideal light armor continues with the FBL-8a. This light armor will keep you fast on your feet with its strategic mix of protective plating and reinforced nano-weave fabrics. While the armor works with any undersuit, it was specifically designed to match the FBL-8u undersuit with special attention given to how the two fit together to make the set as streamlined and responsive as possible. == Model == === Variations === (All are available in-game only) == Armor components == == Development == The FBL-8a set was introduced in Alpha 3.11.1 in the Intergalactic Aerospace Expo 2950 event. == References ==",
+      "imageUrl": "https://media.starcitizen.tools/4/49/FBL8_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Field Recon Suit",
+      "slug": "field-recon-suit",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "CDS' Field Recon Suit is the perfect solution for the combat operator who wants a little extra protection without compromising any of their situational agility. EdgeCore composite plating is strategically sewn into the nano-weave suit to cover vital organs while keeping the suit flexible. == Armor components ==",
+      "imageUrl": "https://media.starcitizen.tools/5/53/Field_Recon_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Geist Epoque",
+      "slug": "geist-epoque",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Kilgore and Poole Geist Epoque is a light armor set decorated with navy blue and black colors and gold baroque gold detailing that combines the helmet of the Aztalan armor set with the core, arms and legs of the Geist Stealth armor set and the CSP-68L Backpack. == In-game description == == Armor components == == Model == === Special Variants === == Gallery == == Trivia == The Geist Epoque was given to players as a Twitch drop to the players who met the conditions between the 20th of November and the 3rd of December, 2025. == References ==",
+      "imageUrl": "https://media.starcitizen.tools/2/2b/Geist_Epoque_cropped.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Geist Stealth",
+      "slug": "geist-stealth",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Geist Stealth Armor has been crafted from military-grade carbon silk sourced from the same manufacturers that protect the UEE's special forces. Hair-thin filaments woven into the fabric mask the wearer's emissions, making them undetectable via radar, and specialized tubing built into the soles of the boots dampens the sound of footsteps. An ideal synthesis of strength and technology, specialized for stealth gameplay, with high mobility. Armor components can be collected at Onyx Facilities. == Armor components == == Armor variants == === Special editions === == References ==",
+      "imageUrl": "https://media.starcitizen.tools/4/4e/Geist_Golden_Blossom_Suit.webp",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Inquisitor",
+      "slug": "inquisitor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Kastak Arms Inquisitor is a medium armor set. == Product description == Strength and speed combine with the new Inquisitor armor set. Strong yet lightweight alloy plating works alongside reinforced polyfiber weaving to save your skin, but not slow you down. When combined with Kastak Arms' intimidating aesthetic, it's easy to see why this medium armor has become infamous across the Empire. == Armor components == === Variations === === References ===",
+      "imageUrl": "https://media.starcitizen.tools/b/ba/Inquisitor_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Lynx (armor set)",
+      "slug": "lynx-armor-set",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Maintain your mobility with the Lynx combat armor. A high tech polymer weave allows the wearer to withstand enough damage to quickly escape danger. The suit's striking look became famous after being worn by the Seeker in the widely popular \"Fire and Fury\" vids of the mid-2800s. == Armor components ==",
+      "imageUrl": "https://media.starcitizen.tools/a/a7/Lynx_Base_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "MacFlex",
+      "slug": "macflex",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Whether you're planetside or in vacuum, RSI's MacFlex industrial armor set has your back. Reinforced plating keeps you safe from environmental hazards while the array of pouches keep your tools accessible. == Armor components == == Editions == === Rust Society Edition === The Rust Society Edition celebrates blue-collar workers with an exclusive red and tan coloration that hides dirt and wear and tear well. It was given out in individual parts (i.e. Arms, Legs, Torso, Helmet, undersuit), one per month, as Subscriber Flair to Imperator-Level backers. Current subscribers can retro-actively purchase the flair in the store. == Gallery ==",
+      "imageUrl": "https://media.starcitizen.tools/2/21/MacFlex_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Microid Battle Suit",
+      "slug": "microid-battle-suit",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Kastak Arms Microid Battle Suit is a entry-level light armor set. Ceramic plates protect vital areas while a microweave covers the rest, allowing the player to stay light, mobile and protected. The full set is only lootable as of 3.17.1. == Armor components == == Gallery == == Trivia == There's a mannequin wearing the Microid Battle suit at the CIG HQ in Manchester. == References ==",
+      "imageUrl": "https://media.starcitizen.tools/1/19/Microid_Battle_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Morozov-SH",
+      "slug": "morozov-sh",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Roussimoff Morozov-SH is a heavy armor set. Featuring fortified armor plating, special anti-rip protective padding and ample storage, the Morozov-SH is ready to overcome all kinds of adversity. After consulting with security professionals, RRS added a unique high protective collar and a lightweight inner lining based on their recommendation; making the Morozov-SH both comfortable and a battlefield stalwart. == Armor components == == Model == === Special editions === == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/c/c4/Morozov-SH_Suit_-_SCT_BG.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Odyssey II",
+      "slug": "odyssey-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Odyssey II Undersuit is a rugged, dependable flightsuit that comes in several different color combinations. As of Alpha 3.3.7, this is part of the player's default loadout, in the \"Alpha\" color scheme. == In-game description == \"The latest generation of RSI's classic Odyssey undersuit features a new rugged design capable of withstanding the harshest of conditions in space or planetside. Built using the latest microweave technology, the Odyssey II undersuit provides hours of comfort in locations that are anything but comfortable.\"in-game description == Armor Components == == Development == == Trivia == RS1 Odysey Spacesuits appear to be a rip-off version of this product, and are Prohibited Goods within Crusader Industries Jurisdiction. A full sized mannequin of the Odyssey suit was made by Mangostone. == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/6/64/Odyssey_II_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "ORC-mkV",
+      "slug": "orc-mkv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Clark Defense Systems' ORC-mkV armor has been a trusted and enduring choice on the battlefield for centuries. This medium armor is highly regarded for its dependable and durable construction, which combines composite plating with a special fiber reinforced polymer. The result is a solid level of protection that allows for a wide range of movement. The ORC-mkV is a prime example of how dependable and durable armor never goes out of style, and continues to be a staple for those who require reliable protection in high-risk situations. == Armor components == === Variations ===",
+      "imageUrl": "https://media.starcitizen.tools/3/32/ORC-mkV_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "ORC-mkX",
+      "slug": "orc-mkx",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The mark X is the latest in CDS' award-winning Omni-Role Combat armor series. This EVA-rated suit features new EdgeCore composite weave technology, maximizing protection against projectiles, explosives and the elements while minimizing operator agility. == Armor components == == Armor variants ==",
+      "imageUrl": "https://media.starcitizen.tools/6/64/ORC-mkX_Woodland_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Overlord",
+      "slug": "overlord",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Doomsday's Overlord Suit is an armor set modeled resembling the Overlords outlaw group. == Product description == Some consider the Overlords heroes and other criminals. Doomsday doesn't care either way. All we know is that the vigilante group that made a name for itself targeting outlaws in Pyro has some kickass, distinct, and resilient armor. Since we respect the rule of law as much as they do, we made a limited run of armor inspired by them. If they have a problem with it, they can come find us. The Overlord armor lets your foes know that you mean business. This heavy armor set is constructed with durable composite plating strategically placed to disperse the force of impacts and a high, reinforced collar that provides additional protection for your neck and back of head. The suit also layers in high-strength synthetic fabrics around the joints to ensure ease of moment without sacrifi",
+      "imageUrl": "https://media.starcitizen.tools/5/59/Overlord_Supernova.jpg",
+      "purchaseLocations": [],
+      "foundLocations": [
+        "pyro"
+      ]
+    },
+    {
+      "name": "PAB-1",
+      "slug": "pab-1",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Clark Defense Systems built the PAB-1 light but strong enough to stay in a fight. The first CDS suit to utilize their proprietary nano-weave, this light armor became a favorite of those who needed a little extra protection while remaining agile. == Armor components ==",
+      "imageUrl": "https://media.starcitizen.tools/9/91/PAB-1_armor_set.jpg",
+      "purchaseLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
+        "seraphim_station",
+        "ruin-station",
+        "terminus",
+        "bloom",
+        "nyx-station-primary"
+      ],
+      "foundLocations": []
+    },
+    {
+      "name": "Palatino",
+      "slug": "palatino",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "A \"Battle Tech\" heavy armor set manufactured by Quirinus Tech. == Product description == \"Elegant design meets innovation with the Palatino armor from Quirinus Tech. The fully-enclosed helmet comes equipped with a suite of sensors that connects the wearer to the wider world while providing supreme protection.\" == Armor components == == Armor variants == == Special variants == == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Regal-CS1",
+      "slug": "regal-cs1",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Regal-CS1 is a light armor set manufactured by Roussimoff Rehabilitation Systems. It is marked as a Shubin Interstellar security uniform in its game item ID, suggesting that it is being used by the security staff on the Archon Base in Squadron 42. As of Alpha 3.12.0, it is not available in game. == Armor components == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/4/46/ProtSkin_Undersuit.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Sol-III",
+      "slug": "sol-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "A flight suit with open-face helm and EVA thrusters. == Product Description == \"The Aviator edition is primarily green-beige with light green accents.\" == Model == === Variations === Aviator (part of CC2955 Digital Goodies pack) == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/4/4c/Sol-III_Aviator.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Stitcher",
+      "slug": "stitcher",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Stitcher is a make-do-and-mend inspired medium armor set from manufacturer Doomsday. == Product description == Dress to impress in scrapheap chic! The Stitcher armor might look like it's held together with tape and good intentions but we swear it's space safe. The intentional ramshackle design features a funky double collar, plenty of storage, and a ribbed industrial hose attached to a metal cylinder on the back just for the hell of it. == Armor components == == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/d/d5/StitcherSet.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Strata",
+      "slug": "strata",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "Strata is a medium armor manufactured by Greycat Industrial. The Strata armor with the branding of one of the four Stanton system mega-corporations is a reward for participating in the Second Life Resource Drive, the base variant after reaching Tier 2 and the black variant after reaching Tier 5. Other Strata armor sets are available on the pledge store. == Armor components == == Armor variants == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/5/54/Strata_Greycat_Industrial_set_01_-_cropped.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "TrueDef-Pro",
+      "slug": "truedef-pro",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Virgil TrueDef-Pro is a light armor set. Its line of personal body armor provide strategic protection of vital areas while keeping the player fast and mobile. Numerous planetary law enforcement organizations and even the Advocacy use versions of the TrueDef to protect their officers and agents. It is combat equivalent of the RSI Venture armor. Where the Venture armor is designed primarily for space operations, the TrueDef Pro pieces offer a similar level of added protection (20% armor boost) while maximizing speed and mobility for ground forces. The most significant difference between the two is that where the RSI suit focuses on allowing natural visibility with a 'glass cockpit' style HUD, the TrueDef-Pro armor includes the famed Argus helmet that covers the eyes and adds the possibility of additional optical enhancements. == Armor components == == Trivia == It was originally meant ",
+      "imageUrl": "https://media.starcitizen.tools/1/16/TrueDef-Pro_armor_set.jpg",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Venture",
+      "slug": "venture",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The RSI Venture light armor set is built for the unknown. Its EVA-rated protection system features an undersuit built from a durable polymer weave that's designed to withstand extreme environmental conditions and features component armor pieces to protect you against impacts and particulates. It is akin to the outer space version of a diver's skinsuit: it's designed primarily to protect from the vacuum rather than to serve as a bonus in combat. As such, it prioritizes visibility and range of motion over physical blocking (though it does offer a 20% increase in overall protection). The Venture suit is perfect for the average spacecraft pilot more concerned about hull breaches than needing to engage in first person combat. == Armor components == == Editions == == Development == Venture was one of the very first sets completed by CIG, and it has appeared in a variety of ship commercials and",
+      "imageUrl": "https://media.starcitizen.tools/6/68/Venture_Ascension_Kit_-_Store.webp",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Wrecker",
+      "slug": "wrecker",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Wrecker heavy armor set was added in Update:Star Citizen Alpha 4.3.2 and can be assumed to be sold by Grey's Market. == Product Description == \"Insert the text of the quote here, without quotation marks.\" == Model == === Variations === Payback (part of CC2025 Goodies Pack) == Gallery == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/a/a0/Grey%27s_Market.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    },
+    {
+      "name": "Xanthule",
+      "slug": "xanthule",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.76,
+      "description": "The Xanthule flight suit manufactured by Syang Fabrication, of the Xi'an Syang House, is a result of centuries of innovation, that has been meticulously tailored to fit the Human physique. This sleek and stylish suit showcases breathable lightweight plating, crafted with a carbon-silk weave, ensuring reliable protection without compromising the renowned aesthetic of the House. == Armor components == == Model == === Special editions === == Buyable at == == Gallery == == Development == == Trivia == == References ==",
+      "imageUrl": "https://media.starcitizen.tools/8/8a/Set-SYFB-Xanthule-Promo_-_Crop.png",
+      "purchaseLocations": [],
+      "foundLocations": []
+    }
+  ]
+}

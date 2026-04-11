@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lootsource:erkul-pages",
+    "slug": "erkul-pages",
+    "name": "Erkul page scan",
+    "description": "Supplementary scan of Erkul public pages for items, shops, and location references.",
+    "verificationStatus": "partial",
+    "confidenceScore": 0.35,
+    "sourceReferences": [
+      {
+        "source": "erkul",
+        "url": "https://www.erkul.games/live/shops",
+        "note": "page fetched"
+      },
+      {
+        "source": "erkul",
+        "url": "https://www.erkul.games/live/calculator",
+        "note": "page fetched"
+      },
+      {
+        "source": "erkul",
+        "url": "https://www.erkul.games/live/ships",
+        "note": "page fetched"
+      },
+      {
+        "source": "erkul",
+        "url": "https://www.erkul.games/",
+        "note": "page fetched"
+      }
+    ],
+    "mergedSources": [
+      "erkul"
+    ]
+  },
+  {
+    "id": "lootsource:sc-crafter-import",
+    "slug": "sc-crafter-import",
+    "name": "SC Crafter API import run",
+    "description": "High-coverage crafting import from SC Crafter API",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.85,
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/summary",
+        "note": "source version LIVE-4.7.0-hotfix-11576750"
+      },
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints",
+        "note": "parsed 1044 blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  }
+]

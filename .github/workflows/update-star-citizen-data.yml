@@ -1,0 +1,65 @@
+name: Update Star Citizen Data
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: star-citizen-data-update
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run source import
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          UEX_API_KEY: ${{ secrets.UEX_API_KEY }}
+        run: npm run import:sources
+
+      - name: Build merged JSON
+        run: npm run export:json
+
+      - name: Build split JSON files
+        run: npm run export:split
+
+      - name: Run validation
+        run: npm run validate:data
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/
+          git add data/ reports/
+
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "chore(data): auto-update Star Citizen dataset"
+            git push
+          fi

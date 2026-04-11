@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "sourceKey": "erkul",
+    "sourceName": "Erkul",
+    "fetchedAt": "2026-04-11T16:26:24.214Z",
+    "priority": 50
+  },
+  "systems": [],
+  "locations": [],
+  "resources": [],
+  "miningMethods": [],
+  "tools": [],
+  "vehicles": [],
+  "vendors": [],
+  "lootSources": [
+    {
+      "id": "lootsource:erkul-pages",
+      "slug": "erkul-pages",
+      "name": "Erkul page scan",
+      "description": "Supplementary scan of Erkul public pages for items, shops, and location references.",
+      "verificationStatus": "partial",
+      "confidenceScore": 0.35,
+      "sourceReferences": [
+        {
+          "source": "erkul",
+          "url": "https://www.erkul.games/live/shops",
+          "note": "page fetched"
+        },
+        {
+          "source": "erkul",
+          "url": "https://www.erkul.games/live/calculator",
+          "note": "page fetched"
+        },
+        {
+          "source": "erkul",
+          "url": "https://www.erkul.games/live/ships",
+          "note": "page fetched"
+        },
+        {
+          "source": "erkul",
+          "url": "https://www.erkul.games/",
+          "note": "page fetched"
+        }
+      ]
+    }
+  ],
+  "weapons": [],
+  "armor": [],
+  "blueprints": [],
+  "recipes": [],
+  "_rawPages": [
+    {
+      "key": "shop",
+      "url": "https://www.erkul.games/live/shops",
+      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+    },
+    {
+      "key": "fpsWeapons",
+      "url": "https://www.erkul.games/live/calculator",
+      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+    },
+    {
+      "key": "vehicles",
+      "url": "https://www.erkul.games/live/ships",
+      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+    },
+    {
+      "key": "index",
+      "url": "https://www.erkul.games/",
+      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+    }
+  ]
+}

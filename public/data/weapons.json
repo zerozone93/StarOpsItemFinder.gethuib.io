@@ -1,0 +1,4659 @@
+[
+  {
+    "name": "C54 SMG",
+    "slug": "c54-smg",
+    "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == Easy to handle and a beauty to behold with its purple accented styling, the C54 is a sleek and precisely balanced SMG from Gemini. Its lightweight polymer frame and ergonomic design makes it ideal for close quarter engagements. The C54 is capable of firing 10mm rounds on full auto to provide maximum support and target saturation to en",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/7/75/Gemini_-_C54.jpg",
+    "class": "smg",
+    "damageType": "ballistic_or_energy_variant_unknown",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "P4-AR Rifle",
+    "slug": "p4-ar-rifle",
+    "description": "The P4-AR Rifle is a 5.56mm, selective-fire assault rifle manufactured by Behring Applied Technology. It boasts an effective range of 50 meters and can be operated in semi-automatic, three-round burst, and fully automatic modes. The P4-AR rifle is equipped with a collapsible stock and shortened barrel, rendering it a suitable option for close-quarter combat. Its accuracy and user-friendly design have earned it widespread recognition among security, military, and civilian users alike, cementing its status as a highly regarded firearm. == Description == Behring's classic P4-AR rifle features a collapsible stock and shortened barrel, making it an ideal choice for close-quarter firefights. Its accuracy and general ease of use make it universally valued among security, military and civilian users. == Item ports == == Acquisition == == Model == === Variants === == Lore == The P4-AR Rifle was t",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/b/b2/P4-AR_4.6.png",
+    "class": "assault_rifle",
+    "damageType": "ballistic",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "P8-SC SMG",
+    "slug": "p8-sc-smg",
+    "description": "The P8-SC SMG is a 10-mm, selective-fire submachine gun manufactured by Behring Applied Technology. It boasts an effective range of 30 meters and can be fired in rapid or burst mode. The weapon features a folding stock for ease of transport and storage. The UEE Marines, widely regarded as the top fighting force in the 'verse, have adopted the P8-SC as their standard ballistic submachine gun. However, the weapon has also gained popularity among civilians seeking personal safety and protection. Its widespread use is a testament to its reliability and effectiveness in combat situations. == Description == When the top fighting force in the universe chooses a weapon as their standard, it pays to stand up and take notice. The Behring-crafted P8-SC has been the ballistic submachine gun of choice for the UEE Marines since it first came off the production line, but since then, many have come to r",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/f/fe/StarCitizen-Preview_BEHR_P8SC_01-pcgh.jpg",
+    "class": "smg",
+    "damageType": "ballistic",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "FS-9 LMG",
+    "slug": "fs-9-lmg",
+    "description": "The FS-9 LMG is a 5-mm light machine gun manufactured by Behring Applied Technology. With an effective range of 40 meters, the FS-9 is designed to be a dominant force on the battlefield. Behring's intention was to create a weapon that could provide overwhelming firepower. The full auto mode of the light machine gun is particularly useful for laying down covering fire or holding back advancing enemies. Additionally, the FS-9 is renowned for its ability to maintain accuracy while unleashing sustained fire, making it a highly effective weapon in combat situations. == Description == Behring designed the FS-9 to be an overwhelming battlefield force. This light machine gun features a full auto mode that makes it ideal for laying down covering fire or holding back advancing enemies. The FS-9 is also acclaimed for its ability to maintain accuracy while unleashing sustained fire. == Item ports ==",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/b/bd/FS-9_-_On_crate_with_extra_magazine.jpg",
+    "class": "lmg",
+    "damageType": "ballistic",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Gallant Rifle",
+    "slug": "gallant-rifle",
+    "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology, there will always be a place for a dependable a",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/e/ef/Gallant_-_with_3_clips_and_ArcLight_-_Flat.png",
+    "class": "assault_rifle",
+    "damageType": "energy",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Custodian SMG",
+    "slug": "custodian-smg",
+    "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == The Custodian SMG from Kastak Arms focuses on a high rate of fire over damage and accuracy making it an ideal choice for sweeping through tight environments and close quarters combat. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custod",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/a/a8/Custodian_-_with_x4_clips_-_Flat.jpg",
+    "class": "smg",
+    "damageType": "energy",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "S71 Rifle",
+    "slug": "s71-rifle",
+    "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == With the S71, Gemini designed an ergonomic assault rifle ideal for mid-range engagements. Chambered with a smaller caliber round than other weapons in its class, the S71 has become popular among private military professionals for its sleek aesthetics and precise accuracy. == Item ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "purchaseLocations": [
+      "area18",
+      "new_babbage",
+      "arc_l1",
+      "cru_l1",
+      "cru_l5",
+      "hur_l1",
+      "ruin-station",
+      "terminus",
+      "bloom",
+      "nyx-station-primary"
+    ],
+    "foundLocations": [],
+    "imageUrl": "https://media.starcitizen.tools/2/2c/Gmni-st71.png",
+    "class": "battle_rifle",
+    "damageType": "ballistic",
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "id": "weapon:zenith-laser-sniper-rifle-bp-craft-volt-sniper-energy-01",
+    "slug": "zenith-laser-sniper-rifle-bp-craft-volt-sniper-energy-01",
+    "name": "Zenith Laser Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:zenith-laser-sniper-rifle-bp-craft-volt-sniper-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:zenith-laser-sniper-rifle-bp-craft-volt-sniper-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:pulse-laser-pistol-bp-craft-volt-pistol-energy-01",
+    "slug": "pulse-laser-pistol-bp-craft-volt-pistol-energy-01",
+    "name": "Pulse Laser Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:pulse-laser-pistol-bp-craft-volt-pistol-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:pulse-laser-pistol-bp-craft-volt-pistol-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:yubarev-pistol-bp-craft-lbco-pistol-energy-01",
+    "slug": "yubarev-pistol-bp-craft-lbco-pistol-energy-01",
+    "name": "Yubarev Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:yubarev-pistol-bp-craft-lbco-pistol-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:yubarev-pistol-bp-craft-lbco-pistol-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-pistol-bp-craft-gmni-pistol-ballistic-01",
+    "slug": "lh86-pistol-bp-craft-gmni-pistol-ballistic-01",
+    "name": "LH86 Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-pistol-bp-craft-gmni-pistol-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-pistol-bp-craft-gmni-pistol-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:salvo-frag-pistol-bp-craft-hdgw-pistol-ballistic-01",
+    "slug": "salvo-frag-pistol-bp-craft-hdgw-pistol-ballistic-01",
+    "name": "Salvo Frag Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:salvo-frag-pistol-bp-craft-hdgw-pistol-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:salvo-frag-pistol-bp-craft-hdgw-pistol-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:coda-pistol-bp-craft-ksar-pistol-ballistic-01",
+    "slug": "coda-pistol-bp-craft-ksar-pistol-ballistic-01",
+    "name": "Coda Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:coda-pistol-bp-craft-ksar-pistol-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:coda-pistol-bp-craft-ksar-pistol-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:s-38-pistol-bp-craft-behr-pistol-ballistic-01",
+    "slug": "s-38-pistol-bp-craft-behr-pistol-ballistic-01",
+    "name": "S-38 Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:s-38-pistol-bp-craft-behr-pistol-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:s-38-pistol-bp-craft-behr-pistol-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:tripledown-pistol-bp-craft-none-pistol-ballistic-01",
+    "slug": "tripledown-pistol-bp-craft-none-pistol-ballistic-01",
+    "name": "Tripledown Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:tripledown-pistol-bp-craft-none-pistol-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:tripledown-pistol-bp-craft-none-pistol-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-sniper-rifle-bp-craft-klwe-sniper-energy-01",
+    "slug": "arrowhead-sniper-rifle-bp-craft-klwe-sniper-energy-01",
+    "name": "Arrowhead Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-sniper-rifle-bp-craft-klwe-sniper-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-sniper-rifle-bp-craft-klwe-sniper-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:atzkav-sniper-rifle-bp-craft-lbco-sniper-energy-01",
+    "slug": "atzkav-sniper-rifle-bp-craft-lbco-sniper-energy-01",
+    "name": "Atzkav Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:atzkav-sniper-rifle-bp-craft-lbco-sniper-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:atzkav-sniper-rifle-bp-craft-lbco-sniper-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-rifle-bp-craft-ksar-rifle-energy-01",
+    "slug": "karna-rifle-bp-craft-ksar-rifle-energy-01",
+    "name": "Karna Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-rifle-bp-craft-ksar-rifle-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-rifle-bp-craft-ksar-rifle-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:a03-sniper-rifle-bp-craft-gmni-sniper-ballistic-01",
+    "slug": "a03-sniper-rifle-bp-craft-gmni-sniper-ballistic-01",
+    "name": "A03 Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:a03-sniper-rifle-bp-craft-gmni-sniper-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:a03-sniper-rifle-bp-craft-gmni-sniper-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p6-lr-sniper-rifle-bp-craft-behr-sniper-ballistic-01",
+    "slug": "p6-lr-sniper-rifle-bp-craft-behr-sniper-ballistic-01",
+    "name": "P6-LR Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p6-lr-sniper-rifle-bp-craft-behr-sniper-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:p6-lr-sniper-rifle-bp-craft-behr-sniper-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:scalpel-sniper-rifle-bp-craft-ksar-sniper-ballistic-01",
+    "slug": "scalpel-sniper-rifle-bp-craft-ksar-sniper-ballistic-01",
+    "name": "Scalpel Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:scalpel-sniper-rifle-bp-craft-ksar-sniper-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:scalpel-sniper-rifle-bp-craft-ksar-sniper-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-smg-bp-craft-ksar-smg-energy-01",
+    "slug": "custodian-smg-bp-craft-ksar-smg-energy-01",
+    "name": "Custodian SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-smg-bp-craft-ksar-smg-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-smg-bp-craft-ksar-smg-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lumin-v-smg-bp-craft-klwe-smg-energy-01",
+    "slug": "lumin-v-smg-bp-craft-klwe-smg-energy-01",
+    "name": "Lumin V SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lumin-v-smg-bp-craft-klwe-smg-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:lumin-v-smg-bp-craft-klwe-smg-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:ripper-sunblock-smg-bp-craft-none-smg-energy-01",
+    "slug": "ripper-sunblock-smg-bp-craft-none-smg-energy-01",
+    "name": "Ripper \"Sunblock\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:ripper-sunblock-smg-bp-craft-none-smg-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:ripper-sunblock-smg-bp-craft-none-smg-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-rifle-bp-craft-klwe-rifle-energy-01",
+    "slug": "gallant-rifle-bp-craft-klwe-rifle-energy-01",
+    "name": "Gallant Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-rifle-bp-craft-klwe-rifle-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-rifle-bp-craft-klwe-rifle-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:demeco-lmg-bp-craft-klwe-lmg-energy-01",
+    "slug": "demeco-lmg-bp-craft-klwe-lmg-energy-01",
+    "name": "Demeco LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:demeco-lmg-bp-craft-klwe-lmg-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:demeco-lmg-bp-craft-klwe-lmg-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-shotgun-bp-craft-ksar-shotgun-energy-01",
+    "slug": "devastator-shotgun-bp-craft-ksar-shotgun-energy-01",
+    "name": "Devastator Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-shotgun-bp-craft-ksar-shotgun-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-shotgun-bp-craft-ksar-shotgun-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:quartz-energy-smg-bp-craft-volt-smg-energy-01",
+    "slug": "quartz-energy-smg-bp-craft-volt-smg-energy-01",
+    "name": "Quartz Energy SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:quartz-energy-smg-bp-craft-volt-smg-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:quartz-energy-smg-bp-craft-volt-smg-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fresnel-energy-lmg-bp-craft-volt-lmg-energy-01",
+    "slug": "fresnel-energy-lmg-bp-craft-volt-lmg-energy-01",
+    "name": "Fresnel Energy LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fresnel-energy-lmg-bp-craft-volt-lmg-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:fresnel-energy-lmg-bp-craft-volt-lmg-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:parallax-energy-assault-rifle-bp-craft-volt-rifle-energy-01",
+    "slug": "parallax-energy-assault-rifle-bp-craft-volt-rifle-energy-01",
+    "name": "Parallax Energy Assault Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:parallax-energy-assault-rifle-bp-craft-volt-rifle-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:parallax-energy-assault-rifle-bp-craft-volt-rifle-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:prism-laser-shotgun-bp-craft-volt-shotgun-energy-01",
+    "slug": "prism-laser-shotgun-bp-craft-volt-shotgun-energy-01",
+    "name": "Prism Laser Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:prism-laser-shotgun-bp-craft-volt-shotgun-energy-01"
+    ],
+    "blueprintIds": [
+      "blueprint:prism-laser-shotgun-bp-craft-volt-shotgun-energy-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:br-2-shotgun-bp-craft-behr-shotgun-ballistic-01",
+    "slug": "br-2-shotgun-bp-craft-behr-shotgun-ballistic-01",
+    "name": "BR-2 Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:br-2-shotgun-bp-craft-behr-shotgun-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:br-2-shotgun-bp-craft-behr-shotgun-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p4-ar-rifle-bp-craft-behr-rifle-ballistic-01",
+    "slug": "p4-ar-rifle-bp-craft-behr-rifle-ballistic-01",
+    "name": "P4-AR Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p4-ar-rifle-bp-craft-behr-rifle-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:p4-ar-rifle-bp-craft-behr-rifle-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:pulverizer-lmg-bp-craft-none-lmg-ballistic-01",
+    "slug": "pulverizer-lmg-bp-craft-none-lmg-ballistic-01",
+    "name": "Pulverizer LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:pulverizer-lmg-bp-craft-none-lmg-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:pulverizer-lmg-bp-craft-none-lmg-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-ar-rifle-bp-craft-behr-rifle-ballistic-02-civilian",
+    "slug": "p8-ar-rifle-bp-craft-behr-rifle-ballistic-02-civilian",
+    "name": "P8-AR Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-ar-rifle-bp-craft-behr-rifle-ballistic-02-civilian"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-ar-rifle-bp-craft-behr-rifle-ballistic-02-civilian"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:deadrig-shotgun-bp-craft-none-shotgun-ballistic-01",
+    "slug": "deadrig-shotgun-bp-craft-none-shotgun-ballistic-01",
+    "name": "Deadrig Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:deadrig-shotgun-bp-craft-none-shotgun-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:deadrig-shotgun-bp-craft-none-shotgun-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:f55-lmg-bp-craft-gmni-lmg-ballistic-01",
+    "slug": "f55-lmg-bp-craft-gmni-lmg-ballistic-01",
+    "name": "F55 LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:f55-lmg-bp-craft-gmni-lmg-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:f55-lmg-bp-craft-gmni-lmg-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:s71-rifle-bp-craft-gmni-rifle-ballistic-01",
+    "slug": "s71-rifle-bp-craft-gmni-rifle-ballistic-01",
+    "name": "S71 Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:s71-rifle-bp-craft-gmni-rifle-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:s71-rifle-bp-craft-gmni-rifle-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:ravager-212-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01",
+    "slug": "ravager-212-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01",
+    "name": "Ravager-212 Twin Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:ravager-212-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:ravager-212-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:killshot-rifle-bp-craft-none-rifle-multi-01",
+    "slug": "killshot-rifle-bp-craft-none-rifle-multi-01",
+    "name": "Killshot Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:killshot-rifle-bp-craft-none-rifle-multi-01"
+    ],
+    "blueprintIds": [
+      "blueprint:killshot-rifle-bp-craft-none-rifle-multi-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:c54-smg-bp-craft-gmni-smg-ballistic-01",
+    "slug": "c54-smg-bp-craft-gmni-smg-ballistic-01",
+    "name": "C54 SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:c54-smg-bp-craft-gmni-smg-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:c54-smg-bp-craft-gmni-smg-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fs-9-lmg-bp-craft-behr-lmg-ballistic-01",
+    "slug": "fs-9-lmg-bp-craft-behr-lmg-ballistic-01",
+    "name": "FS-9 LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fs-9-lmg-bp-craft-behr-lmg-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:fs-9-lmg-bp-craft-behr-lmg-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:r97-shotgun-bp-craft-gmni-shotgun-ballistic-01",
+    "slug": "r97-shotgun-bp-craft-gmni-shotgun-ballistic-01",
+    "name": "R97 Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:r97-shotgun-bp-craft-gmni-shotgun-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:r97-shotgun-bp-craft-gmni-shotgun-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-smg-bp-craft-behr-smg-ballistic-01",
+    "slug": "p8-sc-smg-bp-craft-behr-smg-ballistic-01",
+    "name": "P8-SC SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-smg-bp-craft-behr-smg-ballistic-01"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-smg-bp-craft-behr-smg-ballistic-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-rifle-battery-35-cap-bp-craft-ksar-rifle-energy-01-mag",
+    "slug": "karna-rifle-battery-35-cap-bp-craft-ksar-rifle-energy-01-mag",
+    "name": "Karna Rifle Battery (35 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Plasma",
+    "category": "Ammo / Plasma",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-rifle-battery-35-cap-bp-craft-ksar-rifle-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-rifle-battery-35-cap-bp-craft-ksar-rifle-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-shotgun-battery-12-cap-bp-craft-ksar-shotgun-energy-01-mag",
+    "slug": "devastator-shotgun-battery-12-cap-bp-craft-ksar-shotgun-energy-01-mag",
+    "name": "Devastator Shotgun Battery (12 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Plasma",
+    "category": "Ammo / Plasma",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-shotgun-battery-12-cap-bp-craft-ksar-shotgun-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-shotgun-battery-12-cap-bp-craft-ksar-shotgun-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:prism-laser-shotgun-battery-20-cap-bp-craft-volt-shotgun-energy-01-mag",
+    "slug": "prism-laser-shotgun-battery-20-cap-bp-craft-volt-shotgun-energy-01-mag",
+    "name": "Prism Laser Shotgun Battery (20 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Plasma",
+    "category": "Ammo / Plasma",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:prism-laser-shotgun-battery-20-cap-bp-craft-volt-shotgun-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:prism-laser-shotgun-battery-20-cap-bp-craft-volt-shotgun-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:br-2-shotgun-magazine-12-cap-bp-craft-behr-shotgun-ballistic-01-mag",
+    "slug": "br-2-shotgun-magazine-12-cap-bp-craft-behr-shotgun-ballistic-01-mag",
+    "name": "BR-2 Shotgun Magazine (12 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Shotgun",
+    "category": "Ammo / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:br-2-shotgun-magazine-12-cap-bp-craft-behr-shotgun-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:br-2-shotgun-magazine-12-cap-bp-craft-behr-shotgun-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:ravager-212-twin-shotgun-magazine-16-cap-bp-craft-ksar-shotgun-ballistic-01-mag",
+    "slug": "ravager-212-twin-shotgun-magazine-16-cap-bp-craft-ksar-shotgun-ballistic-01-mag",
+    "name": "Ravager-212 Twin Shotgun Magazine (16 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Shotgun",
+    "category": "Ammo / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:ravager-212-twin-shotgun-magazine-16-cap-bp-craft-ksar-shotgun-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:ravager-212-twin-shotgun-magazine-16-cap-bp-craft-ksar-shotgun-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:r97-shotgun-magazine-18-cap-bp-craft-gmni-shotgun-ballistic-01-mag",
+    "slug": "r97-shotgun-magazine-18-cap-bp-craft-gmni-shotgun-ballistic-01-mag",
+    "name": "R97 Shotgun Magazine (18 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Shotgun",
+    "category": "Ammo / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:r97-shotgun-magazine-18-cap-bp-craft-gmni-shotgun-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:r97-shotgun-magazine-18-cap-bp-craft-gmni-shotgun-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:tripledown-pistol-magazine-12-cap-bp-craft-none-pistol-ballistic-01-mag",
+    "slug": "tripledown-pistol-magazine-12-cap-bp-craft-none-pistol-ballistic-01-mag",
+    "name": "Tripledown Pistol Magazine (12 Cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Shotgun",
+    "category": "Ammo / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:tripledown-pistol-magazine-12-cap-bp-craft-none-pistol-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:tripledown-pistol-magazine-12-cap-bp-craft-none-pistol-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:deadrig-shotgun-magazine-8-cap-bp-craft-none-shotgun-ballistic-01-mag",
+    "slug": "deadrig-shotgun-magazine-8-cap-bp-craft-none-shotgun-ballistic-01-mag",
+    "name": "Deadrig Shotgun Magazine (8 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Shotgun",
+    "category": "Ammo / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:deadrig-shotgun-magazine-8-cap-bp-craft-none-shotgun-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:deadrig-shotgun-magazine-8-cap-bp-craft-none-shotgun-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lumin-v-smg-battery-45-cap-bp-craft-klwe-smg-energy-01-mag",
+    "slug": "lumin-v-smg-battery-45-cap-bp-craft-klwe-smg-energy-01-mag",
+    "name": "Lumin V SMG Battery (45 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Laser",
+    "category": "Ammo / Laser",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lumin-v-smg-battery-45-cap-bp-craft-klwe-smg-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:lumin-v-smg-battery-45-cap-bp-craft-klwe-smg-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-rifle-battery-45-cap-bp-craft-klwe-rifle-energy-01-mag",
+    "slug": "gallant-rifle-battery-45-cap-bp-craft-klwe-rifle-energy-01-mag",
+    "name": "Gallant Rifle Battery (45 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Laser",
+    "category": "Ammo / Laser",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-rifle-battery-45-cap-bp-craft-klwe-rifle-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-rifle-battery-45-cap-bp-craft-klwe-rifle-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:pulse-laser-pistol-battery-60-cap-bp-craft-volt-pistol-energy-01-mag",
+    "slug": "pulse-laser-pistol-battery-60-cap-bp-craft-volt-pistol-energy-01-mag",
+    "name": "Pulse Laser Pistol Battery (60 Cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Laser",
+    "category": "Ammo / Laser",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:pulse-laser-pistol-battery-60-cap-bp-craft-volt-pistol-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:pulse-laser-pistol-battery-60-cap-bp-craft-volt-pistol-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-sniper-rifle-battery-16-cap-bp-craft-klwe-sniper-energy-01-mag",
+    "slug": "arrowhead-sniper-rifle-battery-16-cap-bp-craft-klwe-sniper-energy-01-mag",
+    "name": "Arrowhead Sniper Rifle Battery (16 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Laser",
+    "category": "Ammo / Laser",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-sniper-rifle-battery-16-cap-bp-craft-klwe-sniper-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-sniper-rifle-battery-16-cap-bp-craft-klwe-sniper-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-smg-magazine-60-cap-bp-craft-ksar-smg-energy-01-mag",
+    "slug": "custodian-smg-magazine-60-cap-bp-craft-ksar-smg-energy-01-mag",
+    "name": "Custodian SMG Magazine (60 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Laser",
+    "category": "Ammo / Laser",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-smg-magazine-60-cap-bp-craft-ksar-smg-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-smg-magazine-60-cap-bp-craft-ksar-smg-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:quartz-energy-smg-battery-45-cap-bp-craft-volt-smg-energy-01-mag",
+    "slug": "quartz-energy-smg-battery-45-cap-bp-craft-volt-smg-energy-01-mag",
+    "name": "Quartz Energy SMG Battery (45 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Laser",
+    "category": "Ammo / Laser",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:quartz-energy-smg-battery-45-cap-bp-craft-volt-smg-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:quartz-energy-smg-battery-45-cap-bp-craft-volt-smg-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:parallax-rifle-battery-80-cap-bp-craft-volt-rifle-energy-01-mag",
+    "slug": "parallax-rifle-battery-80-cap-bp-craft-volt-rifle-energy-01-mag",
+    "name": "Parallax Rifle Battery (80 Cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Electron",
+    "category": "Ammo / Electron",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:parallax-rifle-battery-80-cap-bp-craft-volt-rifle-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:parallax-rifle-battery-80-cap-bp-craft-volt-rifle-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:atzkav-sniper-rifle-battery-8-cap-bp-craft-lbco-sniper-energy-01-mag",
+    "slug": "atzkav-sniper-rifle-battery-8-cap-bp-craft-lbco-sniper-energy-01-mag",
+    "name": "Atzkav Sniper Rifle Battery (8 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Electron",
+    "category": "Ammo / Electron",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:atzkav-sniper-rifle-battery-8-cap-bp-craft-lbco-sniper-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:atzkav-sniper-rifle-battery-8-cap-bp-craft-lbco-sniper-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:yubarev-pistol-battery-10-cap-bp-craft-lbco-pistol-energy-01-mag",
+    "slug": "yubarev-pistol-battery-10-cap-bp-craft-lbco-pistol-energy-01-mag",
+    "name": "Yubarev Pistol Battery (10 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Electron",
+    "category": "Ammo / Electron",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:yubarev-pistol-battery-10-cap-bp-craft-lbco-pistol-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:yubarev-pistol-battery-10-cap-bp-craft-lbco-pistol-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:zenith-laser-sniper-rifle-battery-22-cap-bp-craft-volt-sniper-energy-01-mag",
+    "slug": "zenith-laser-sniper-rifle-battery-22-cap-bp-craft-volt-sniper-energy-01-mag",
+    "name": "Zenith Laser Sniper Rifle Battery (22 Cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Electron",
+    "category": "Ammo / Electron",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:zenith-laser-sniper-rifle-battery-22-cap-bp-craft-volt-sniper-energy-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:zenith-laser-sniper-rifle-battery-22-cap-bp-craft-volt-sniper-energy-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:s71-rifle-magazine-30-cap-bp-craft-gmni-rifle-ballistic-01-mag",
+    "slug": "s71-rifle-magazine-30-cap-bp-craft-gmni-rifle-ballistic-01-mag",
+    "name": "S71 Rifle Magazine (30 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:s71-rifle-magazine-30-cap-bp-craft-gmni-rifle-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:s71-rifle-magazine-30-cap-bp-craft-gmni-rifle-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:behr-rifle-ballistic-02-mag-civilian-bp-craft-behr-rifle-ballistic-02-mag-civilian",
+    "slug": "behr-rifle-ballistic-02-mag-civilian-bp-craft-behr-rifle-ballistic-02-mag-civilian",
+    "name": "Behr Rifle Ballistic 02 Mag Civilian",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:behr-rifle-ballistic-02-mag-civilian-bp-craft-behr-rifle-ballistic-02-mag-civilian"
+    ],
+    "blueprintIds": [
+      "blueprint:behr-rifle-ballistic-02-mag-civilian-bp-craft-behr-rifle-ballistic-02-mag-civilian"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-pistol-magazine-25-cap-bp-craft-gmni-pistol-ballistic-01-mag",
+    "slug": "lh86-pistol-magazine-25-cap-bp-craft-gmni-pistol-ballistic-01-mag",
+    "name": "LH86 Pistol Magazine (25 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-pistol-magazine-25-cap-bp-craft-gmni-pistol-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-pistol-magazine-25-cap-bp-craft-gmni-pistol-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:scalpel-sniper-rifle-magazine-12-cap-bp-craft-ksar-sniper-ballistic-01-mag",
+    "slug": "scalpel-sniper-rifle-magazine-12-cap-bp-craft-ksar-sniper-ballistic-01-mag",
+    "name": "Scalpel Sniper Rifle Magazine (12 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:scalpel-sniper-rifle-magazine-12-cap-bp-craft-ksar-sniper-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:scalpel-sniper-rifle-magazine-12-cap-bp-craft-ksar-sniper-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:a03-sniper-rifle-magazine-15-cap-bp-craft-gmni-sniper-ballistic-01-mag",
+    "slug": "a03-sniper-rifle-magazine-15-cap-bp-craft-gmni-sniper-ballistic-01-mag",
+    "name": "A03 Sniper Rifle Magazine (15 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:a03-sniper-rifle-magazine-15-cap-bp-craft-gmni-sniper-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:a03-sniper-rifle-magazine-15-cap-bp-craft-gmni-sniper-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:killshot-rifle-magazine-45-cap-bp-craft-none-rifle-multi-01-mag",
+    "slug": "killshot-rifle-magazine-45-cap-bp-craft-none-rifle-multi-01-mag",
+    "name": "Killshot Rifle Magazine (45 Cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:killshot-rifle-magazine-45-cap-bp-craft-none-rifle-multi-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:killshot-rifle-magazine-45-cap-bp-craft-none-rifle-multi-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:coda-pistol-magazine-6-cap-bp-craft-ksar-pistol-ballistic-01-mag",
+    "slug": "coda-pistol-magazine-6-cap-bp-craft-ksar-pistol-ballistic-01-mag",
+    "name": "Coda Pistol Magazine (6 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:coda-pistol-magazine-6-cap-bp-craft-ksar-pistol-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:coda-pistol-magazine-6-cap-bp-craft-ksar-pistol-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:c54-smg-magazine-50-cap-bp-craft-gmni-smg-ballistic-01-mag",
+    "slug": "c54-smg-magazine-50-cap-bp-craft-gmni-smg-ballistic-01-mag",
+    "name": "C54 SMG Magazine (50 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:c54-smg-magazine-50-cap-bp-craft-gmni-smg-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:c54-smg-magazine-50-cap-bp-craft-gmni-smg-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-smg-magazine-45-cap-bp-craft-behr-smg-ballistic-01-mag",
+    "slug": "p8-sc-smg-magazine-45-cap-bp-craft-behr-smg-ballistic-01-mag",
+    "name": "P8-SC SMG Magazine (45 cap)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Ammo / Ballistic",
+    "category": "Ammo / Ballistic",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-smg-magazine-45-cap-bp-craft-behr-smg-ballistic-01-mag"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-smg-magazine-45-cap-bp-craft-behr-smg-ballistic-01-mag"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:zenith-landslide-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint02",
+    "slug": "zenith-landslide-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint02",
+    "name": "Zenith \"Landslide\" Laser Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:zenith-landslide-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint02"
+    ],
+    "blueprintIds": [
+      "blueprint:zenith-landslide-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:zenith-thunderstrike-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint03",
+    "slug": "zenith-thunderstrike-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint03",
+    "name": "Zenith \"Thunderstrike\" Laser Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:zenith-thunderstrike-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint03"
+    ],
+    "blueprintIds": [
+      "blueprint:zenith-thunderstrike-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint03"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:zenith-darkwave-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint01",
+    "slug": "zenith-darkwave-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint01",
+    "name": "Zenith \"Darkwave\" Laser Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:zenith-darkwave-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:zenith-darkwave-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:zenith-snow-camo-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-collector01",
+    "slug": "zenith-snow-camo-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-collector01",
+    "name": "Zenith \"Snow Camo\" Laser Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:zenith-snow-camo-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-collector01"
+    ],
+    "blueprintIds": [
+      "blueprint:zenith-snow-camo-laser-sniper-rifle-bp-craft-volt-sniper-energy-01-collector01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:pulse-blacklist-pistol-bp-craft-volt-pistol-energy-01-tint01",
+    "slug": "pulse-blacklist-pistol-bp-craft-volt-pistol-energy-01-tint01",
+    "name": "Pulse \"Blacklist\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:pulse-blacklist-pistol-bp-craft-volt-pistol-energy-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:pulse-blacklist-pistol-bp-craft-volt-pistol-energy-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:pulse-rouge-pistol-bp-craft-volt-pistol-energy-01-tint02",
+    "slug": "pulse-rouge-pistol-bp-craft-volt-pistol-energy-01-tint02",
+    "name": "Pulse \"Rouge\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:pulse-rouge-pistol-bp-craft-volt-pistol-energy-01-tint02"
+    ],
+    "blueprintIds": [
+      "blueprint:pulse-rouge-pistol-bp-craft-volt-pistol-energy-01-tint02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:yubarev-mirage-pistol-bp-craft-lbco-pistol-energy-01-chromic01",
+    "slug": "yubarev-mirage-pistol-bp-craft-lbco-pistol-energy-01-chromic01",
+    "name": "Yubarev \"Mirage\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:yubarev-mirage-pistol-bp-craft-lbco-pistol-energy-01-chromic01"
+    ],
+    "blueprintIds": [
+      "blueprint:yubarev-mirage-pistol-bp-craft-lbco-pistol-energy-01-chromic01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:yubarev-venom-pistol-bp-craft-lbco-pistol-energy-01-acid01",
+    "slug": "yubarev-venom-pistol-bp-craft-lbco-pistol-energy-01-acid01",
+    "name": "Yubarev \"Venom\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:yubarev-venom-pistol-bp-craft-lbco-pistol-energy-01-acid01"
+    ],
+    "blueprintIds": [
+      "blueprint:yubarev-venom-pistol-bp-craft-lbco-pistol-energy-01-acid01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:yubarev-igniter-pistol-bp-craft-lbco-pistol-energy-01-sunset01",
+    "slug": "yubarev-igniter-pistol-bp-craft-lbco-pistol-energy-01-sunset01",
+    "name": "Yubarev \"Igniter\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:yubarev-igniter-pistol-bp-craft-lbco-pistol-energy-01-sunset01"
+    ],
+    "blueprintIds": [
+      "blueprint:yubarev-igniter-pistol-bp-craft-lbco-pistol-energy-01-sunset01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-nightstalker-pistol-bp-craft-gmni-pistol-ballistic-01-black02",
+    "slug": "lh86-nightstalker-pistol-bp-craft-gmni-pistol-ballistic-01-black02",
+    "name": "LH86 \"Nightstalker\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-nightstalker-pistol-bp-craft-gmni-pistol-ballistic-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-nightstalker-pistol-bp-craft-gmni-pistol-ballistic-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-pathfinder-pistol-bp-craft-gmni-pistol-ballistic-01-imp01",
+    "slug": "lh86-pathfinder-pistol-bp-craft-gmni-pistol-ballistic-01-imp01",
+    "name": "LH86 \"Pathfinder\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-pathfinder-pistol-bp-craft-gmni-pistol-ballistic-01-imp01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-pathfinder-pistol-bp-craft-gmni-pistol-ballistic-01-imp01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-desert-shadow-pistol-bp-craft-gmni-pistol-ballistic-01-tan01",
+    "slug": "lh86-desert-shadow-pistol-bp-craft-gmni-pistol-ballistic-01-tan01",
+    "name": "LH86 \"Desert Shadow\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-desert-shadow-pistol-bp-craft-gmni-pistol-ballistic-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-desert-shadow-pistol-bp-craft-gmni-pistol-ballistic-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-boneyard-pistol-bp-craft-gmni-pistol-ballistic-01-white02",
+    "slug": "lh86-boneyard-pistol-bp-craft-gmni-pistol-ballistic-01-white02",
+    "name": "LH86 \"Boneyard\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-boneyard-pistol-bp-craft-gmni-pistol-ballistic-01-white02"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-boneyard-pistol-bp-craft-gmni-pistol-ballistic-01-white02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-warhawk-pistol-bp-craft-gmni-pistol-ballistic-01-green01",
+    "slug": "lh86-warhawk-pistol-bp-craft-gmni-pistol-ballistic-01-green01",
+    "name": "LH86 \"Warhawk\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-warhawk-pistol-bp-craft-gmni-pistol-ballistic-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-warhawk-pistol-bp-craft-gmni-pistol-ballistic-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-permafrost-pistol-bp-craft-gmni-pistol-ballistic-01-blue-white01",
+    "slug": "lh86-permafrost-pistol-bp-craft-gmni-pistol-ballistic-01-blue-white01",
+    "name": "LH86 \"Permafrost\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-permafrost-pistol-bp-craft-gmni-pistol-ballistic-01-blue-white01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-permafrost-pistol-bp-craft-gmni-pistol-ballistic-01-blue-white01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-scorched-pistol-bp-craft-gmni-pistol-ballistic-01-firerats01",
+    "slug": "lh86-scorched-pistol-bp-craft-gmni-pistol-ballistic-01-firerats01",
+    "name": "LH86 \"Scorched\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-scorched-pistol-bp-craft-gmni-pistol-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-scorched-pistol-bp-craft-gmni-pistol-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-stormfall-pistol-bp-craft-gmni-pistol-ballistic-01-white01",
+    "slug": "lh86-stormfall-pistol-bp-craft-gmni-pistol-ballistic-01-white01",
+    "name": "LH86 \"Stormfall\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-stormfall-pistol-bp-craft-gmni-pistol-ballistic-01-white01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-stormfall-pistol-bp-craft-gmni-pistol-ballistic-01-white01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:lh86-luckbringer-pistol-bp-craft-gmni-pistol-ballistic-01-green-grey01",
+    "slug": "lh86-luckbringer-pistol-bp-craft-gmni-pistol-ballistic-01-green-grey01",
+    "name": "LH86 \"Luckbringer\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:lh86-luckbringer-pistol-bp-craft-gmni-pistol-ballistic-01-green-grey01"
+    ],
+    "blueprintIds": [
+      "blueprint:lh86-luckbringer-pistol-bp-craft-gmni-pistol-ballistic-01-green-grey01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:salvo-esteban-frag-pistol-bp-craft-hdgw-pistol-ballistic-01-engraved02",
+    "slug": "salvo-esteban-frag-pistol-bp-craft-hdgw-pistol-ballistic-01-engraved02",
+    "name": "Salvo Esteban Frag Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:salvo-esteban-frag-pistol-bp-craft-hdgw-pistol-ballistic-01-engraved02"
+    ],
+    "blueprintIds": [
+      "blueprint:salvo-esteban-frag-pistol-bp-craft-hdgw-pistol-ballistic-01-engraved02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:coda-big-boss-pistol-bp-craft-ksar-pistol-ballistic-01-yellow-black01",
+    "slug": "coda-big-boss-pistol-bp-craft-ksar-pistol-ballistic-01-yellow-black01",
+    "name": "Coda \"Big Boss\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:coda-big-boss-pistol-bp-craft-ksar-pistol-ballistic-01-yellow-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:coda-big-boss-pistol-bp-craft-ksar-pistol-ballistic-01-yellow-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:coda-nighthawk-pistol-bp-craft-ksar-pistol-ballistic-01-headhunters01",
+    "slug": "coda-nighthawk-pistol-bp-craft-ksar-pistol-ballistic-01-headhunters01",
+    "name": "Coda \"Nighthawk\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:coda-nighthawk-pistol-bp-craft-ksar-pistol-ballistic-01-headhunters01"
+    ],
+    "blueprintIds": [
+      "blueprint:coda-nighthawk-pistol-bp-craft-ksar-pistol-ballistic-01-headhunters01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:coda-ultraviolet-pistol-bp-craft-ksar-pistol-ballistic-01-purple-pink01",
+    "slug": "coda-ultraviolet-pistol-bp-craft-ksar-pistol-ballistic-01-purple-pink01",
+    "name": "Coda \"Ultraviolet\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:coda-ultraviolet-pistol-bp-craft-ksar-pistol-ballistic-01-purple-pink01"
+    ],
+    "blueprintIds": [
+      "blueprint:coda-ultraviolet-pistol-bp-craft-ksar-pistol-ballistic-01-purple-pink01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:coda-pistol-modified-bp-craft-ksar-pistol-ballistic-01-spc",
+    "slug": "coda-pistol-modified-bp-craft-ksar-pistol-ballistic-01-spc",
+    "name": "Coda Pistol (Modified)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:coda-pistol-modified-bp-craft-ksar-pistol-ballistic-01-spc"
+    ],
+    "blueprintIds": [
+      "blueprint:coda-pistol-modified-bp-craft-ksar-pistol-ballistic-01-spc"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:s-38-scorched-pistol-bp-craft-behr-pistol-ballistic-01-firerats01",
+    "slug": "s-38-scorched-pistol-bp-craft-behr-pistol-ballistic-01-firerats01",
+    "name": "S-38 \"Scorched\" Pistol",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Pistol",
+    "category": "Weapons / Pistol",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:s-38-scorched-pistol-bp-craft-behr-pistol-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:s-38-scorched-pistol-bp-craft-behr-pistol-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-executive-sniper-rifle-bp-craft-klwe-sniper-energy-01-gold01",
+    "slug": "arrowhead-executive-sniper-rifle-bp-craft-klwe-sniper-energy-01-gold01",
+    "name": "Arrowhead \"Executive\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-executive-sniper-rifle-bp-craft-klwe-sniper-energy-01-gold01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-executive-sniper-rifle-bp-craft-klwe-sniper-energy-01-gold01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-desert-shadow-sniper-rifle-bp-craft-klwe-sniper-energy-01-tan01",
+    "slug": "arrowhead-desert-shadow-sniper-rifle-bp-craft-klwe-sniper-energy-01-tan01",
+    "name": "Arrowhead \"Desert Shadow\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-desert-shadow-sniper-rifle-bp-craft-klwe-sniper-energy-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-desert-shadow-sniper-rifle-bp-craft-klwe-sniper-energy-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-nightstalker-sniper-rifle-bp-craft-klwe-sniper-energy-01-black02",
+    "slug": "arrowhead-nightstalker-sniper-rifle-bp-craft-klwe-sniper-energy-01-black02",
+    "name": "Arrowhead \"Nightstalker\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-nightstalker-sniper-rifle-bp-craft-klwe-sniper-energy-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-nightstalker-sniper-rifle-bp-craft-klwe-sniper-energy-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-midnight-sniper-rifle-bp-craft-klwe-sniper-energy-01-black01",
+    "slug": "arrowhead-midnight-sniper-rifle-bp-craft-klwe-sniper-energy-01-black01",
+    "name": "Arrowhead \"Midnight\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-midnight-sniper-rifle-bp-craft-klwe-sniper-energy-01-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-midnight-sniper-rifle-bp-craft-klwe-sniper-energy-01-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-warhawk-sniper-rifle-bp-craft-klwe-sniper-energy-01-green01",
+    "slug": "arrowhead-warhawk-sniper-rifle-bp-craft-klwe-sniper-energy-01-green01",
+    "name": "Arrowhead \"Warhawk\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-warhawk-sniper-rifle-bp-craft-klwe-sniper-energy-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-warhawk-sniper-rifle-bp-craft-klwe-sniper-energy-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-stormfall-sniper-rifle-bp-craft-klwe-sniper-energy-01-white01",
+    "slug": "arrowhead-stormfall-sniper-rifle-bp-craft-klwe-sniper-energy-01-white01",
+    "name": "Arrowhead \"Stormfall\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-stormfall-sniper-rifle-bp-craft-klwe-sniper-energy-01-white01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-stormfall-sniper-rifle-bp-craft-klwe-sniper-energy-01-white01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-boneyard-sniper-rifle-bp-craft-klwe-sniper-energy-01-white02",
+    "slug": "arrowhead-boneyard-sniper-rifle-bp-craft-klwe-sniper-energy-01-white02",
+    "name": "Arrowhead \"Boneyard\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-boneyard-sniper-rifle-bp-craft-klwe-sniper-energy-01-white02"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-boneyard-sniper-rifle-bp-craft-klwe-sniper-energy-01-white02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-voyager-sniper-rifle-bp-craft-klwe-sniper-energy-01-cen01",
+    "slug": "arrowhead-voyager-sniper-rifle-bp-craft-klwe-sniper-energy-01-cen01",
+    "name": "Arrowhead \"Voyager\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-voyager-sniper-rifle-bp-craft-klwe-sniper-energy-01-cen01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-voyager-sniper-rifle-bp-craft-klwe-sniper-energy-01-cen01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:arrowhead-pathfinder-sniper-rifle-bp-craft-klwe-sniper-energy-01-imp01",
+    "slug": "arrowhead-pathfinder-sniper-rifle-bp-craft-klwe-sniper-energy-01-imp01",
+    "name": "Arrowhead \"Pathfinder\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:arrowhead-pathfinder-sniper-rifle-bp-craft-klwe-sniper-energy-01-imp01"
+    ],
+    "blueprintIds": [
+      "blueprint:arrowhead-pathfinder-sniper-rifle-bp-craft-klwe-sniper-energy-01-imp01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:atzkav-venom-sniper-rifle-bp-craft-lbco-sniper-energy-01-acid01",
+    "slug": "atzkav-venom-sniper-rifle-bp-craft-lbco-sniper-energy-01-acid01",
+    "name": "Atzkav \"Venom\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:atzkav-venom-sniper-rifle-bp-craft-lbco-sniper-energy-01-acid01"
+    ],
+    "blueprintIds": [
+      "blueprint:atzkav-venom-sniper-rifle-bp-craft-lbco-sniper-energy-01-acid01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:atzkav-mirage-sniper-rifle-bp-craft-lbco-sniper-energy-01-chromic01",
+    "slug": "atzkav-mirage-sniper-rifle-bp-craft-lbco-sniper-energy-01-chromic01",
+    "name": "Atzkav \"Mirage\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:atzkav-mirage-sniper-rifle-bp-craft-lbco-sniper-energy-01-chromic01"
+    ],
+    "blueprintIds": [
+      "blueprint:atzkav-mirage-sniper-rifle-bp-craft-lbco-sniper-energy-01-chromic01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:atzkav-igniter-sniper-rifle-bp-craft-lbco-sniper-energy-01-sunset01",
+    "slug": "atzkav-igniter-sniper-rifle-bp-craft-lbco-sniper-energy-01-sunset01",
+    "name": "Atzkav \"Igniter\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:atzkav-igniter-sniper-rifle-bp-craft-lbco-sniper-energy-01-sunset01"
+    ],
+    "blueprintIds": [
+      "blueprint:atzkav-igniter-sniper-rifle-bp-craft-lbco-sniper-energy-01-sunset01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:atzkav-deadeye-sniper-rifle-bp-craft-lbco-sniper-energy-imp01",
+    "slug": "atzkav-deadeye-sniper-rifle-bp-craft-lbco-sniper-energy-imp01",
+    "name": "Atzkav \"Deadeye\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:atzkav-deadeye-sniper-rifle-bp-craft-lbco-sniper-energy-imp01"
+    ],
+    "blueprintIds": [
+      "blueprint:atzkav-deadeye-sniper-rifle-bp-craft-lbco-sniper-energy-imp01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-fate-rifle-bp-craft-ksar-rifle-energy-01-pink-red01",
+    "slug": "karna-fate-rifle-bp-craft-ksar-rifle-energy-01-pink-red01",
+    "name": "Karna \"Fate\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-fate-rifle-bp-craft-ksar-rifle-energy-01-pink-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-fate-rifle-bp-craft-ksar-rifle-energy-01-pink-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-rager-rifle-bp-craft-ksar-rifle-energy-01-cian-black01",
+    "slug": "karna-rager-rifle-bp-craft-ksar-rifle-energy-01-cian-black01",
+    "name": "Karna \"Rager\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-rager-rifle-bp-craft-ksar-rifle-energy-01-cian-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-rager-rifle-bp-craft-ksar-rifle-energy-01-cian-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-rifle-bp-craft-ksar-rifle-energy-01-blue-gold",
+    "slug": "karna-rifle-bp-craft-ksar-rifle-energy-01-blue-gold",
+    "name": "Karna Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-rifle-bp-craft-ksar-rifle-energy-01-blue-gold"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-rifle-bp-craft-ksar-rifle-energy-01-blue-gold"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-alpine-sunset-rifle-bp-craft-ksar-rifle-energy-01-red-green01",
+    "slug": "karna-alpine-sunset-rifle-bp-craft-ksar-rifle-energy-01-red-green01",
+    "name": "Karna \"Alpine Sunset\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-alpine-sunset-rifle-bp-craft-ksar-rifle-energy-01-red-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-alpine-sunset-rifle-bp-craft-ksar-rifle-energy-01-red-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:karna-brimstone-rifle-bp-craft-ksar-rifle-energy-01-red01",
+    "slug": "karna-brimstone-rifle-bp-craft-ksar-rifle-energy-01-red01",
+    "name": "Karna \"Brimstone\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:karna-brimstone-rifle-bp-craft-ksar-rifle-energy-01-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:karna-brimstone-rifle-bp-craft-ksar-rifle-energy-01-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:a03-lodestone-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-urban01",
+    "slug": "a03-lodestone-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-urban01",
+    "name": "A03 \"Lodestone\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:a03-lodestone-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-urban01"
+    ],
+    "blueprintIds": [
+      "blueprint:a03-lodestone-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-urban01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:a03-scorched-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-firerats01",
+    "slug": "a03-scorched-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-firerats01",
+    "name": "A03 \"Scorched\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:a03-scorched-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:a03-scorched-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:a03-luckbringer-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-green-grey01",
+    "slug": "a03-luckbringer-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-green-grey01",
+    "name": "A03 \"Luckbringer\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:a03-luckbringer-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-green-grey01"
+    ],
+    "blueprintIds": [
+      "blueprint:a03-luckbringer-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-green-grey01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:a03-canuto-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-arctic01",
+    "slug": "a03-canuto-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-arctic01",
+    "name": "A03 \"Canuto\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:a03-canuto-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-arctic01"
+    ],
+    "blueprintIds": [
+      "blueprint:a03-canuto-sniper-rifle-bp-craft-gmni-sniper-ballistic-01-arctic01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p6-lr-rime-sniper-rifle-bp-craft-behr-sniper-ballistic-01-arctic01",
+    "slug": "p6-lr-rime-sniper-rifle-bp-craft-behr-sniper-ballistic-01-arctic01",
+    "name": "P6-LR \"Rime\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p6-lr-rime-sniper-rifle-bp-craft-behr-sniper-ballistic-01-arctic01"
+    ],
+    "blueprintIds": [
+      "blueprint:p6-lr-rime-sniper-rifle-bp-craft-behr-sniper-ballistic-01-arctic01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p6-lr-archangel-sniper-rifle-bp-craft-behr-sniper-ballistic-01-black01",
+    "slug": "p6-lr-archangel-sniper-rifle-bp-craft-behr-sniper-ballistic-01-black01",
+    "name": "P6-LR \"Archangel\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p6-lr-archangel-sniper-rifle-bp-craft-behr-sniper-ballistic-01-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:p6-lr-archangel-sniper-rifle-bp-craft-behr-sniper-ballistic-01-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p6-lr-blacklist-sniper-rifle-bp-craft-behr-sniper-ballistic-01-tint01",
+    "slug": "p6-lr-blacklist-sniper-rifle-bp-craft-behr-sniper-ballistic-01-tint01",
+    "name": "P6-LR \"Blacklist\" Sniper Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p6-lr-blacklist-sniper-rifle-bp-craft-behr-sniper-ballistic-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:p6-lr-blacklist-sniper-rifle-bp-craft-behr-sniper-ballistic-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:microid-battle-rifle-white-blue-bp-craft-ksar-sniper-ballistic-01-white-blue-01",
+    "slug": "microid-battle-rifle-white-blue-bp-craft-ksar-sniper-ballistic-01-white-blue-01",
+    "name": "Microid Battle Rifle (White/Blue)",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Sniper",
+    "category": "Weapons / Sniper",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:microid-battle-rifle-white-blue-bp-craft-ksar-sniper-ballistic-01-white-blue-01"
+    ],
+    "blueprintIds": [
+      "blueprint:microid-battle-rifle-white-blue-bp-craft-ksar-sniper-ballistic-01-white-blue-01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-boneyard-smg-bp-craft-ksar-smg-energy-01-white02",
+    "slug": "custodian-boneyard-smg-bp-craft-ksar-smg-energy-01-white02",
+    "name": "Custodian \"Boneyard\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-boneyard-smg-bp-craft-ksar-smg-energy-01-white02"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-boneyard-smg-bp-craft-ksar-smg-energy-01-white02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-brimstone-smg-bp-craft-ksar-smg-energy-01-red01",
+    "slug": "custodian-brimstone-smg-bp-craft-ksar-smg-energy-01-red01",
+    "name": "Custodian \"Brimstone\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-brimstone-smg-bp-craft-ksar-smg-energy-01-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-brimstone-smg-bp-craft-ksar-smg-energy-01-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-scorched-smg-bp-craft-ksar-smg-energy-01-firerats01",
+    "slug": "custodian-scorched-smg-bp-craft-ksar-smg-energy-01-firerats01",
+    "name": "Custodian \"Scorched\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-scorched-smg-bp-craft-ksar-smg-energy-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-scorched-smg-bp-craft-ksar-smg-energy-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-midnight-smg-bp-craft-ksar-smg-energy-01-black01",
+    "slug": "custodian-midnight-smg-bp-craft-ksar-smg-energy-01-black01",
+    "name": "Custodian \"Midnight\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-midnight-smg-bp-craft-ksar-smg-energy-01-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-midnight-smg-bp-craft-ksar-smg-energy-01-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-desert-shadow-smg-bp-craft-ksar-smg-energy-01-tan01",
+    "slug": "custodian-desert-shadow-smg-bp-craft-ksar-smg-energy-01-tan01",
+    "name": "Custodian \"Desert Shadow\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-desert-shadow-smg-bp-craft-ksar-smg-energy-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-desert-shadow-smg-bp-craft-ksar-smg-energy-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-executive-edition-smg-bp-craft-ksar-smg-energy-01-gold01",
+    "slug": "custodian-executive-edition-smg-bp-craft-ksar-smg-energy-01-gold01",
+    "name": "Custodian \"Executive Edition\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-executive-edition-smg-bp-craft-ksar-smg-energy-01-gold01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-executive-edition-smg-bp-craft-ksar-smg-energy-01-gold01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-nightstalker-smg-bp-craft-ksar-smg-energy-01-black02",
+    "slug": "custodian-nightstalker-smg-bp-craft-ksar-smg-energy-01-black02",
+    "name": "Custodian \"Nightstalker\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-nightstalker-smg-bp-craft-ksar-smg-energy-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-nightstalker-smg-bp-craft-ksar-smg-energy-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-warhawk-smg-bp-craft-ksar-smg-energy-01-green01",
+    "slug": "custodian-warhawk-smg-bp-craft-ksar-smg-energy-01-green01",
+    "name": "Custodian \"Warhawk\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-warhawk-smg-bp-craft-ksar-smg-energy-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-warhawk-smg-bp-craft-ksar-smg-energy-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:custodian-big-boss-smg-bp-craft-ksar-smg-energy-01-black-green01",
+    "slug": "custodian-big-boss-smg-bp-craft-ksar-smg-energy-01-black-green01",
+    "name": "Custodian \"Big Boss\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:custodian-big-boss-smg-bp-craft-ksar-smg-energy-01-black-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:custodian-big-boss-smg-bp-craft-ksar-smg-energy-01-black-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:klwe-smg-energy-01-blue-gold-bp-craft-klwe-smg-energy-01-blue-gold",
+    "slug": "klwe-smg-energy-01-blue-gold-bp-craft-klwe-smg-energy-01-blue-gold",
+    "name": "Klwe Smg Energy 01 Blue Gold",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:klwe-smg-energy-01-blue-gold-bp-craft-klwe-smg-energy-01-blue-gold"
+    ],
+    "blueprintIds": [
+      "blueprint:klwe-smg-energy-01-blue-gold-bp-craft-klwe-smg-energy-01-blue-gold"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-stormfall-rifle-bp-craft-klwe-rifle-energy-01-white01",
+    "slug": "gallant-stormfall-rifle-bp-craft-klwe-rifle-energy-01-white01",
+    "name": "Gallant \"Stormfall\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-stormfall-rifle-bp-craft-klwe-rifle-energy-01-white01"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-stormfall-rifle-bp-craft-klwe-rifle-energy-01-white01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-desert-shadow-rifle-bp-craft-klwe-rifle-energy-01-tan01",
+    "slug": "gallant-desert-shadow-rifle-bp-craft-klwe-rifle-energy-01-tan01",
+    "name": "Gallant \"Desert Shadow\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-desert-shadow-rifle-bp-craft-klwe-rifle-energy-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-desert-shadow-rifle-bp-craft-klwe-rifle-energy-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-midnight-rifle-bp-craft-klwe-rifle-energy-01-black01",
+    "slug": "gallant-midnight-rifle-bp-craft-klwe-rifle-energy-01-black01",
+    "name": "Gallant \"Midnight\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-midnight-rifle-bp-craft-klwe-rifle-energy-01-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-midnight-rifle-bp-craft-klwe-rifle-energy-01-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-boneyard-rifle-bp-craft-klwe-rifle-energy-01-white02",
+    "slug": "gallant-boneyard-rifle-bp-craft-klwe-rifle-energy-01-white02",
+    "name": "Gallant \"Boneyard\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-boneyard-rifle-bp-craft-klwe-rifle-energy-01-white02"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-boneyard-rifle-bp-craft-klwe-rifle-energy-01-white02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-warhawk-rifle-bp-craft-klwe-rifle-energy-01-green01",
+    "slug": "gallant-warhawk-rifle-bp-craft-klwe-rifle-energy-01-green01",
+    "name": "Gallant \"Warhawk\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-warhawk-rifle-bp-craft-klwe-rifle-energy-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-warhawk-rifle-bp-craft-klwe-rifle-energy-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-nightstalker-rifle-bp-craft-klwe-rifle-energy-01-black02",
+    "slug": "gallant-nightstalker-rifle-bp-craft-klwe-rifle-energy-01-black02",
+    "name": "Gallant \"Nightstalker\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-nightstalker-rifle-bp-craft-klwe-rifle-energy-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-nightstalker-rifle-bp-craft-klwe-rifle-energy-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gallant-executive-edition-rifle-bp-craft-klwe-rifle-energy-01-gold01",
+    "slug": "gallant-executive-edition-rifle-bp-craft-klwe-rifle-energy-01-gold01",
+    "name": "Gallant \"Executive Edition\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gallant-executive-edition-rifle-bp-craft-klwe-rifle-energy-01-gold01"
+    ],
+    "blueprintIds": [
+      "blueprint:gallant-executive-edition-rifle-bp-craft-klwe-rifle-energy-01-gold01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-desert-shadow-shotgun-bp-craft-ksar-shotgun-energy-01-tan01",
+    "slug": "devastator-desert-shadow-shotgun-bp-craft-ksar-shotgun-energy-01-tan01",
+    "name": "Devastator \"Desert Shadow\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-desert-shadow-shotgun-bp-craft-ksar-shotgun-energy-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-desert-shadow-shotgun-bp-craft-ksar-shotgun-energy-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-midnight-shotgun-bp-craft-ksar-shotgun-energy-01-black01",
+    "slug": "devastator-midnight-shotgun-bp-craft-ksar-shotgun-energy-01-black01",
+    "name": "Devastator \"Midnight\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-midnight-shotgun-bp-craft-ksar-shotgun-energy-01-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-midnight-shotgun-bp-craft-ksar-shotgun-energy-01-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-brimstone-shotgun-bp-craft-ksar-shotgun-energy-01-red01",
+    "slug": "devastator-brimstone-shotgun-bp-craft-ksar-shotgun-energy-01-red01",
+    "name": "Devastator \"Brimstone\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-brimstone-shotgun-bp-craft-ksar-shotgun-energy-01-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-brimstone-shotgun-bp-craft-ksar-shotgun-energy-01-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-nightstalker-shotgun-bp-craft-ksar-shotgun-energy-01-black02",
+    "slug": "devastator-nightstalker-shotgun-bp-craft-ksar-shotgun-energy-01-black02",
+    "name": "Devastator \"Nightstalker\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-nightstalker-shotgun-bp-craft-ksar-shotgun-energy-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-nightstalker-shotgun-bp-craft-ksar-shotgun-energy-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-rager-shotgun-bp-craft-ksar-shotgun-energy-01-black-purple01",
+    "slug": "devastator-rager-shotgun-bp-craft-ksar-shotgun-energy-01-black-purple01",
+    "name": "Devastator \"Rager\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-rager-shotgun-bp-craft-ksar-shotgun-energy-01-black-purple01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-rager-shotgun-bp-craft-ksar-shotgun-energy-01-black-purple01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-pathfinder-shotgun-bp-craft-ksar-shotgun-energy-01-imp01",
+    "slug": "devastator-pathfinder-shotgun-bp-craft-ksar-shotgun-energy-01-imp01",
+    "name": "Devastator \"Pathfinder\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-pathfinder-shotgun-bp-craft-ksar-shotgun-energy-01-imp01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-pathfinder-shotgun-bp-craft-ksar-shotgun-energy-01-imp01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-warhawk-shotgun-bp-craft-ksar-shotgun-energy-01-green01",
+    "slug": "devastator-warhawk-shotgun-bp-craft-ksar-shotgun-energy-01-green01",
+    "name": "Devastator \"Warhawk\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-warhawk-shotgun-bp-craft-ksar-shotgun-energy-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-warhawk-shotgun-bp-craft-ksar-shotgun-energy-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-voyager-shotgun-bp-craft-ksar-shotgun-energy-01-cen01",
+    "slug": "devastator-voyager-shotgun-bp-craft-ksar-shotgun-energy-01-cen01",
+    "name": "Devastator \"Voyager\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-voyager-shotgun-bp-craft-ksar-shotgun-energy-01-cen01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-voyager-shotgun-bp-craft-ksar-shotgun-energy-01-cen01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:devastator-executive-edition-shotgun-bp-craft-ksar-shotgun-energy-01-gold01",
+    "slug": "devastator-executive-edition-shotgun-bp-craft-ksar-shotgun-energy-01-gold01",
+    "name": "Devastator \"Executive Edition\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:devastator-executive-edition-shotgun-bp-craft-ksar-shotgun-energy-01-gold01"
+    ],
+    "blueprintIds": [
+      "blueprint:devastator-executive-edition-shotgun-bp-craft-ksar-shotgun-energy-01-gold01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:quartz-black-op-energy-smg-bp-craft-volt-smg-energy-01-tint02",
+    "slug": "quartz-black-op-energy-smg-bp-craft-volt-smg-energy-01-tint02",
+    "name": "Quartz \"Black Op\" Energy SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:quartz-black-op-energy-smg-bp-craft-volt-smg-energy-01-tint02"
+    ],
+    "blueprintIds": [
+      "blueprint:quartz-black-op-energy-smg-bp-craft-volt-smg-energy-01-tint02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:quartz-deadfall-energy-smg-bp-craft-volt-smg-energy-01-tint01",
+    "slug": "quartz-deadfall-energy-smg-bp-craft-volt-smg-energy-01-tint01",
+    "name": "Quartz \"Deadfall\" Energy SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:quartz-deadfall-energy-smg-bp-craft-volt-smg-energy-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:quartz-deadfall-energy-smg-bp-craft-volt-smg-energy-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:quartz-lumen-energy-smg-bp-craft-volt-smg-energy-01-tint03",
+    "slug": "quartz-lumen-energy-smg-bp-craft-volt-smg-energy-01-tint03",
+    "name": "Quartz \"Lumen\" Energy SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:quartz-lumen-energy-smg-bp-craft-volt-smg-energy-01-tint03"
+    ],
+    "blueprintIds": [
+      "blueprint:quartz-lumen-energy-smg-bp-craft-volt-smg-energy-01-tint03"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fresnel-rockfall-energy-lmg-bp-craft-volt-lmg-energy-01-tint03",
+    "slug": "fresnel-rockfall-energy-lmg-bp-craft-volt-lmg-energy-01-tint03",
+    "name": "Fresnel \"Rockfall\" Energy LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fresnel-rockfall-energy-lmg-bp-craft-volt-lmg-energy-01-tint03"
+    ],
+    "blueprintIds": [
+      "blueprint:fresnel-rockfall-energy-lmg-bp-craft-volt-lmg-energy-01-tint03"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fresnel-molten-energy-lmg-bp-craft-volt-lmg-energy-01-tint01",
+    "slug": "fresnel-molten-energy-lmg-bp-craft-volt-lmg-energy-01-tint01",
+    "name": "Fresnel \"Molten\" Energy LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fresnel-molten-energy-lmg-bp-craft-volt-lmg-energy-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:fresnel-molten-energy-lmg-bp-craft-volt-lmg-energy-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fresnel-icebox-energy-lmg-bp-craft-volt-lmg-energy-01-tint02",
+    "slug": "fresnel-icebox-energy-lmg-bp-craft-volt-lmg-energy-01-tint02",
+    "name": "Fresnel \"Icebox\" Energy LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fresnel-icebox-energy-lmg-bp-craft-volt-lmg-energy-01-tint02"
+    ],
+    "blueprintIds": [
+      "blueprint:fresnel-icebox-energy-lmg-bp-craft-volt-lmg-energy-01-tint02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:parallax-sunstone-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint01",
+    "slug": "parallax-sunstone-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint01",
+    "name": "Parallax \"Sunstone\" Energy Assault Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:parallax-sunstone-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:parallax-sunstone-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:parallax-shock-trooper-energy-assault-rifle-bp-craft-volt-rifle-energy-01-camo01",
+    "slug": "parallax-shock-trooper-energy-assault-rifle-bp-craft-volt-rifle-energy-01-camo01",
+    "name": "Parallax \"Shock Trooper\" Energy Assault Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:parallax-shock-trooper-energy-assault-rifle-bp-craft-volt-rifle-energy-01-camo01"
+    ],
+    "blueprintIds": [
+      "blueprint:parallax-shock-trooper-energy-assault-rifle-bp-craft-volt-rifle-energy-01-camo01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:parallax-sanguine-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint02",
+    "slug": "parallax-sanguine-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint02",
+    "name": "Parallax \"Sanguine\" Energy Assault Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:parallax-sanguine-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint02"
+    ],
+    "blueprintIds": [
+      "blueprint:parallax-sanguine-energy-assault-rifle-bp-craft-volt-rifle-energy-01-tint02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:prism-firesteel-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint03",
+    "slug": "prism-firesteel-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint03",
+    "name": "Prism \"Firesteel\" Laser Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:prism-firesteel-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint03"
+    ],
+    "blueprintIds": [
+      "blueprint:prism-firesteel-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint03"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:prism-deep-sea-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint02",
+    "slug": "prism-deep-sea-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint02",
+    "name": "Prism \"Deep Sea\" Laser Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:prism-deep-sea-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint02"
+    ],
+    "blueprintIds": [
+      "blueprint:prism-deep-sea-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:prism-bonedust-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint01",
+    "slug": "prism-bonedust-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint01",
+    "name": "Prism \"Bonedust\" Laser Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:prism-bonedust-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:prism-bonedust-laser-shotgun-bp-craft-volt-shotgun-energy-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:br-2-permafrost-shotgun-bp-craft-behr-shotgun-ballistic-01-blue-white01",
+    "slug": "br-2-permafrost-shotgun-bp-craft-behr-shotgun-ballistic-01-blue-white01",
+    "name": "BR-2 \"Permafrost\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:br-2-permafrost-shotgun-bp-craft-behr-shotgun-ballistic-01-blue-white01"
+    ],
+    "blueprintIds": [
+      "blueprint:br-2-permafrost-shotgun-bp-craft-behr-shotgun-ballistic-01-blue-white01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p4-ar-desert-shadow-rifle-bp-craft-behr-rifle-ballistic-01-tan01",
+    "slug": "p4-ar-desert-shadow-rifle-bp-craft-behr-rifle-ballistic-01-tan01",
+    "name": "P4-AR \"Desert Shadow\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p4-ar-desert-shadow-rifle-bp-craft-behr-rifle-ballistic-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:p4-ar-desert-shadow-rifle-bp-craft-behr-rifle-ballistic-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p4-ar-nightstalker-rifle-bp-craft-behr-rifle-ballistic-01-black02",
+    "slug": "p4-ar-nightstalker-rifle-bp-craft-behr-rifle-ballistic-01-black02",
+    "name": "P4-AR \"Nightstalker\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p4-ar-nightstalker-rifle-bp-craft-behr-rifle-ballistic-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:p4-ar-nightstalker-rifle-bp-craft-behr-rifle-ballistic-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p4-ar-warhawk-rifle-bp-craft-behr-rifle-ballistic-01-green01",
+    "slug": "p4-ar-warhawk-rifle-bp-craft-behr-rifle-ballistic-01-green01",
+    "name": "P4-AR \"Warhawk\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p4-ar-warhawk-rifle-bp-craft-behr-rifle-ballistic-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:p4-ar-warhawk-rifle-bp-craft-behr-rifle-ballistic-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p4-ar-blacklist-rifle-bp-craft-behr-rifle-ballistic-01-tint01",
+    "slug": "p4-ar-blacklist-rifle-bp-craft-behr-rifle-ballistic-01-tint01",
+    "name": "P4-AR \"Blacklist\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p4-ar-blacklist-rifle-bp-craft-behr-rifle-ballistic-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:p4-ar-blacklist-rifle-bp-craft-behr-rifle-ballistic-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:f55-scorched-lmg-bp-craft-gmni-lmg-ballistic-01-firerats01",
+    "slug": "f55-scorched-lmg-bp-craft-gmni-lmg-ballistic-01-firerats01",
+    "name": "F55 \"Scorched\" LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:f55-scorched-lmg-bp-craft-gmni-lmg-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:f55-scorched-lmg-bp-craft-gmni-lmg-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:gmni-lmg-ballistic-01-blue-gold-bp-craft-gmni-lmg-ballistic-01-blue-gold",
+    "slug": "gmni-lmg-ballistic-01-blue-gold-bp-craft-gmni-lmg-ballistic-01-blue-gold",
+    "name": "Gmni Lmg Ballistic 01 Blue Gold",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:gmni-lmg-ballistic-01-blue-gold-bp-craft-gmni-lmg-ballistic-01-blue-gold"
+    ],
+    "blueprintIds": [
+      "blueprint:gmni-lmg-ballistic-01-blue-gold-bp-craft-gmni-lmg-ballistic-01-blue-gold"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:f55-mark-i-lmg-bp-craft-gmni-lmg-ballistic-01-collector01",
+    "slug": "f55-mark-i-lmg-bp-craft-gmni-lmg-ballistic-01-collector01",
+    "name": "F55 \"Mark I\" LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:f55-mark-i-lmg-bp-craft-gmni-lmg-ballistic-01-collector01"
+    ],
+    "blueprintIds": [
+      "blueprint:f55-mark-i-lmg-bp-craft-gmni-lmg-ballistic-01-collector01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:s71-justified-rifle-bp-craft-gmni-rifle-ballistic-01-grey-red01",
+    "slug": "s71-justified-rifle-bp-craft-gmni-rifle-ballistic-01-grey-red01",
+    "name": "S71 \"Justified\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:s71-justified-rifle-bp-craft-gmni-rifle-ballistic-01-grey-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:s71-justified-rifle-bp-craft-gmni-rifle-ballistic-01-grey-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:s71-bullseye-rifle-bp-craft-gmni-rifle-ballistic-01-firerats01",
+    "slug": "s71-bullseye-rifle-bp-craft-gmni-rifle-ballistic-01-firerats01",
+    "name": "S71 \"Bullseye\" Rifle",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Rifle",
+    "category": "Weapons / Rifle",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:s71-bullseye-rifle-bp-craft-gmni-rifle-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:s71-bullseye-rifle-bp-craft-gmni-rifle-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:ravager-212-outcast-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01-green01",
+    "slug": "ravager-212-outcast-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01-green01",
+    "name": "Ravager-212 \"Outcast\" Twin Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:ravager-212-outcast-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:ravager-212-outcast-twin-shotgun-bp-craft-ksar-shotgun-ballistic-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:c54-luckbringer-smg-bp-craft-gmni-smg-ballistic-01-green-grey01",
+    "slug": "c54-luckbringer-smg-bp-craft-gmni-smg-ballistic-01-green-grey01",
+    "name": "C54 \"Luckbringer\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:c54-luckbringer-smg-bp-craft-gmni-smg-ballistic-01-green-grey01"
+    ],
+    "blueprintIds": [
+      "blueprint:c54-luckbringer-smg-bp-craft-gmni-smg-ballistic-01-green-grey01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:c54-scorched-smg-bp-craft-gmni-smg-ballistic-01-firerats01",
+    "slug": "c54-scorched-smg-bp-craft-gmni-smg-ballistic-01-firerats01",
+    "name": "C54 \"Scorched\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:c54-scorched-smg-bp-craft-gmni-smg-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:c54-scorched-smg-bp-craft-gmni-smg-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:c54-justified-smg-bp-craft-gmni-smg-ballistic-01-grey-red01",
+    "slug": "c54-justified-smg-bp-craft-gmni-smg-ballistic-01-grey-red01",
+    "name": "C54 \"Justified\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:c54-justified-smg-bp-craft-gmni-smg-ballistic-01-grey-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:c54-justified-smg-bp-craft-gmni-smg-ballistic-01-grey-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fs-9-blacklist-lmg-bp-craft-behr-lmg-ballistic-01-tint01",
+    "slug": "fs-9-blacklist-lmg-bp-craft-behr-lmg-ballistic-01-tint01",
+    "name": "FS-9 \"Blacklist\" LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fs-9-blacklist-lmg-bp-craft-behr-lmg-ballistic-01-tint01"
+    ],
+    "blueprintIds": [
+      "blueprint:fs-9-blacklist-lmg-bp-craft-behr-lmg-ballistic-01-tint01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fs-9-finish-line-lmg-bp-craft-behr-lmg-ballistic-01-yellow-grey01",
+    "slug": "fs-9-finish-line-lmg-bp-craft-behr-lmg-ballistic-01-yellow-grey01",
+    "name": "FS-9 \"Finish Line\" LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fs-9-finish-line-lmg-bp-craft-behr-lmg-ballistic-01-yellow-grey01"
+    ],
+    "blueprintIds": [
+      "blueprint:fs-9-finish-line-lmg-bp-craft-behr-lmg-ballistic-01-yellow-grey01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:fs-9-stoneface-lmg-bp-craft-behr-lmg-ballistic-01-xenothreat01",
+    "slug": "fs-9-stoneface-lmg-bp-craft-behr-lmg-ballistic-01-xenothreat01",
+    "name": "FS-9 \"Stoneface\" LMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Lmg",
+    "category": "Weapons / Lmg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:fs-9-stoneface-lmg-bp-craft-behr-lmg-ballistic-01-xenothreat01"
+    ],
+    "blueprintIds": [
+      "blueprint:fs-9-stoneface-lmg-bp-craft-behr-lmg-ballistic-01-xenothreat01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:r97-righteous-shotgun-bp-craft-gmni-shotgun-ballistic-01-red-black01",
+    "slug": "r97-righteous-shotgun-bp-craft-gmni-shotgun-ballistic-01-red-black01",
+    "name": "R97 \"Righteous\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:r97-righteous-shotgun-bp-craft-gmni-shotgun-ballistic-01-red-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:r97-righteous-shotgun-bp-craft-gmni-shotgun-ballistic-01-red-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:r97-kismet-shotgun-bp-craft-gmni-shotgun-ballistic-01-pink-red01",
+    "slug": "r97-kismet-shotgun-bp-craft-gmni-shotgun-ballistic-01-pink-red01",
+    "name": "R97 \"Kismet\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:r97-kismet-shotgun-bp-craft-gmni-shotgun-ballistic-01-pink-red01"
+    ],
+    "blueprintIds": [
+      "blueprint:r97-kismet-shotgun-bp-craft-gmni-shotgun-ballistic-01-pink-red01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:r97-scorched-shotgun-bp-craft-gmni-shotgun-ballistic-01-firerats01",
+    "slug": "r97-scorched-shotgun-bp-craft-gmni-shotgun-ballistic-01-firerats01",
+    "name": "R97 \"Scorched\" Shotgun",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Shotgun",
+    "category": "Weapons / Shotgun",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:r97-scorched-shotgun-bp-craft-gmni-shotgun-ballistic-01-firerats01"
+    ],
+    "blueprintIds": [
+      "blueprint:r97-scorched-shotgun-bp-craft-gmni-shotgun-ballistic-01-firerats01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-warhawk-smg-bp-craft-behr-smg-ballistic-01-green01",
+    "slug": "p8-sc-warhawk-smg-bp-craft-behr-smg-ballistic-01-green01",
+    "name": "P8-SC \"Warhawk\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-warhawk-smg-bp-craft-behr-smg-ballistic-01-green01"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-warhawk-smg-bp-craft-behr-smg-ballistic-01-green01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-stormfall-smg-bp-craft-behr-smg-ballistic-01-white01",
+    "slug": "p8-sc-stormfall-smg-bp-craft-behr-smg-ballistic-01-white01",
+    "name": "P8-SC \"Stormfall\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-stormfall-smg-bp-craft-behr-smg-ballistic-01-white01"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-stormfall-smg-bp-craft-behr-smg-ballistic-01-white01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-boneyard-smg-bp-craft-behr-smg-ballistic-01-white02",
+    "slug": "p8-sc-boneyard-smg-bp-craft-behr-smg-ballistic-01-white02",
+    "name": "P8-SC \"Boneyard\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-boneyard-smg-bp-craft-behr-smg-ballistic-01-white02"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-boneyard-smg-bp-craft-behr-smg-ballistic-01-white02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-midnight-smg-bp-craft-behr-smg-ballistic-01-black01",
+    "slug": "p8-sc-midnight-smg-bp-craft-behr-smg-ballistic-01-black01",
+    "name": "P8-SC \"Midnight\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-midnight-smg-bp-craft-behr-smg-ballistic-01-black01"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-midnight-smg-bp-craft-behr-smg-ballistic-01-black01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-desert-shadow-smg-bp-craft-behr-smg-ballistic-01-tan01",
+    "slug": "p8-sc-desert-shadow-smg-bp-craft-behr-smg-ballistic-01-tan01",
+    "name": "P8-SC \"Desert Shadow\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-desert-shadow-smg-bp-craft-behr-smg-ballistic-01-tan01"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-desert-shadow-smg-bp-craft-behr-smg-ballistic-01-tan01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-nightstalker-smg-bp-craft-behr-smg-ballistic-01-black02",
+    "slug": "p8-sc-nightstalker-smg-bp-craft-behr-smg-ballistic-01-black02",
+    "name": "P8-SC \"Nightstalker\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-nightstalker-smg-bp-craft-behr-smg-ballistic-01-black02"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-nightstalker-smg-bp-craft-behr-smg-ballistic-01-black02"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  },
+  {
+    "id": "weapon:p8-sc-executive-edition-smg-bp-craft-behr-smg-ballistic-01-gold01",
+    "slug": "p8-sc-executive-edition-smg-bp-craft-behr-smg-ballistic-01-gold01",
+    "name": "P8-SC \"Executive Edition\" SMG",
+    "description": "Weapon blueprint/item reference imported from SC Crafter API",
+    "class": "Weapons / Smg",
+    "category": "Weapons / Smg",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "recipeIds": [
+      "recipe:p8-sc-executive-edition-smg-bp-craft-behr-smg-ballistic-01-gold01"
+    ],
+    "blueprintIds": [
+      "blueprint:p8-sc-executive-edition-smg-bp-craft-behr-smg-ballistic-01-gold01"
+    ],
+    "sourceReferences": [
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/api/blueprints"
+      }
+    ],
+    "mergedSources": [
+      "sc-crafter"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "FPS mining",
+    "slug": "fps-mining",
+    "description": "Handheld cave and small-node mining",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "ROC mining",
+    "slug": "roc-mining",
+    "description": "Vehicle-based gemstone mining",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Ship mining",
+    "slug": "ship-mining",
+    "description": "Large ore and asteroid mining",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.8,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  }
+]

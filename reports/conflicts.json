@@ -1,0 +1,324 @@
+{
+  "generatedAt": "2026-04-11T16:26:24.912Z",
+  "sourceCount": 6,
+  "conflictCount": 28,
+  "conflicts": [
+    {
+      "collection": "locations",
+      "slug": "aberdeen",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "arc-l1-wide-forest-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "arc-l2-lively-pathway-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "arc-l3-modern-express-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "arc-l5-yellow-core-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "area18",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "arial",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "baijini-point",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "calliope",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "hadanite",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore",
+        "sourceNotes"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "janalite",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "taranite",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "gold",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "janalite",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "copper",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "dolivine",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "aluminum",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "hephaestanite",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "iron",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "aphorite",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "hadanite",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "beryl",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "corundum",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "tungsten",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "laranite",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "titanium",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "agricium",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "resources",
+      "slug": "quartz",
+      "sources": [
+        "starcitizentools",
+        "sc-crafter"
+      ],
+      "fields": [
+        "description",
+        "confidenceScore"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "sourceName": "Reddit",
+    "skipped": true,
+    "reason": "Missing credentials",
+    "sourceKey": "reddit",
+    "priority": 30,
+    "fetchedAt": "2026-04-11T16:26:23.895Z"
+  },
+  "systems": [],
+  "locations": [],
+  "resources": [],
+  "miningMethods": [],
+  "tools": [],
+  "vehicles": [],
+  "vendors": [],
+  "lootSources": [],
+  "blueprints": [],
+  "recipes": [],
+  "weapons": [],
+  "armor": []
+}

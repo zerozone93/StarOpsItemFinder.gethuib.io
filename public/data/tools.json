@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Barrel attachment",
+    "slug": "barrel-attachment",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "A barrel attachment is a Star Citizen weapon attachment that attaches to the barrel of a weapon to modify its behavior. == Types == == References ==",
+    "imageUrl": null,
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Escalate Stabilizer1",
+    "slug": "escalate-stabilizer1",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == ArmaMod's enhanced circuitry in the Escalate Stabilizer1 boosts the output of handheld weapons substantially, trading control for power. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Escalate Stabilizer2",
+    "slug": "escalate-stabilizer2",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Escalate Stabilizer2 is a barrel attachment manufactured by ArmaMod. == Description == Unleash the full destructive potential of your weapon with the Escalate Stabilizer2, increasing the fire rate and shot spread at the cost of accuracy. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Escalate Stabilizer3",
+    "slug": "escalate-stabilizer3",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Escalate Stabilizer3 is a barrel attachment manufactured by ArmaMod. == Description == By allowing for increased energy consumption, the Escalate Stabilizer3 can overclock your weapon to significantly reduce charge time and increase damage output. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/1/1a/Escalate_3.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Magazine",
+    "slug": "magazine",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "A magazine is an ammunition storage and feeding device for a repeating firearm, either integral within the gun (internal/fixed magazine) or externally attached (detachable magazine). The magazine functions by holding several cartridges within itself and sequentially pushing each one into a position where it may be readily loaded into the barrel chamber by the firearm's moving action. The detachable magazine is sometimes colloquially referred to as a \"clip\", although this is technically inaccurate since a clip is actually an accessory device used to help load ammunition into a magazine. == References ==",
+    "imageUrl": null,
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Multi-Tool attachment",
+    "slug": "multi-tool-attachment",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "A Multi-Tool attachment is a FPS weapon attachment that attaches to a Multi-Tool such as the Pyro RYT Multi-Tool. == References ==",
+    "imageUrl": null,
+    "purchaseLocations": [],
+    "foundLocations": [
+      "pyro"
+    ],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Optics attachment",
+    "slug": "optics-attachment",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "An optical attachment is a FPS weapon attachment that uses optics that give the Star Citizen player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
+    "imageUrl": null,
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Quell Suppressor1",
+    "slug": "quell-suppressor1",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Quell Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == The Quell Suppressor1 utilizes an advanced carbon polymer that reduces both noise and recoil at the cost of increased heat build-up. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Quell Suppressor2",
+    "slug": "quell-suppressor2",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Quell Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == With careful placement of high insulation materials to allow increased heat dissipation, the Quell Suppressor2 ensures you'll stay cool under pressure in favor of a slightly wider bullet spread. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Quell Suppressor3",
+    "slug": "quell-suppressor3",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Quell Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == Designed for stealth work, the Quell Suppressor3 rewards those who take slow, steady shots. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Stark Compensator1",
+    "slug": "stark-compensator1",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == Redirecting gases from the barrel to increase the force of bullet impact, this Stark Compensator1 slows the rate of fire but significantly increases damage output. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Stark Compensator2",
+    "slug": "stark-compensator2",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == The Stark Compensator2 disperses energy more evenly from the gun barrel to counteract recoil, helping you stay sure and steady with every shot. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Stark Compensator3",
+    "slug": "stark-compensator3",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Stark Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == Designed by ArmaMod to cycle rounds quicker, the Stark Compensator3 amplifies the speed in which the bullets leave the chamber in exchange for reduced accuracy. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Stoic Suppressor1",
+    "slug": "stoic-suppressor1",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Stoic Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == Featuring a more spacious chamber that widens shot spread, the Stoic Suppressor1's increased size reduces noise while allowing for superior recoil control. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Stoic Suppressor2",
+    "slug": "stoic-suppressor2",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Stoic Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == Using a more heavyweight barrel attachment for increased control, the longer chamber of the Stoic Suppressor2 grants reduced noise and increased accuracy at the cost of slower responsiveness. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Stoic Suppressor3",
+    "slug": "stoic-suppressor3",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Stoic Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == As the largest suppressor in the series, the Stoic Suppressor3's heavy duty design reduces noise and recoil, while tightening shot spread. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Torrent Compensator1",
+    "slug": "torrent-compensator1",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == The Torrent Compensator1 rewards those with a steady hand and a sharp eye with faster, more controlled fire. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Torrent Compensator2",
+    "slug": "torrent-compensator2",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Torrent Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == Designed to overwhelm opponents in the heat of battle, the Torrent Compensator2 increases projectile speed whilst reducing accuracy. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Torrent Compensator3",
+    "slug": "torrent-compensator3",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "The Torrent Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == The Torrent Compensator3 uses its unique shape to combine the total number of pellets into a tighter spread, increasing accuracy at the cost of lower damage output. == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Underbarrel attachment",
+    "slug": "underbarrel-attachment",
+    "category": "weapon_attachment",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.76,
+    "description": "An underbarrel attachment is a FPS weapon attachment that attaches to the underbarrel/bottom of the weapon. == References ==",
+    "imageUrl": null,
+    "purchaseLocations": [],
+    "foundLocations": [],
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  }
+]
