@@ -16,6 +16,13 @@ const RARITY_OPTIONS = [
   { value: 'very_rare', label: 'Very Rare' },
 ];
 
+const CATEGORY_OPTIONS = [
+  { value: 'mineral', label: 'Mineral' },
+  { value: 'gas', label: 'Gas' },
+  { value: 'organic', label: 'Organic' },
+  { value: 'salvage', label: 'Salvage' },
+];
+
 function rarityVariant(rarity: string): 'default' | 'success' | 'primary' | 'warning' | 'danger' {
   const map: Record<string, 'default' | 'success' | 'primary' | 'warning'> = {
     common: 'default',
@@ -30,7 +37,8 @@ export function Resources() {
   const { data, loading } = useData();
   const navigate = useNavigate();
   const { query, setQuery, results } = useSearch(data?.resources ?? []);
-  const { filter, setFilter, filtered } = useFilter(results, 'rarity');
+  const { filter: rarityFilter, setFilter: setRarityFilter, filtered: filteredByRarity } = useFilter(results, 'rarity');
+  const { filter: categoryFilter, setFilter: setCategoryFilter, filtered } = useFilter(filteredByRarity, 'category');
 
   if (loading) return <LoadingSpinner />;
   if (!data) return <div className={styles.notFound}>Data unavailable.</div>;
@@ -41,18 +49,14 @@ export function Resources() {
         <FilterPanel
           label="Rarity"
           options={RARITY_OPTIONS}
-          value={filter}
-          onChange={setFilter}
+          value={rarityFilter}
+          onChange={setRarityFilter}
         />
         <FilterPanel
           label="Category"
-          options={[
-            { value: 'mineral', label: 'Mineral' },
-            { value: 'gas', label: 'Gas' },
-            { value: 'organic', label: 'Organic' },
-          ]}
-          value={''}
-          onChange={() => {}}
+          options={CATEGORY_OPTIONS}
+          value={categoryFilter}
+          onChange={setCategoryFilter}
         />
       </aside>
       <div className={styles.content}>
