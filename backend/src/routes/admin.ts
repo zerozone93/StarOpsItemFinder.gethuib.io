@@ -1,0 +1,12 @@
+import { Router } from 'express';
+import { requireAuth } from '../middleware/auth.js';
+import { login, createResource, updateResource, deleteResource, createWeapon, updateWeapon, deleteWeapon, createArmor, updateArmor, deleteArmor, createLocation, updateLocation, deleteLocation, createVendor, updateVendor, deleteVendor } from '../controllers/adminController.js';
+const router = Router();
+router.post('/auth/login', login);
+router.use(requireAuth);
+router.post('/resources', createResource); router.patch('/resources/:id', updateResource); router.delete('/resources/:id', deleteResource);
+router.post('/weapons', createWeapon); router.patch('/weapons/:id', updateWeapon); router.delete('/weapons/:id', deleteWeapon);
+router.post('/armor', createArmor); router.patch('/armor/:id', updateArmor); router.delete('/armor/:id', deleteArmor);
+router.post('/locations', createLocation); router.patch('/locations/:id', updateLocation); router.delete('/locations/:id', deleteLocation);
+router.post('/vendors', createVendor); router.patch('/vendors/:id', updateVendor); router.delete('/vendors/:id', deleteVendor);
+export default router;

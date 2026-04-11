@@ -1,0 +1,323 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  role         String   @default("admin")
+  createdAt    DateTime @default(now())
+}
+
+model System {
+  id                 String     @id @default(cuid())
+  slug               String     @unique
+  name               String
+  description        String     @default("")
+  verificationStatus String     @default("unverified")
+  sourceNotes        String     @default("")
+  patchVersion       String     @default("")
+  tags               String     @default("[]")
+  starType           String     @default("")
+  createdAt          DateTime   @default(now())
+  updatedAt          DateTime   @updatedAt
+  locations          Location[]
+}
+
+model Location {
+  id                 String           @id @default(cuid())
+  slug               String           @unique
+  name               String
+  description        String           @default("")
+  verificationStatus String           @default("unverified")
+  sourceNotes        String           @default("")
+  patchVersion       String           @default("")
+  tags               String           @default("[]")
+  category           String           @default("outpost")
+  coordinates        String?
+  systemId           String?
+  parentId           String?
+  createdAt          DateTime         @default(now())
+  updatedAt          DateTime         @updatedAt
+  system             System?          @relation(fields: [systemId], references: [id])
+  parent             Location?        @relation("LocationChildren", fields: [parentId], references: [id])
+  children           Location[]       @relation("LocationChildren")
+  resources          LocationResource[]
+  vendors            LocationVendor[]
+  lootSources        LootSourceLocation[]
+}
+
+model Resource {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String             @default("")
+  verificationStatus String             @default("unverified")
+  sourceNotes        String             @default("")
+  patchVersion       String             @default("")
+  tags               String             @default("[]")
+  category           String             @default("mineral")
+  rarity             String             @default("common")
+  instabilityRating  Float?
+  baseValue          Float              @default(0)
+  currency           String             @default("aUEC")
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+  locations          LocationResource[]
+  miningMethods      ResourceMiningMethod[]
+  recipeIngredients  RecipeIngredient[]
+}
+
+model LocationResource {
+  locationId String
+  resourceId String
+  location   Location @relation(fields: [locationId], references: [id])
+  resource   Resource @relation(fields: [resourceId], references: [id])
+  @@id([locationId, resourceId])
+}
+
+model MiningMethod {
+  id                 String                 @id @default(cuid())
+  slug               String                 @unique
+  name               String
+  description        String                 @default("")
+  verificationStatus String                 @default("unverified")
+  sourceNotes        String                 @default("")
+  patchVersion       String                 @default("")
+  tags               String                 @default("[]")
+  category           String                 @default("fps")
+  requiredTools      String                 @default("[]")
+  createdAt          DateTime               @default(now())
+  updatedAt          DateTime               @updatedAt
+  resources          ResourceMiningMethod[]
+}
+
+model ResourceMiningMethod {
+  resourceId     String
+  miningMethodId String
+  resource       Resource     @relation(fields: [resourceId], references: [id])
+  miningMethod   MiningMethod @relation(fields: [miningMethodId], references: [id])
+  @@id([resourceId, miningMethodId])
+}
+
+model Tool {
+  id                 String   @id @default(cuid())
+  slug               String   @unique
+  name               String
+  description        String   @default("")
+  verificationStatus String   @default("unverified")
+  sourceNotes        String   @default("")
+  patchVersion       String   @default("")
+  tags               String   @default("[]")
+  category           String   @default("fps")
+  manufacturer       String   @default("")
+  buyPrice           Float?
+  rentPrice          Float?
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model Vehicle {
+  id                 String   @id @default(cuid())
+  slug               String   @unique
+  name               String
+  description        String   @default("")
+  verificationStatus String   @default("unverified")
+  sourceNotes        String   @default("")
+  patchVersion       String   @default("")
+  tags               String   @default("[]")
+  category           String   @default("ship")
+  manufacturer       String   @default("")
+  buyPrice           Float?
+  rentPrice          Float?
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model Vendor {
+  id                 String           @id @default(cuid())
+  slug               String           @unique
+  name               String
+  description        String           @default("")
+  verificationStatus String           @default("unverified")
+  sourceNotes        String           @default("")
+  patchVersion       String           @default("")
+  tags               String           @default("[]")
+  category           String           @default("shop")
+  locationId         String?
+  inventory          String           @default("[]")
+  createdAt          DateTime         @default(now())
+  updatedAt          DateTime         @updatedAt
+  locations          LocationVendor[]
+  weapons            VendorWeapon[]
+  armor              VendorArmor[]
+}
+
+model LocationVendor {
+  locationId String
+  vendorId   String
+  location   Location @relation(fields: [locationId], references: [id])
+  vendor     Vendor   @relation(fields: [vendorId], references: [id])
+  @@id([locationId, vendorId])
+}
+
+model LootSource {
+  id                 String               @id @default(cuid())
+  slug               String               @unique
+  name               String
+  description        String               @default("")
+  verificationStatus String               @default("unverified")
+  sourceNotes        String               @default("")
+  patchVersion       String               @default("")
+  tags               String               @default("[]")
+  category           String               @default("npc")
+  dropTable          String               @default("[]")
+  createdAt          DateTime             @default(now())
+  updatedAt          DateTime             @updatedAt
+  locations          LootSourceLocation[]
+}
+
+model LootSourceLocation {
+  lootSourceId String
+  locationId   String
+  lootSource   LootSource @relation(fields: [lootSourceId], references: [id])
+  location     Location   @relation(fields: [locationId], references: [id])
+  @@id([lootSourceId, locationId])
+}
+
+model Weapon {
+  id                 String         @id @default(cuid())
+  slug               String         @unique
+  name               String
+  description        String         @default("")
+  verificationStatus String         @default("unverified")
+  sourceNotes        String         @default("")
+  patchVersion       String         @default("")
+  tags               String         @default("[]")
+  category           String         @default("rifle")
+  manufacturer       String         @default("")
+  damage             Float          @default(0)
+  fireRate           Float          @default(0)
+  ammoType           String         @default("")
+  attachmentSlots    Int            @default(0)
+  buyPrice           Float?
+  createdAt          DateTime       @default(now())
+  updatedAt          DateTime       @updatedAt
+  vendors            VendorWeapon[]
+}
+
+model VendorWeapon {
+  vendorId String
+  weaponId String
+  vendor   Vendor @relation(fields: [vendorId], references: [id])
+  weapon   Weapon @relation(fields: [weaponId], references: [id])
+  @@id([vendorId, weaponId])
+}
+
+model Armor {
+  id                 String        @id @default(cuid())
+  slug               String        @unique
+  name               String
+  description        String        @default("")
+  verificationStatus String        @default("unverified")
+  sourceNotes        String        @default("")
+  patchVersion       String        @default("")
+  tags               String        @default("[]")
+  category           String        @default("torso")
+  manufacturer       String        @default("")
+  armorRating        Float         @default(0)
+  temperatureRating  String        @default("")
+  buyPrice           Float?
+  createdAt          DateTime      @default(now())
+  updatedAt          DateTime      @updatedAt
+  vendors            VendorArmor[]
+}
+
+model VendorArmor {
+  vendorId String
+  armorId  String
+  vendor   Vendor @relation(fields: [vendorId], references: [id])
+  armor    Armor  @relation(fields: [armorId], references: [id])
+  @@id([vendorId, armorId])
+}
+
+model Recipe {
+  id                 String             @id @default(cuid())
+  slug               String             @unique
+  name               String
+  description        String             @default("")
+  verificationStatus String             @default("unverified")
+  sourceNotes        String             @default("")
+  patchVersion       String             @default("")
+  tags               String             @default("[]")
+  category           String             @default("")
+  outputItemId       String             @default("")
+  outputQuantity     Int                @default(1)
+  craftingTime       Int                @default(0)
+  craftingStation    String             @default("")
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+  ingredients        RecipeIngredient[]
+}
+
+model RecipeIngredient {
+  recipeId   String
+  resourceId String
+  quantity   Int    @default(1)
+  recipe     Recipe   @relation(fields: [recipeId], references: [id])
+  resource   Resource @relation(fields: [resourceId], references: [id])
+  @@id([recipeId, resourceId])
+}
+
+model Blueprint {
+  id                 String   @id @default(cuid())
+  slug               String   @unique
+  name               String
+  description        String   @default("")
+  verificationStatus String   @default("unverified")
+  sourceNotes        String   @default("")
+  patchVersion       String   @default("")
+  tags               String   @default("[]")
+  category           String   @default("")
+  recipeId           String?
+  buyPrice           Float?
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model Category {
+  id                 String   @id @default(cuid())
+  slug               String   @unique
+  name               String
+  description        String   @default("")
+  verificationStatus String   @default("unverified")
+  sourceNotes        String   @default("")
+  patchVersion       String   @default("")
+  tags               String   @default("[]")
+  category           String   @default("")
+  parentCategory     String?
+  itemCount          Int      @default(0)
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model Manufacturer {
+  id                 String   @id @default(cuid())
+  slug               String   @unique
+  name               String
+  description        String   @default("")
+  verificationStatus String   @default("unverified")
+  sourceNotes        String   @default("")
+  patchVersion       String   @default("")
+  tags               String   @default("[]")
+  category           String   @default("")
+  specialization     String   @default("")
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
