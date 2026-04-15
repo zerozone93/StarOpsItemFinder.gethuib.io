@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-04-14T14:05:31.835Z"
+    "fetchedAt": "2026-04-15T03:30:16.864Z"
   },
   "systems": [],
   "locations": [
@@ -2679,7 +2679,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "description": "Incorporating the same manufacturing know-how and expertise that the UEE Marines have come to rely on, Clark Defense Systems has designed their civilian-line of Defiance heavy armors to stand firm in the face of even the most adverse combat scenarios with its three-star rated protective plating and fully integrated mobility framework. == Armor components == === Armor variants ===",
-      "imageUrl": "https://media.starcitizen.tools/d/db/Star_citizen_defiance_cosplay.jpg",
+      "imageUrl": "https://media.starcitizen.tools/f/f9/Defiance_Tactical_armor_set.jpg",
       "purchaseLocations": [
         "area18"
       ],

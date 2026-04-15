@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-04-14T14:05:33.632Z",
+    "generatedAt": "2026-04-15T03:30:18.237Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-04-14T14:02:08.924Z",
+        "fetchedAt": "2026-04-15T03:26:56.761Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-04-14T14:05:31.835Z",
+        "fetchedAt": "2026-04-15T03:30:16.864Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-04-14T14:05:31.842Z",
+        "fetchedAt": "2026-04-15T03:30:16.871Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-04-14T14:05:31.843Z",
+        "fetchedAt": "2026-04-15T03:30:16.872Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-04-14T14:05:32.932Z",
+        "fetchedAt": "2026-04-15T03:30:17.776Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-04-14T14:05:33.581Z",
+        "fetchedAt": "2026-04-15T03:30:18.185Z",
         "skipped": false
       }
     ],
@@ -101163,7 +101163,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "description": "Incorporating the same manufacturing know-how and expertise that the UEE Marines have come to rely on, Clark Defense Systems has designed their civilian-line of Defiance heavy armors to stand firm in the face of even the most adverse combat scenarios with its three-star rated protective plating and fully integrated mobility framework. == Armor components == === Armor variants ===",
-      "imageUrl": "https://media.starcitizen.tools/d/db/Star_citizen_defiance_cosplay.jpg",
+      "imageUrl": "https://media.starcitizen.tools/f/f9/Defiance_Tactical_armor_set.jpg",
       "purchaseLocations": [
         "area18"
       ],
