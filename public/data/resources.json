@@ -3165,6 +3165,7 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "grimhex",
       "hur_l2",
       "microtech",
       "pyro",

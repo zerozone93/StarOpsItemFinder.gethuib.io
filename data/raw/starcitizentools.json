@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-04-18T03:20:12.595Z"
+    "fetchedAt": "2026-04-18T13:20:09.191Z"
   },
   "systems": [],
   "locations": [
@@ -1630,6 +1630,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",

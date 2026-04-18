@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T03:20:13.750Z",
+    "generatedAt": "2026-04-18T13:20:11.336Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -5095,6 +5095,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",
