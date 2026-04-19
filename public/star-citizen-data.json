@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T13:20:11.336Z",
+    "generatedAt": "2026-04-19T03:38:58.245Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -7850,7 +7850,6 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
