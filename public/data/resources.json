@@ -2,7 +2,7 @@
   {
     "name": "Hadanite",
     "slug": "hadanite",
-    "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == A crystal oscillator sought out for its extremely high frequency of vibration which makes it useful in various applications. == Harvest locations == == Trade data == == Gallery == == Development == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
+    "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Harvest locations == == Trade data == == Gallery == == Development == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "environments": [
@@ -243,7 +243,7 @@
   {
     "name": "Aphorite",
     "slug": "aphorite",
-    "description": "Aphorite is a mineable commodity with a relatively low instability. == Description == Decorative jewel crystal prized for its multi-hued tones. == Trade data == == Harvest locations == == Gallery == == Development == == References ==",
+    "description": "Aphorite is a mineable commodity with a relatively low instability. == Description == == Trade data == == Harvest locations == == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -391,7 +391,7 @@
   {
     "name": "Dolivine",
     "slug": "dolivine",
-    "description": "Dolivine is a green colored mineable gemstone. == Description == A dull green gemstone that is used decoratively but also can be used for industrial purposes thanks to its resistance to weathering and high density. == Trade data == == Harvest locations == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == See also == Mining == References ==",
+    "description": "Dolivine is a green colored mineable gemstone. == Description == == Trade data == == Harvest locations == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == See also == Mining == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -618,7 +618,7 @@
   {
     "name": "Agricium",
     "slug": "agricium",
-    "description": "Agricium is the refined form of agricium ore, it is a tradable commodity. == Description == A rare and valuable silvery metal with a blue-green sheen. Malleable, ductile, and largely non-reactive. == Trade data == == See also == Mining Refining == Development == == References ==",
+    "description": "Agricium is the refined form of agricium ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -1121,7 +1121,7 @@
   {
     "name": "Laranite",
     "slug": "laranite",
-    "description": "Laranite is a gemstone commodity. == Description == A somewhat radioactive, crystalline gemstone. Black with streaks of dark red, it can only be used as jewelry if shielded. == Trade data == == Gallery == == Development == == Trivia == == References ==",
+    "description": "Laranite is a gemstone commodity. == Description == == Trade data == == Gallery == == Development == == Trivia == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -2965,7 +2965,7 @@
   {
     "name": "Gold",
     "slug": "gold",
-    "description": "Gold is a metal commodity that is refined from gold ore. == Description == A commonly found ductile metal favored for its conductivity. Though it falls in and out of fashion, it is often used for decorative purposes as well. == Trade data == == Gallery == == Development == == See also == Mining Refining == References ==",
+    "description": "Gold is a metal commodity that is refined from gold ore. == Description == == Trade data == == Gallery == == Development == == See also == Mining Refining == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -3134,7 +3134,7 @@
   {
     "name": "Diamond",
     "slug": "diamond",
-    "description": "Diamond is a commodity. == Description == An allotrope of the element carbon, diamonds form over billions of years under high heat and pressure. Extremely hard and thermally conductive. == Trade data == == Gallery == == Development == == References ==",
+    "description": "Diamond is a commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -3161,7 +3161,7 @@
   {
     "name": "Titanium",
     "slug": "titanium",
-    "description": "Titanium is the refined form of titanium ore, it is a tradable commodity. == Description == This silver-colored chemical element is excellent at producing strong, lightweight alloys. == Trade data == == See also == Mining Refining == Development == == References ==",
+    "description": "Titanium is the refined form of titanium ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -3339,7 +3339,7 @@
   {
     "name": "Tungsten",
     "slug": "tungsten",
-    "description": "Tungsten is the refined form of tungsten ore, it is a tradable commodity. == Description == Used in many different alloys, tungsten in its pure form becomes malleable while maintaining its hardness. == Trade data == == See also == Mining Refining == Development == == References ==",
+    "description": "Tungsten is the refined form of tungsten ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -4195,7 +4195,7 @@
   {
     "name": "Corundum",
     "slug": "corundum",
-    "description": "Corundum is a commodity. == Description == The crystalline form of aluminum oxide. Used as a gem. Varieties include ruby, sapphire, and padparadscha. == Trade data == == Gallery == == Development == == References ==",
+    "description": "Corundum is a commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -4808,7 +4808,7 @@
   {
     "name": "Beryl",
     "slug": "beryl",
-    "description": "Beryl is a commodity. == Description == A mineral that creates natural hexagonal crystals. Colorless in its pure form, its impure forms include the gems emerald and aquamarine. == Trade data == == Gallery == == Development == == References ==",
+    "description": "Beryl is a commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -5842,7 +5842,7 @@
   {
     "name": "Quartz",
     "slug": "quartz",
-    "description": "Quartz is a mineral commodity. == Description == A chiral crystal composed of silicon and oxygen that can be found in a wide variety of forms and colors. == Trade data == == Gallery == == Development == == References ==",
+    "description": "Quartz is a mineral commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -5914,7 +5914,7 @@
   {
     "name": "Aluminum",
     "slug": "aluminum",
-    "description": "Aluminum is the refined form of aluminum ore, it is a tradable commodity. == Description == A chemically reactive, gray metal that is malleable, lightweight, ductile, strong, and resistant to corrosion. Capable of superconductivity. == Trade data == == Gallery == == See also == Mining Refining == Development == == References ==",
+    "description": "Aluminum is the refined form of aluminum ore, it is a tradable commodity. == Description == == Trade data == == Gallery == == See also == Mining Refining == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
