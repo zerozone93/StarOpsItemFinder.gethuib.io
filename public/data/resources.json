@@ -17,8 +17,8 @@
       "baijini_point",
       "port_tressler",
       "arc_l1",
+      "arc_l2",
       "arc_l3",
-      "arc_l5",
       "hur_l1",
       "hur_l2",
       "mic_l1",
@@ -257,8 +257,8 @@
       "arc_l5",
       "hur_l1",
       "hur_l2",
-      "mic_l1",
-      "daymar"
+      "hur_l5",
+      "mic_l1"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
@@ -405,8 +405,8 @@
       "arc_l5",
       "hur_l1",
       "hur_l2",
-      "mic_l1",
-      "daymar"
+      "hur_l5",
+      "mic_l1"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
@@ -2972,6 +2972,7 @@
       "arc_l1",
       "hur_l1",
       "hur_l2",
+      "hur_l5",
       "mic_l1",
       "microtech",
       "pyro",

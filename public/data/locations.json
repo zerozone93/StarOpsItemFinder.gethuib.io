@@ -645,6 +645,15 @@
     ]
   },
   {
+    "name": "Attritus OLP",
+    "slug": "attritus-olp",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
     "name": "August Dunlow Spaceport",
     "slug": "august-dunlow-spaceport",
     "verificationStatus": "community_verified",
@@ -1802,15 +1811,6 @@
   {
     "name": "Charon I",
     "slug": "charon-i",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Charon II",
-    "slug": "charon-ii",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
