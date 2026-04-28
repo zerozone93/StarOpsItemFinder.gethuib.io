@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-04-27T14:16:21.534Z"
+    "fetchedAt": "2026-04-28T03:54:32.954Z"
   },
   "systems": [],
   "locations": [
@@ -677,6 +677,12 @@
       "confidenceScore": 0.68
     },
     {
+      "name": "Banu Friendship Museum",
+      "slug": "banu-friendship-museum",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
       "name": "Barton Flats Aid Shelter",
       "slug": "barton-flats-aid-shelter",
       "verificationStatus": "community_verified",
@@ -1267,12 +1273,6 @@
     {
       "name": "Charon 3a",
       "slug": "charon-3a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon I",
-      "slug": "charon-i",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
