@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-04-29T14:23:13.298Z",
+    "generatedAt": "2026-04-30T03:52:29.647Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-04-29T14:20:52.338Z",
+        "fetchedAt": "2026-04-30T03:50:09.777Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-04-29T14:23:12.437Z",
+        "fetchedAt": "2026-04-30T03:52:28.900Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-04-29T14:23:12.439Z",
+        "fetchedAt": "2026-04-30T03:52:28.908Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-04-29T14:23:12.440Z",
+        "fetchedAt": "2026-04-30T03:52:28.908Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-04-29T14:23:12.955Z",
+        "fetchedAt": "2026-04-30T03:52:29.366Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-04-29T14:23:13.248Z",
+        "fetchedAt": "2026-04-30T03:52:29.595Z",
         "skipped": false
       }
     ],
@@ -101312,7 +101312,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "description": "A \"Battle Tech\" heavy armor set manufactured by Quirinus Tech. == Product description == \"Elegant design meets innovation with the Palatino armor from Quirinus Tech. The fully-enclosed helmet comes equipped with a suite of sensors that connects the wearer to the wider world while providing supreme protection.\" == Armor components == == Armor variants == == Special variants == == Gallery == == References ==",
-      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "imageUrl": "https://media.starcitizen.tools/7/75/Palatino_Base_Set.jpg",
       "purchaseLocations": [],
       "foundLocations": [],
       "mergedSources": [

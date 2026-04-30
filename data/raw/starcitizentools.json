@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-04-29T14:23:12.437Z"
+    "fetchedAt": "2026-04-30T03:52:28.900Z"
   },
   "systems": [],
   "locations": [
@@ -2909,7 +2909,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "description": "A \"Battle Tech\" heavy armor set manufactured by Quirinus Tech. == Product description == \"Elegant design meets innovation with the Palatino armor from Quirinus Tech. The fully-enclosed helmet comes equipped with a suite of sensors that connects the wearer to the wider world while providing supreme protection.\" == Armor components == == Armor variants == == Special variants == == Gallery == == References ==",
-      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "imageUrl": "https://media.starcitizen.tools/7/75/Palatino_Base_Set.jpg",
       "purchaseLocations": [],
       "foundLocations": []
     },
