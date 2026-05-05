@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-05T03:38:53.533Z",
+    "generatedAt": "2026-05-05T14:16:49.226Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-05T03:35:15.962Z",
+        "fetchedAt": "2026-05-05T14:13:39.186Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-05T03:38:52.024Z",
+        "fetchedAt": "2026-05-05T14:16:48.291Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-05T03:38:52.032Z",
+        "fetchedAt": "2026-05-05T14:16:48.298Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-05T03:38:52.033Z",
+        "fetchedAt": "2026-05-05T14:16:48.299Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-05T03:38:53.017Z",
+        "fetchedAt": "2026-05-05T14:16:48.815Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-05T03:38:53.478Z",
+        "fetchedAt": "2026-05-05T14:16:49.177Z",
         "skipped": false
       }
     ],
@@ -2311,8 +2311,8 @@
         "arc_l3",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
-        "mic_l1"
+        "mic_l1",
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -5262,6 +5262,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",
