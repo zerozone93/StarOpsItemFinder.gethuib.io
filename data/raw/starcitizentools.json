@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-05-04T14:24:27.237Z"
+    "fetchedAt": "2026-05-05T03:38:52.024Z"
   },
   "systems": [],
   "locations": [
@@ -1408,8 +1408,8 @@
         "arc_l3",
         "hur_l1",
         "hur_l2",
-        "mic_l1",
-        "daymar"
+        "hur_l5",
+        "mic_l1"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -1589,7 +1589,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",
