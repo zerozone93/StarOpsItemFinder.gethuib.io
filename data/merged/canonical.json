@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-05T14:16:49.226Z",
+    "generatedAt": "2026-05-06T03:56:35.841Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-05T14:13:39.186Z",
+        "fetchedAt": "2026-05-06T03:50:48.500Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-05T14:16:48.291Z",
+        "fetchedAt": "2026-05-06T03:56:33.421Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-05T14:16:48.298Z",
+        "fetchedAt": "2026-05-06T03:56:33.423Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-05T14:16:48.299Z",
+        "fetchedAt": "2026-05-06T03:56:33.425Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-05T14:16:48.815Z",
+        "fetchedAt": "2026-05-06T03:56:34.679Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-05T14:16:49.177Z",
+        "fetchedAt": "2026-05-06T03:56:35.791Z",
         "skipped": false
       }
     ],
@@ -101311,7 +101311,7 @@
       "slug": "palatino",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A \"Battle Tech\" heavy armor set manufactured by Quirinus Tech. == Product description == \"Elegant design meets innovation with the Palatino armor from Quirinus Tech. The fully-enclosed helmet comes equipped with a suite of sensors that connects the wearer to the wider world while providing supreme protection.\" == Armor components == == Armor variants == == Special variants == == Gallery == == References ==",
+      "description": "A \"Battle Tech\" heavy armor set manufactured by Quirinus Tech. == Product description == \"Elegant design meets innovation with the Palatino armor from Quirinus Tech. The fully-enclosed helmet comes equipped with a suite of sensors that connects the wearer to the wider world while providing supreme protection.\" == Acquisition == You can find the standard variants at Distribution Centers There are 7 total crates, these are large orange loot chests. 2 Outside on either side 2 Underneath in the working area 2 At each side Security Checkpoint for the internal elevators. (These are behind locked doors). 1 In between the VIP Rooms on the top floor of the lobby (right above the entry elevators). == Armor components == == Armor variants == == Special variants == == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/7/75/Palatino_Base_Set.jpg",
       "purchaseLocations": [],
       "foundLocations": [],
