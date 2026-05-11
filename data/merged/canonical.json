@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-11T04:11:17.771Z",
+    "generatedAt": "2026-05-11T15:30:00.238Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-11T04:09:04.508Z",
+        "fetchedAt": "2026-05-11T15:28:23.308Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-11T04:11:16.347Z",
+        "fetchedAt": "2026-05-11T15:29:58.984Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-11T04:11:16.355Z",
+        "fetchedAt": "2026-05-11T15:29:58.986Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-11T04:11:16.356Z",
+        "fetchedAt": "2026-05-11T15:29:58.987Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-11T04:11:17.299Z",
+        "fetchedAt": "2026-05-11T15:29:59.826Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-11T04:11:17.723Z",
+        "fetchedAt": "2026-05-11T15:30:00.185Z",
         "skipped": false
       }
     ],
@@ -1017,6 +1017,33 @@
     {
       "name": "Attritus OLP",
       "slug": "attritus-olp",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Attritus PAF-I",
+      "slug": "attritus-paf-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Attritus PAF-II",
+      "slug": "attritus-paf-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Attritus PAF-III",
+      "slug": "attritus-paf-iii",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -2161,33 +2188,6 @@
       ]
     },
     {
-      "name": "Charon 2a",
-      "slug": "charon-2a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon 2b",
-      "slug": "charon-2b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon 3a",
-      "slug": "charon-3a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "id": "pyro",
       "name": "Pyro",
       "systemId": "pyro",
@@ -2307,12 +2307,12 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
         "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
-        "mic_l1"
+        "mic_l1",
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -5634,7 +5634,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "grimhex",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -6493,7 +6492,6 @@
       "knownLocations": [
         "lorville",
         "grimhex",
-        "cru_l5",
         "hur_l1",
         "hur_l2",
         "hur_l5",

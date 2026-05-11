@@ -17,12 +17,12 @@
       "baijini_point",
       "port_tressler",
       "arc_l1",
-      "arc_l2",
       "arc_l3",
+      "arc_l5",
       "hur_l1",
       "hur_l2",
-      "hur_l5",
-      "mic_l1"
+      "mic_l1",
+      "daymar"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -3344,7 +3344,6 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "grimhex",
       "hur_l1",
       "hur_l2",
       "hur_l5",
@@ -4203,7 +4202,6 @@
     "knownLocations": [
       "lorville",
       "grimhex",
-      "cru_l5",
       "hur_l1",
       "hur_l2",
       "hur_l5",

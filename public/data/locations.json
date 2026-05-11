@@ -654,6 +654,33 @@
     ]
   },
   {
+    "name": "Attritus PAF-I",
+    "slug": "attritus-paf-i",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Attritus PAF-II",
+    "slug": "attritus-paf-ii",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Attritus PAF-III",
+    "slug": "attritus-paf-iii",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
     "name": "August Dunlow Spaceport",
     "slug": "august-dunlow-spaceport",
     "verificationStatus": "community_verified",
@@ -1784,33 +1811,6 @@
   {
     "name": "Charon - Tyrol",
     "slug": "charon-tyrol",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Charon 2a",
-    "slug": "charon-2a",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Charon 2b",
-    "slug": "charon-2b",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Charon 3a",
-    "slug": "charon-3a",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
