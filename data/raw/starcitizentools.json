@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-05-15T04:07:46.539Z"
+    "fetchedAt": "2026-05-15T14:26:06.049Z"
   },
   "systems": [],
   "locations": [
@@ -1832,7 +1832,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1843,7 +1843,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Escalate Stabilizer2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1854,7 +1854,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Escalate Stabilizer3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/1/1a/Escalate_3.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1900,7 +1900,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Quell Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Quell Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1911,7 +1911,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Quell Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Quell Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1922,7 +1922,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Quell Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Quell Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1933,7 +1933,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1944,7 +1944,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1955,7 +1955,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Stark Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1966,7 +1966,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stoic Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Stoic Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1977,7 +1977,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stoic Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Stoic Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1988,7 +1988,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stoic Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Stoic Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -1999,7 +1999,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -2010,7 +2010,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Torrent Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
@@ -2021,7 +2021,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Model == === Variants === == Gallery == == References ==",
+      "description": "The Torrent Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": []
