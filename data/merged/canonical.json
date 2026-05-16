@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-16T03:49:16.412Z",
+    "generatedAt": "2026-05-16T13:48:45.085Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-16T03:47:53.442Z",
+        "fetchedAt": "2026-05-16T13:47:48.159Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-16T03:49:15.607Z",
+        "fetchedAt": "2026-05-16T13:48:44.316Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-16T03:49:15.609Z",
+        "fetchedAt": "2026-05-16T13:48:44.318Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-16T03:49:15.610Z",
+        "fetchedAt": "2026-05-16T13:48:44.319Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-16T03:49:16.053Z",
+        "fetchedAt": "2026-05-16T13:48:44.762Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-16T03:49:16.364Z",
+        "fetchedAt": "2026-05-16T13:48:45.036Z",
         "skipped": false
       }
     ],
@@ -2311,8 +2311,8 @@
         "arc_l5",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
-        "mic_l1"
+        "mic_l1",
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
