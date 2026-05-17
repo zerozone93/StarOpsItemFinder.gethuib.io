@@ -17,12 +17,12 @@
       "baijini_point",
       "port_tressler",
       "arc_l1",
-      "arc_l3",
-      "arc_l5",
+      "cru_l1",
       "hur_l1",
       "hur_l2",
       "mic_l1",
-      "daymar"
+      "daymar",
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -253,12 +253,12 @@
       "port_tressler",
       "arc_l1",
       "arc_l2",
-      "arc_l3",
-      "arc_l5",
+      "cru_l1",
       "hur_l1",
       "hur_l2",
       "hur_l5",
-      "mic_l1"
+      "mic_l1",
+      "daymar"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
@@ -401,12 +401,12 @@
       "port_tressler",
       "arc_l1",
       "arc_l2",
-      "arc_l3",
-      "arc_l5",
+      "cru_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l5",
-      "mic_l1"
+      "mic_l1",
+      "daymar",
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
@@ -2269,6 +2269,7 @@
     "confidenceScore": 0.82,
     "knownLocations": [
       "arc_l1",
+      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l4",
@@ -2972,7 +2973,6 @@
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l5",
       "mic_l1",
       "microtech",
       "pyro",
@@ -3166,7 +3166,7 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "grimhex",
+      "lorville",
       "hur_l2",
       "microtech",
       "pyro",
@@ -4871,6 +4871,7 @@
     "confidenceScore": 0.82,
     "knownLocations": [
       "arc_l1",
+      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l4",
@@ -5918,6 +5919,7 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l4",
