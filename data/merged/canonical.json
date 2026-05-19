@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-18T15:52:47.773Z",
+    "generatedAt": "2026-05-19T04:14:43.030Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-18T15:49:31.941Z",
+        "fetchedAt": "2026-05-19T04:13:13.636Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-18T15:52:46.294Z",
+        "fetchedAt": "2026-05-19T04:14:41.510Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-18T15:52:46.295Z",
+        "fetchedAt": "2026-05-19T04:14:41.513Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-18T15:52:46.296Z",
+        "fetchedAt": "2026-05-19T04:14:41.514Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-18T15:52:47.188Z",
+        "fetchedAt": "2026-05-19T04:14:42.418Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-18T15:52:47.732Z",
+        "fetchedAt": "2026-05-19T04:14:42.981Z",
         "skipped": false
       }
     ],
@@ -2307,7 +2307,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "cru_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2543,12 +2543,11 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "cru_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
-        "daymar"
+        "daymar",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
@@ -2691,7 +2690,6 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -5263,6 +5261,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",

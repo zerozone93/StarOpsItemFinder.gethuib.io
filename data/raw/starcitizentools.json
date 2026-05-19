@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-05-18T15:52:46.294Z"
+    "fetchedAt": "2026-05-19T04:14:41.510Z"
   },
   "systems": [],
   "locations": [
@@ -1404,7 +1404,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "cru_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1428,12 +1428,11 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "cru_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
-        "daymar"
+        "daymar",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
@@ -1452,7 +1451,6 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1590,6 +1588,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",
