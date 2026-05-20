@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-19T15:41:37.753Z",
+    "generatedAt": "2026-05-20T04:15:11.695Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-19T15:40:35.266Z",
+        "fetchedAt": "2026-05-20T04:13:53.344Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-19T15:41:36.823Z",
+        "fetchedAt": "2026-05-20T04:15:10.881Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-19T15:41:36.825Z",
+        "fetchedAt": "2026-05-20T04:15:10.883Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-19T15:41:36.825Z",
+        "fetchedAt": "2026-05-20T04:15:10.884Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-19T15:41:37.367Z",
+        "fetchedAt": "2026-05-20T04:15:11.419Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-19T15:41:37.703Z",
+        "fetchedAt": "2026-05-20T04:15:11.649Z",
         "skipped": false
       }
     ],
@@ -16688,7 +16688,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
+      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16816,7 +16816,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
+      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16900,7 +16900,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
+      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
