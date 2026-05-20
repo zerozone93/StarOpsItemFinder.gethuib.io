@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-20T04:15:11.695Z",
+    "generatedAt": "2026-05-20T15:43:11.076Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-20T04:13:53.344Z",
+        "fetchedAt": "2026-05-20T15:41:49.991Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-20T04:15:10.881Z",
+        "fetchedAt": "2026-05-20T15:43:10.148Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-20T04:15:10.883Z",
+        "fetchedAt": "2026-05-20T15:43:10.150Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-20T04:15:10.884Z",
+        "fetchedAt": "2026-05-20T15:43:10.151Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-20T04:15:11.419Z",
+        "fetchedAt": "2026-05-20T15:43:10.766Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-20T04:15:11.649Z",
+        "fetchedAt": "2026-05-20T15:43:11.026Z",
         "skipped": false
       }
     ],
@@ -16830,7 +16830,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == No related items available from the API. == Gallery == == References ==",
+      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16956,7 +16956,7 @@
     {
       "name": "CenterMass",
       "slug": "centermass",
-      "description": "CenterMass is a Human spacecraft weapons and armor retailer with franchise stores in multiple locations across the United Empire of Earth (UEE). Founded as a weapons-only store, they added armor to their inventory in 2939. They also keep mechanics on staff for installation, modification, and repair of any items purchased at a CenterMass store. == Locations == 2nd floor of the IO-North tower, Area18, ArcCorp The Plaza, New Babbage, microTech == Gallery == == References ==",
+      "description": "hu:CenterMass CenterMass is a Human spacecraft weapons and armor retailer with franchise stores in multiple locations across the United Empire of Earth (UEE). Founded as a weapons-only store, they added armor to their inventory in 2939. They also keep mechanics on staff for installation, modification, and repair of any items purchased at a CenterMass store. == Locations == 2nd floor of the IO-North tower, Area18, ArcCorp The Plaza, New Babbage, microTech == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -16971,7 +16971,7 @@
     {
       "name": "Cubby Blast",
       "slug": "cubby-blast",
-      "description": "Cubby Blast is a weapon dealership in Zone 1 in Area18 on ArcCorp. The store is owned and operated by the former outlaw Clor Vee. == Items for sale == === Armor === == Portfolio (lore) == “Racks of rifles, stacks of shotguns, piles of pistols,” excitedly promises the Cubby Blast holo-jingle, and the store delivers, firmly establishing itself as one of Area18’s more eccentric locales. While most of the stores on the planet strive to achieve an aura of respectability, Cubby Blast seems to stand in staunch defiance to the corporate culture that surrounds it. Supposedly modeled after a weapons shop on the infamous Spider station in the Cathcart system, this small personal weapons store is pure counterculture. Even the name itself is taken from a Cathcart sales phrase meaning “the weapon fires fine.” It’s this flavor that makes Cubby Blast a popular destination for all people traveling throug",
+      "description": "hu:Cubby Blast Cubby Blast is a weapon dealership in Zone 1 in Area18 on ArcCorp. The store is owned and operated by the former outlaw Clor Vee. == Items for sale == === Armor === == Portfolio (lore) == “Racks of rifles, stacks of shotguns, piles of pistols,” excitedly promises the Cubby Blast holo-jingle, and the store delivers, firmly establishing itself as one of Area18’s more eccentric locales. While most of the stores on the planet strive to achieve an aura of respectability, Cubby Blast seems to stand in staunch defiance to the corporate culture that surrounds it. Supposedly modeled after a weapons shop on the infamous Spider station in the Cathcart system, this small personal weapons store is pure counterculture. Even the name itself is taken from a Cathcart sales phrase meaning “the weapon fires fine.” It’s this flavor that makes Cubby Blast a popular destination for all people t",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -16984,7 +16984,7 @@
     {
       "name": "Live Fire Weapons",
       "slug": "live-fire-weapons",
-      "description": "Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
+      "description": "hu:Live Fire Weapons Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [],
@@ -16995,7 +16995,7 @@
     {
       "name": "Tammany and Sons",
       "slug": "tammany-and-sons",
-      "description": "Tammany and Sons is a shop in Lorville. It belongs to Hurston Dynamics and primarly sells goods to their workers in a truck-shop scheme that ensures no credits (or employees) leave the Hurston ecosystem. == Location == The shop is located in the L19 Workers District of Lorville, Hurston right next to the miners' rail line. In addition to Clothing and Armor, the shop also sells Greycat Industrial's Pyro RYT Multi-Tool. Also of note is that this is where you can pick up a Gyson Ready-Up - the notorious \"baghead\" soft-body breathing helmet, which is frequently used by residents to cope with the planet's abysmal atmospheric quality. == Gallery == == Merchandise == == References ==",
+      "description": "hu:Tammany and Sons Tammany and Sons is a shop in Lorville. It belongs to Hurston Dynamics and primarly sells goods to their workers in a truck-shop scheme that ensures no credits (or employees) leave the Hurston ecosystem. == Location == The shop is located in the L19 Workers District of Lorville, Hurston right next to the miners' rail line. In addition to Clothing and Armor, the shop also sells Greycat Industrial's Pyro RYT Multi-Tool. Also of note is that this is where you can pick up a Gyson Ready-Up - the notorious \"baghead\" soft-body breathing helmet, which is frequently used by residents to cope with the planet's abysmal atmospheric quality. == Gallery == == Merchandise == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -17009,7 +17009,7 @@
     {
       "name": "Casaba Outlet",
       "slug": "casaba-outlet",
-      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "description": "hu:Casaba Outlet Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
