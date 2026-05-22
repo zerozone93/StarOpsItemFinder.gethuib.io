@@ -5431,12 +5431,9 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "new_babbage",
-      "port_tressler",
       "hur_l1",
       "hur_l4",
       "hur_l5",
-      "microtech",
       "pyro"
     ],
     "purchaseLocations": [],

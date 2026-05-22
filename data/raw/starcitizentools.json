@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-05-21T15:44:30.958Z"
+    "fetchedAt": "2026-05-22T04:19:11.830Z"
   },
   "systems": [],
   "locations": [
@@ -1742,12 +1742,9 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "new_babbage",
-        "port_tressler",
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "microtech",
         "pyro"
       ],
       "purchaseLocations": [],
