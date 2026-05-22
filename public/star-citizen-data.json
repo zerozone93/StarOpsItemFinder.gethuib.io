@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-22T04:19:13.387Z",
+    "generatedAt": "2026-05-22T14:54:22.094Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -7361,9 +7361,12 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "port_tressler",
         "hur_l1",
         "hur_l4",
         "hur_l5",
+        "microtech",
         "pyro"
       ],
       "purchaseLocations": [],
