@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-22T14:54:21.846Z",
+    "generatedAt": "2026-05-23T03:57:53.240Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-22T14:53:09.609Z",
+        "fetchedAt": "2026-05-23T03:55:52.914Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-22T14:54:20.241Z",
+        "fetchedAt": "2026-05-23T03:57:51.855Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-22T14:54:20.243Z",
+        "fetchedAt": "2026-05-23T03:57:51.858Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-22T14:54:20.249Z",
+        "fetchedAt": "2026-05-23T03:57:51.858Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-22T14:54:21.335Z",
+        "fetchedAt": "2026-05-23T03:57:52.684Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-22T14:54:21.793Z",
+        "fetchedAt": "2026-05-23T03:57:53.195Z",
         "skipped": false
       }
     ],
@@ -2308,11 +2308,11 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar",
-        "microtech"
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -2543,11 +2543,12 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
+        "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar",
-        "microtech"
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
@@ -2690,11 +2691,12 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
+        "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar",
-        "microtech"
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
@@ -4557,7 +4559,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -5455,7 +5456,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
+        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",
@@ -7160,7 +7161,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -8208,7 +8208,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -16688,7 +16687,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Escalate Stabilizer1 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16702,7 +16701,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Escalate Stabilizer2 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16716,7 +16715,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Escalate Stabilizer3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Escalate Stabilizer3 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/1/1a/Escalate_3.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16774,7 +16773,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Quell Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Quell Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16788,7 +16787,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Quell Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Quell Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16802,7 +16801,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Quell Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Quell Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16816,7 +16815,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Stark Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16830,7 +16829,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Stark Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16844,7 +16843,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stark Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Stark Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16858,7 +16857,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stoic Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Stoic Suppressor1 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16872,7 +16871,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stoic Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Stoic Suppressor2 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16886,7 +16885,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Stoic Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Stoic Suppressor3 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16900,7 +16899,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Torrent Compensator1 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16914,7 +16913,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Torrent Compensator2 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -16928,7 +16927,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "The Torrent Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == References ==",
+      "description": "The Torrent Compensator3 is a barrel attachment manufactured by ArmaMod. == Description == == Ports == No ports. == Acquisition == == Related == === Variants === == Gallery == == References ==",
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "purchaseLocations": [],
       "foundLocations": [],
@@ -96147,7 +96146,7 @@
     {
       "name": "C54 SMG",
       "slug": "c54-smg",
-      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
+      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -96173,7 +96172,7 @@
     {
       "name": "P4-AR Rifle",
       "slug": "p4-ar-rifle",
-      "description": "The P4-AR Rifle is a 5.56mm, selective-fire assault rifle manufactured by Behring Applied Technology. It boasts an effective range of 50 meters and can be operated in semi-automatic, three-round burst, and fully automatic modes. The P4-AR rifle is equipped with a collapsible stock and shortened barrel, rendering it a suitable option for close-quarter combat. Its accuracy and user-friendly design have earned it widespread recognition among security, military, and civilian users alike, cementing its status as a highly regarded firearm. == Description == == Item ports == == Acquisition == == Related == === Variants === == Lore == The P4-AR Rifle was the standard issue rifle for the United Empire of Earth military. == Gallery == == Trivia == In October 2019 it was revealed that the P4-AR Rifle had been the most popular assault rifle for the January–October period of the same year, with 1,391",
+      "description": "The P4-AR Rifle is a 5.56mm, selective-fire assault rifle manufactured by Behring Applied Technology. It boasts an effective range of 50 meters and can be operated in semi-automatic, three-round burst, and fully automatic modes. The P4-AR rifle is equipped with a collapsible stock and shortened barrel, rendering it a suitable option for close-quarter combat. Its accuracy and user-friendly design have earned it widespread recognition among security, military, and civilian users alike, cementing its status as a highly regarded firearm. == Description == == Ports == == Acquisition == == Related == === Variants === == Lore == The P4-AR Rifle was the standard issue rifle for the United Empire of Earth military. == Gallery == == Trivia == In October 2019 it was revealed that the P4-AR Rifle had been the most popular assault rifle for the January–October period of the same year, with 1,391,118 ",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -96199,7 +96198,7 @@
     {
       "name": "P8-SC SMG",
       "slug": "p8-sc-smg",
-      "description": "The P8-SC SMG is a 10-mm, selective-fire submachine gun manufactured by Behring Applied Technology. It boasts an effective range of 30 meters and can be fired in rapid or burst mode. The weapon features a folding stock for ease of transport and storage. The UEE Marines, widely regarded as the top fighting force in the 'verse, have adopted the P8-SC as their standard ballistic submachine gun. However, the weapon has also gained popularity among civilians seeking personal safety and protection. Its widespread use is a testament to its reliability and effectiveness in combat situations. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The P8-SC SMG is introduced in Alpha 3.0.0. == Trivia == In October 2019 it was revealed that the P8-SC SMG had been the most popular submachine gun for the January–October period of the same y",
+      "description": "The P8-SC SMG is a 10-mm, selective-fire submachine gun manufactured by Behring Applied Technology. It boasts an effective range of 30 meters and can be fired in rapid or burst mode. The weapon features a folding stock for ease of transport and storage. The UEE Marines, widely regarded as the top fighting force in the 'verse, have adopted the P8-SC as their standard ballistic submachine gun. However, the weapon has also gained popularity among civilians seeking personal safety and protection. Its widespread use is a testament to its reliability and effectiveness in combat situations. == Description == == Ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The P8-SC SMG is introduced in Alpha 3.0.0. == Trivia == In October 2019 it was revealed that the P8-SC SMG had been the most popular submachine gun for the January–October period of the same year, ",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -96225,7 +96224,7 @@
     {
       "name": "FS-9 LMG",
       "slug": "fs-9-lmg",
-      "description": "The FS-9 LMG is a 5-mm light machine gun manufactured by Behring Applied Technology. With an effective range of 40 meters, the FS-9 is designed to be a dominant force on the battlefield. Behring's intention was to create a weapon that could provide overwhelming firepower. The full auto mode of the light machine gun is particularly useful for laying down covering fire or holding back advancing enemies. Additionally, the FS-9 is renowned for its ability to maintain accuracy while unleashing sustained fire, making it a highly effective weapon in combat situations. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The FS-9 LMG is introduced in Alpha 3.12.0. == References ==",
+      "description": "The FS-9 LMG is a 5-mm light machine gun manufactured by Behring Applied Technology. With an effective range of 40 meters, the FS-9 is designed to be a dominant force on the battlefield. Behring's intention was to create a weapon that could provide overwhelming firepower. The full auto mode of the light machine gun is particularly useful for laying down covering fire or holding back advancing enemies. Additionally, the FS-9 is renowned for its ability to maintain accuracy while unleashing sustained fire, making it a highly effective weapon in combat situations. == Description == == Ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The FS-9 LMG is introduced in Alpha 3.12.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -96251,7 +96250,7 @@
     {
       "name": "Gallant Rifle",
       "slug": "gallant-rifle",
-      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Item ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology, there will always be a place for a dependable",
+      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology, there will always be a place for a dependable assa",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -96277,7 +96276,7 @@
     {
       "name": "Custodian SMG",
       "slug": "custodian-smg",
-      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Item ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submachine gun FN P90. == References ==",
+      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submachine gun FN P90. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -96303,7 +96302,7 @@
     {
       "name": "S71 Rifle",
       "slug": "s71-rifle",
-      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Item ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References ==",
+      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
