@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-24T04:17:37.109Z",
+    "generatedAt": "2026-05-27T04:28:13.473Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-24T04:16:19.311Z",
+        "fetchedAt": "2026-05-27T04:26:23.230Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-24T04:17:35.611Z",
+        "fetchedAt": "2026-05-27T04:28:11.333Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-24T04:17:35.613Z",
+        "fetchedAt": "2026-05-27T04:28:11.334Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-24T04:17:35.613Z",
+        "fetchedAt": "2026-05-27T04:28:11.335Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-24T04:17:36.537Z",
+        "fetchedAt": "2026-05-27T04:28:12.387Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-24T04:17:37.057Z",
+        "fetchedAt": "2026-05-27T04:28:13.426Z",
         "skipped": false
       }
     ],
@@ -2307,12 +2307,12 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l3",
-        "arc_l5",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar"
+        "daymar",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
@@ -2543,12 +2543,11 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "arc_l3",
-        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar"
+        "daymar",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
@@ -2691,12 +2690,11 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "arc_l3",
-        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar"
+        "daymar",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
@@ -4559,6 +4557,7 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -5456,7 +5455,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "grimhex",
+        "lorville",
         "hur_l2",
         "microtech",
         "pyro",
@@ -7161,6 +7160,7 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -8208,6 +8208,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
