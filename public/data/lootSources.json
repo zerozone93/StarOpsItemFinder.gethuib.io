@@ -35,20 +35,30 @@
   {
     "id": "lootsource:sc-crafter-import",
     "slug": "sc-crafter-import",
-    "name": "SC Crafter API import run",
-    "description": "High-coverage crafting import from SC Crafter API",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.85,
+    "name": "SC Crafter fallback import run",
+    "description": "Supplementary fallback scrape import from SC Crafter",
+    "verificationStatus": "partial",
+    "confidenceScore": 0.45,
     "sourceReferences": [
       {
         "source": "sc-crafter",
-        "url": "https://www.sc-crafter.com/api/summary",
-        "note": "source version LIVE-4.7.0-hotfix-11576750"
+        "url": "https://www.sc-crafter.com/",
+        "note": "error: HTTP 522 for https://www.sc-crafter.com/"
       },
       {
         "source": "sc-crafter",
-        "url": "https://www.sc-crafter.com/api/blueprints",
-        "note": "parsed 1044 blueprints"
+        "url": "https://www.sc-crafter.com/?type=Armor",
+        "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+      },
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/?type=Weapons",
+        "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+      },
+      {
+        "source": "sc-crafter",
+        "url": "https://www.sc-crafter.com/?type=Ammo",
+        "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
       }
     ],
     "mergedSources": [
