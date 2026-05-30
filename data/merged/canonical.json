@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-05-29T16:02:12.803Z",
+    "generatedAt": "2026-05-30T13:57:43.894Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-05-29T15:59:36.583Z",
+        "fetchedAt": "2026-05-30T13:55:39.361Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-05-29T16:01:07.388Z",
+        "fetchedAt": "2026-05-30T13:57:11.267Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-05-29T16:01:07.390Z",
+        "fetchedAt": "2026-05-30T13:57:11.269Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-05-29T16:01:07.391Z",
+        "fetchedAt": "2026-05-30T13:57:11.270Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-05-29T16:01:08.044Z",
+        "fetchedAt": "2026-05-30T13:57:11.965Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-05-29T16:02:12.801Z",
+        "fetchedAt": "2026-05-30T13:57:43.892Z",
         "skipped": false
       }
     ],
@@ -2088,7 +2088,7 @@
     {
       "name": "Hadanite",
       "slug": "hadanite",
-      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Harvest locations == == Trade data == == Gallery == == Development == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
+      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Gallery == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "environments": [
@@ -2119,7 +2119,7 @@
     {
       "name": "Janalite",
       "slug": "janalite",
-      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Trade data == == Harvest locations == == Gallery == == Development == == References ==",
+      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "environments": [
@@ -2136,7 +2136,7 @@
     {
       "name": "Quantanium",
       "slug": "quantanium",
-      "description": "Quantanium (Raw) is a volatile mineral that can be mined from asteroids or ore deposits and be refined into quantanium. Raw quantanium  degrades over time and must be deposited at a refinery deck or it will explode violently.\n\n\n== Description ==\n\n\n== Harvest locations ==\n\n\n== Gallery ==\n\n\n== Development ==\n\n\n== See also ==\nMining\nRefining\nQuantanium on Galactapedia\n\n\n== References ==",
+      "description": "",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.9,
       "environments": [
@@ -2152,7 +2152,7 @@
     {
       "name": "Aphorite",
       "slug": "aphorite",
-      "description": "Aphorite is a mineable commodity with a relatively low instability. == Description == == Trade data == == Harvest locations == == Gallery == == Development == == References ==",
+      "description": "Aphorite is a mineral hand-mined for its low instability. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2178,7 +2178,7 @@
     {
       "name": "Dolivine",
       "slug": "dolivine",
-      "description": "Dolivine is a green colored mineable gemstone. == Description == == Trade data == == Harvest locations == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == See also == Mining == References ==",
+      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2202,28 +2202,9 @@
       ]
     },
     {
-      "name": "Quantanium (Raw)",
-      "slug": "quantanium-raw",
-      "description": "Quantanium (Raw) is a volatile mineral that can be mined from asteroids or ore deposits and be refined into quantanium. Raw quantanium degrades over time and must be deposited at a refinery deck or it will explode violently. == Description == == Harvest locations == == Gallery == == Development == == See also == Mining Refining Quantanium on Galactapedia == References ==",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.82,
-      "knownLocations": [
-        "hur_l2",
-        "hur_l4",
-        "microtech",
-        "pyro"
-      ],
-      "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/8/87/Quantanium_%28Raw%29_-_Galactapedia.png",
-      "sourceNotes": "Live wiki enrichment for Quantanium (Raw)",
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Agricium",
       "slug": "agricium",
-      "description": "Agricium is the refined form of agricium ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "description": "Agricium is a metal refined from agricium ore and traded as a commodity. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2244,7 +2225,7 @@
     {
       "name": "Bexalite",
       "slug": "bexalite",
-      "description": "Bexalite is a mineral commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Bexalite is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2265,11 +2246,13 @@
     {
       "name": "Borase",
       "slug": "borase",
-      "description": "Borase is the refined form of borase ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "description": "Borase is a non-metal refined from borase ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "lorville",
         "arc_l1",
+        "cru_l5",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -2285,7 +2268,7 @@
     {
       "name": "Laranite",
       "slug": "laranite",
-      "description": "Laranite is a gemstone commodity. == Description == == Trade data == == Gallery == == Development == == Trivia == == References ==",
+      "description": "Laranite is a somewhat radioactive, crystalline mineral gemstone, black with streaks of dark red. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2307,7 +2290,7 @@
     {
       "name": "Taranite",
       "slug": "taranite",
-      "description": "Taranite is a commodity, it is refined from raw taranite. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Taranite is a mineral refined from raw taranite. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2328,7 +2311,7 @@
     {
       "name": "Gold",
       "slug": "gold",
-      "description": "Gold is a metal commodity that is refined from gold ore. == Description == == Trade data == == Gallery == == Development == == See also == Mining Refining == References ==",
+      "description": "Gold is a metal refined from gold ore and traded across the 'verse. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2352,7 +2335,7 @@
     {
       "name": "Diamond",
       "slug": "diamond",
-      "description": "Diamond is a commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Diamond is a mineral. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2379,11 +2362,12 @@
     {
       "name": "Titanium",
       "slug": "titanium",
-      "description": "Titanium is the refined form of titanium ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "description": "Titanium is a metal refined from titanium ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
         "lorville",
+        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",
@@ -2401,7 +2385,7 @@
     {
       "name": "Tungsten",
       "slug": "tungsten",
-      "description": "Tungsten is the refined form of tungsten ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "description": "Tungsten is a metal refined from tungsten ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2421,12 +2405,11 @@
     {
       "name": "Corundum",
       "slug": "corundum",
-      "description": "Corundum is a commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Corundum is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
         "lorville",
-        "grimhex",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -2444,7 +2427,7 @@
     {
       "name": "Copper",
       "slug": "copper",
-      "description": "Copper is the refined form of coper ore, it is a tradable commodity. == Description == == Trade data == == See also == Mining Refining == Development == == References ==",
+      "description": "Copper is a metal refined from copper ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2452,6 +2435,7 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2466,7 +2450,7 @@
     {
       "name": "Beryl",
       "slug": "beryl",
-      "description": "Beryl is a commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Beryl is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2488,7 +2472,7 @@
     {
       "name": "Hephaestanite",
       "slug": "hephaestanite",
-      "description": "Hephaestanite is a mineral commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2509,7 +2493,7 @@
     {
       "name": "Iron",
       "slug": "iron",
-      "description": "Iron is the refined form of iron ore, it is a tradable commodity. == Description == == Trade data == == Gallery == == See also == Mining Refining == Development == == References ==",
+      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2531,7 +2515,7 @@
     {
       "name": "Quartz",
       "slug": "quartz",
-      "description": "Quartz is a mineral commodity. == Description == == Trade data == == Gallery == == Development == == References ==",
+      "description": "Quartz is a chiral mineral of silicon and oxygen, found in many forms and colors. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2552,7 +2536,7 @@
     {
       "name": "Aluminum",
       "slug": "aluminum",
-      "description": "Aluminum is the refined form of aluminum ore, it is a tradable commodity. == Description == == Trade data == == Gallery == == See also == Mining Refining == Development == == References ==",
+      "description": "Aluminum is a metal refined from aluminum ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -3013,12 +2997,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
@@ -3028,7 +3012,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [
