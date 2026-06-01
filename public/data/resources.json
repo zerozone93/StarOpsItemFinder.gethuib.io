@@ -39,9 +39,7 @@
     "environments": [
       "sand_cave"
     ],
-    "knownLocations": [
-      "microtech"
-    ],
+    "knownLocations": [],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
     "sourceNotes": "Live wiki enrichment for Janalite",
@@ -165,7 +163,6 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "lorville",
       "arc_l1",
       "cru_l5",
       "hur_l1",
@@ -190,6 +187,7 @@
       "arc_l1",
       "hur_l1",
       "hur_l2",
+      "hur_l4",
       "hur_l5",
       "mic_l1",
       "microtech"
@@ -281,7 +279,6 @@
     "confidenceScore": 0.82,
     "knownLocations": [
       "lorville",
-      "grimhex",
       "hur_l2",
       "microtech",
       "pyro",
@@ -306,8 +303,7 @@
       "hur_l1",
       "hur_l2",
       "hur_l5",
-      "microtech",
-      "pyro"
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
@@ -416,8 +412,7 @@
       "hur_l1",
       "hur_l4",
       "hur_l5",
-      "microtech",
-      "pyro"
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",

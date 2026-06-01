@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "sc-crafter",
     "sourceName": "SC Crafter",
-    "fetchedAt": "2026-06-01T05:04:19.135Z",
+    "fetchedAt": "2026-06-01T17:57:36.979Z",
     "priority": 55
   },
   "systems": [],
@@ -29,7 +29,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
@@ -39,7 +39,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ]
     }

@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-01T05:04:19.137Z",
+    "generatedAt": "2026-06-01T17:57:36.981Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-01T05:00:41.331Z",
+        "fetchedAt": "2026-06-01T17:55:13.992Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-01T05:03:13.559Z",
+        "fetchedAt": "2026-06-01T17:56:49.150Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-01T05:03:13.561Z",
+        "fetchedAt": "2026-06-01T17:56:49.157Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-01T05:03:13.562Z",
+        "fetchedAt": "2026-06-01T17:56:49.158Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-01T05:03:14.276Z",
+        "fetchedAt": "2026-06-01T17:56:49.882Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-01T05:04:19.135Z",
+        "fetchedAt": "2026-06-01T17:57:36.979Z",
         "skipped": false
       }
     ],
@@ -2125,9 +2125,7 @@
       "environments": [
         "sand_cave"
       ],
-      "knownLocations": [
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
       "sourceNotes": "Live wiki enrichment for Janalite",
@@ -2251,7 +2249,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "arc_l1",
         "cru_l5",
         "hur_l1",
@@ -2276,6 +2273,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2367,7 +2365,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "lorville",
-        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",
@@ -2392,8 +2389,7 @@
         "hur_l1",
         "hur_l2",
         "hur_l5",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
@@ -2502,8 +2498,7 @@
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
@@ -3002,7 +2997,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
@@ -3012,7 +3007,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [
