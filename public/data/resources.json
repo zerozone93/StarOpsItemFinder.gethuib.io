@@ -39,7 +39,9 @@
     "environments": [
       "sand_cave"
     ],
-    "knownLocations": [],
+    "knownLocations": [
+      "microtech"
+    ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
     "sourceNotes": "Live wiki enrichment for Janalite",
@@ -143,7 +145,6 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "lorville",
       "hur_l1",
       "hur_l2",
       "hur_l4",
@@ -189,7 +190,6 @@
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l4",
       "hur_l5",
       "mic_l1",
       "microtech"
