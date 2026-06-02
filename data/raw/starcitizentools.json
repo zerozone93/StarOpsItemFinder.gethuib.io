@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-02T04:49:26.368Z"
+    "fetchedAt": "2026-06-02T16:49:14.134Z"
   },
   "systems": [],
   "locations": [
@@ -1636,7 +1636,8 @@
         "hur_l1",
         "hur_l2",
         "hur_l5",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",

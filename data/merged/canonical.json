@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-02T04:51:05.894Z",
+    "generatedAt": "2026-06-02T16:50:52.520Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-02T04:47:07.802Z",
+        "fetchedAt": "2026-06-02T16:47:24.099Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-02T04:49:26.368Z",
+        "fetchedAt": "2026-06-02T16:49:14.134Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-02T04:49:26.370Z",
+        "fetchedAt": "2026-06-02T16:49:14.141Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-02T04:49:26.370Z",
+        "fetchedAt": "2026-06-02T16:49:14.142Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-02T04:49:28.124Z",
+        "fetchedAt": "2026-06-02T16:49:14.938Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-02T04:51:05.893Z",
+        "fetchedAt": "2026-06-02T16:50:52.519Z",
         "skipped": false
       }
     ],
@@ -2389,7 +2389,8 @@
         "hur_l1",
         "hur_l2",
         "hur_l5",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
