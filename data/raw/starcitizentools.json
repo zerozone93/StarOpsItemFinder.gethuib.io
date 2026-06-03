@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-02T16:49:14.134Z"
+    "fetchedAt": "2026-06-03T17:05:20.189Z"
   },
   "systems": [],
   "locations": [
@@ -1514,6 +1514,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "lorville",
         "arc_l1",
         "cru_l5",
         "hur_l1",

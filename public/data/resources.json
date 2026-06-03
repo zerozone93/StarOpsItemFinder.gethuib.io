@@ -163,6 +163,7 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "lorville",
       "arc_l1",
       "cru_l5",
       "hur_l1",
