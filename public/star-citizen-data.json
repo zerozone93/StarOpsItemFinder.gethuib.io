@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T04:53:28.110Z",
+    "generatedAt": "2026-06-04T15:35:55.329Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1969,7 +1969,10 @@
       "environments": [
         "sand_cave"
       ],
-      "knownLocations": [],
+      "knownLocations": [
+        "aberdeen",
+        "daymar"
+      ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
       "sourceNotes": "Live wiki enrichment for Janalite",

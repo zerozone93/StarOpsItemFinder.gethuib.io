@@ -39,7 +39,10 @@
     "environments": [
       "sand_cave"
     ],
-    "knownLocations": [],
+    "knownLocations": [
+      "aberdeen",
+      "daymar"
+    ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
     "sourceNotes": "Live wiki enrichment for Janalite",
