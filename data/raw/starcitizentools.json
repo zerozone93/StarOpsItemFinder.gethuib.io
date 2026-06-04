@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-03T17:05:20.189Z"
+    "fetchedAt": "2026-06-04T04:51:50.029Z"
   },
   "systems": [],
   "locations": [
@@ -1514,9 +1514,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "arc_l1",
-        "cru_l5",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -1615,7 +1613,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "hur_l2",
         "microtech",
         "pyro",
@@ -1637,8 +1634,7 @@
         "hur_l1",
         "hur_l2",
         "hur_l5",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
