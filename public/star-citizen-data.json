@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T04:26:47.436Z",
+    "generatedAt": "2026-06-10T15:58:49.576Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2380,6 +2380,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
