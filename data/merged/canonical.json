@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-09T15:24:16.925Z",
+    "generatedAt": "2026-06-10T04:26:47.279Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-09T15:20:09.208Z",
+        "fetchedAt": "2026-06-10T04:22:20.603Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-09T15:22:35.891Z",
+        "fetchedAt": "2026-06-10T04:25:06.180Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-09T15:22:35.893Z",
+        "fetchedAt": "2026-06-10T04:25:06.182Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-09T15:22:35.893Z",
+        "fetchedAt": "2026-06-10T04:25:06.183Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-09T15:22:39.618Z",
+        "fetchedAt": "2026-06-10T04:25:09.247Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-09T15:24:16.924Z",
+        "fetchedAt": "2026-06-10T04:26:47.277Z",
         "skipped": false
       }
     ],
@@ -2097,9 +2097,13 @@
       ],
       "sourceNotes": "Live wiki enrichment for Hadanite",
       "knownLocations": [
+        "area18",
         "new_babbage",
+        "lorville",
+        "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",

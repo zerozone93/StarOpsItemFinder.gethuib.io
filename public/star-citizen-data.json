@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T15:24:17.057Z",
+    "generatedAt": "2026-06-10T04:26:47.436Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1941,9 +1941,13 @@
       ],
       "sourceNotes": "Live wiki enrichment for Hadanite",
       "knownLocations": [
+        "area18",
         "new_babbage",
+        "lorville",
+        "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
