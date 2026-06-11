@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-10T15:58:49.404Z",
+    "generatedAt": "2026-06-11T04:47:29.896Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-10T15:54:57.332Z",
+        "fetchedAt": "2026-06-11T04:44:29.041Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-10T15:57:07.261Z",
+        "fetchedAt": "2026-06-11T04:45:51.450Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-10T15:57:07.263Z",
+        "fetchedAt": "2026-06-11T04:45:51.452Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-10T15:57:07.264Z",
+        "fetchedAt": "2026-06-11T04:45:51.453Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-10T15:57:08.049Z",
+        "fetchedAt": "2026-06-11T04:45:52.128Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-10T15:58:49.403Z",
+        "fetchedAt": "2026-06-11T04:47:29.895Z",
         "skipped": false
       }
     ],
@@ -3229,7 +3229,7 @@
     {
       "name": "ADP",
       "slug": "adp",
-      "description": "== Product description == \"Revolutionary when first released, the ADP heavy armor system was heralded as the pinnacle of personal protection. Clark Defense Systems' maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor.\" == Armor components == == Model == === Variations === (All are available in-game only) == Gallery == == References ==",
+      "description": "== Description == == Base Variants == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -3252,7 +3252,7 @@
     {
       "name": "ADP-mk4",
       "slug": "adp-mk4",
-      "description": "The ADP-mk4 is a heavy armor developed by Clark Defense Systems for the UEE Marine Corps. Its maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor. == Armor components == == Model == === Variations === (All are available in-game only) === Special editions === == Gallery == == References ==",
+      "description": "The ADP-mk4 is a heavy armor developed by Clark Defense Systems for the UEE Marine Corps. Its maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor. == Description == == Base Variants == == Special Variants == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [

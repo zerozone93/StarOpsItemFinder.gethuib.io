@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T15:58:49.576Z",
+    "generatedAt": "2026-06-11T04:47:30.057Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -3357,7 +3357,7 @@
     {
       "name": "ADP",
       "slug": "adp",
-      "description": "== Product description == \"Revolutionary when first released, the ADP heavy armor system was heralded as the pinnacle of personal protection. Clark Defense Systems' maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor.\" == Armor components == == Model == === Variations === (All are available in-game only) == Gallery == == References ==",
+      "description": "== Description == == Base Variants == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -3380,7 +3380,7 @@
     {
       "name": "ADP-mk4",
       "slug": "adp-mk4",
-      "description": "The ADP-mk4 is a heavy armor developed by Clark Defense Systems for the UEE Marine Corps. Its maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor. == Armor components == == Model == === Variations === (All are available in-game only) === Special editions === == Gallery == == References ==",
+      "description": "The ADP-mk4 is a heavy armor developed by Clark Defense Systems for the UEE Marine Corps. Its maximalist design provides plenty of attachment points and excellent protection against the elements and enemy fire. CDS refined and reshaped the ADP line over the years, but many still consider the original ADP to be the touchstone of military-grade heavy armor. == Description == == Base Variants == == Special Variants == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
