@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T04:52:05.555Z",
+    "generatedAt": "2026-06-12T15:36:56.344Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1969,10 +1969,7 @@
       "environments": [
         "sand_cave"
       ],
-      "knownLocations": [
-        "aberdeen",
-        "daymar"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
       "sourceNotes": "Live wiki enrichment for Janalite",
@@ -2318,7 +2315,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2380,6 +2376,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -3125,7 +3122,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: The operation was aborted due to timeout"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",

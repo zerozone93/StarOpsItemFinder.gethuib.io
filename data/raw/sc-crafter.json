@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "sc-crafter",
     "sourceName": "SC Crafter",
-    "fetchedAt": "2026-06-12T04:52:05.423Z",
+    "fetchedAt": "2026-06-12T15:36:56.180Z",
     "priority": 55
   },
   "systems": [],
@@ -29,7 +29,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: The operation was aborted due to timeout"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",

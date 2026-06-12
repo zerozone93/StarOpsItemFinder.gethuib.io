@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-12T04:52:05.424Z",
+    "generatedAt": "2026-06-12T15:36:56.181Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-12T04:47:09.286Z",
+        "fetchedAt": "2026-06-12T15:31:19.884Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-12T04:50:02.976Z",
+        "fetchedAt": "2026-06-12T15:35:17.718Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-12T04:50:02.978Z",
+        "fetchedAt": "2026-06-12T15:35:17.720Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-12T04:50:02.978Z",
+        "fetchedAt": "2026-06-12T15:35:17.721Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-12T04:50:16.394Z",
+        "fetchedAt": "2026-06-12T15:35:18.467Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-12T04:52:05.423Z",
+        "fetchedAt": "2026-06-12T15:36:56.180Z",
         "skipped": false
       }
     ],
@@ -2125,10 +2125,7 @@
       "environments": [
         "sand_cave"
       ],
-      "knownLocations": [
-        "aberdeen",
-        "daymar"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
       "sourceNotes": "Live wiki enrichment for Janalite",
@@ -2474,7 +2471,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2536,6 +2532,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2997,7 +2994,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: The operation was aborted due to timeout"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",

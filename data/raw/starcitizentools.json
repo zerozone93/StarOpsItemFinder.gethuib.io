@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-12T04:50:02.976Z"
+    "fetchedAt": "2026-06-12T15:35:17.718Z"
   },
   "systems": [],
   "locations": [
@@ -1467,10 +1467,7 @@
       "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "aberdeen",
-        "daymar"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
       "sourceNotes": "Live wiki enrichment for Janalite"
@@ -1709,7 +1706,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1762,6 +1758,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
