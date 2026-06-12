@@ -369,6 +369,7 @@
       "hur_l1",
       "hur_l2",
       "hur_l4",
+      "hur_l5",
       "mic_l1",
       "microtech"
     ],
@@ -449,7 +450,6 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l4",

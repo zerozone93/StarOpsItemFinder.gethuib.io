@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T16:19:43.652Z",
+    "generatedAt": "2026-06-12T04:52:05.555Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2299,6 +2299,7 @@
         "hur_l1",
         "hur_l2",
         "hur_l4",
+        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -2379,7 +2380,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -3125,7 +3125,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: The operation was aborted due to timeout"
         },
         {
           "source": "sc-crafter",
