@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-13T12:52:14.576Z",
+    "generatedAt": "2026-06-14T01:23:31.836Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-13T12:48:39.739Z",
+        "fetchedAt": "2026-06-14T01:19:55.473Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-13T12:50:35.499Z",
+        "fetchedAt": "2026-06-14T01:21:53.591Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-13T12:50:35.500Z",
+        "fetchedAt": "2026-06-14T01:21:53.598Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-13T12:50:35.501Z",
+        "fetchedAt": "2026-06-14T01:21:53.599Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-13T12:50:36.639Z",
+        "fetchedAt": "2026-06-14T01:21:54.308Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-13T12:52:14.574Z",
+        "fetchedAt": "2026-06-14T01:23:31.834Z",
         "skipped": false
       }
     ],
@@ -2103,7 +2103,6 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2292,6 +2291,7 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2402,7 +2402,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l5",
