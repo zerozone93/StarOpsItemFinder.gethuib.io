@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-14T12:55:34.465Z",
+    "generatedAt": "2026-06-15T01:26:36.195Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-14T12:51:54.901Z",
+        "fetchedAt": "2026-06-15T01:22:19.578Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-14T12:53:56.462Z",
+        "fetchedAt": "2026-06-15T01:24:57.212Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-14T12:53:56.464Z",
+        "fetchedAt": "2026-06-15T01:24:57.218Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-14T12:53:56.467Z",
+        "fetchedAt": "2026-06-15T01:24:57.219Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-14T12:53:57.003Z",
+        "fetchedAt": "2026-06-15T01:24:58.245Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-14T12:55:34.464Z",
+        "fetchedAt": "2026-06-15T01:26:36.194Z",
         "skipped": false
       }
     ],
@@ -2103,6 +2103,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2291,7 +2292,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2383,7 +2383,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -2991,7 +2990,7 @@
     {
       "name": "MacFlex",
       "slug": "macflex",
-      "description": "Whether you're planetside or in vacuum, RSI's MacFlex industrial armor set has your back. Reinforced plating keeps you safe from environmental hazards while the array of pouches keep your tools accessible. == Armor components == == Editions == === Rust Society Edition === The Rust Society Edition celebrates blue-collar workers with an exclusive red and tan coloration that hides dirt and wear and tear well. It was given out in individual parts (i.e. Arms, Legs, Torso, Helmet, undersuit), one per month, as Subscriber Flair to Imperator-Level backers. Current subscribers can retro-actively purchase the flair in the store. == Gallery ==",
+      "description": "== Description == == Base Variants == == Gallery ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
