@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T14:24:01.288Z",
+    "generatedAt": "2026-06-16T01:28:06.234Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2135,6 +2135,7 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2472,7 +2473,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "An optical attachment is a FPS weapon attachment that uses optics that give the Star Citizen player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
+      "description": "A Star Citizen optical attachment is an FPS weapon attachment that uses optics that give the player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [],
@@ -2546,7 +2547,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "An optical attachment is a FPS weapon attachment that uses optics that give the Star Citizen player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
+      "description": "A Star Citizen optical attachment is an FPS weapon attachment that uses optics that give the player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [],
