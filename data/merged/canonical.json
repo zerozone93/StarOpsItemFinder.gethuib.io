@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-16T01:28:06.078Z",
+    "generatedAt": "2026-06-17T13:31:27.468Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-16T01:23:46.505Z",
+        "fetchedAt": "2026-06-17T13:27:59.734Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-16T01:26:26.706Z",
+        "fetchedAt": "2026-06-17T13:29:48.488Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-16T01:26:26.707Z",
+        "fetchedAt": "2026-06-17T13:29:48.489Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-16T01:26:26.708Z",
+        "fetchedAt": "2026-06-17T13:29:48.490Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-16T01:26:27.927Z",
+        "fetchedAt": "2026-06-17T13:29:49.360Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-16T01:28:06.077Z",
+        "fetchedAt": "2026-06-17T13:31:27.466Z",
         "skipped": false
       }
     ],
@@ -3059,7 +3059,7 @@
     {
       "name": "ORC-mkV",
       "slug": "orc-mkv",
-      "description": "Clark Defense Systems' ORC-mkV armor has been a trusted and enduring choice on the battlefield for centuries. This medium armor is highly regarded for its dependable and durable construction, which combines composite plating with a special fiber reinforced polymer. The result is a solid level of protection that allows for a wide range of movement. The ORC-mkV is a prime example of how dependable and durable armor never goes out of style, and continues to be a staple for those who require reliable protection in high-risk situations. == Armor components == === Variations ===",
+      "description": "Clark Defense Systems' ORC-mkV armor has been a trusted and enduring choice on the battlefield for centuries. This medium armor is highly regarded for its dependable and durable construction, which combines composite plating with a special fiber reinforced polymer. The result is a solid level of protection that allows for a wide range of movement. The ORC-mkV is a prime example of how dependable and durable armor never goes out of style, and continues to be a staple for those who require reliable protection in high-risk situations. == Description == == Base Variants ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -3082,7 +3082,7 @@
     {
       "name": "ORC-mkX",
       "slug": "orc-mkx",
-      "description": "The mark X is the latest in CDS' award-winning Omni-Role Combat armor series. This EVA-rated suit features new EdgeCore composite weave technology, maximizing protection against projectiles, explosives and the elements while minimizing operator agility. == Armor components == == Armor variants ==",
+      "description": "The mark X is the latest in CDS' award-winning Omni-Role Combat armor series. This EVA-rated suit features new EdgeCore composite weave technology, maximizing protection against projectiles, explosives and the elements while minimizing operator agility. == Description == == Base Variants ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -3105,7 +3105,7 @@
     {
       "name": "PAB-1",
       "slug": "pab-1",
-      "description": "Clark Defense Systems built the PAB-1 light but strong enough to stay in a fight. The first CDS suit to utilize their proprietary nano-weave, this light armor became a favorite of those who needed a little extra protection while remaining agile. == Armor components ==",
+      "description": "Clark Defense Systems built the PAB-1 light but strong enough to stay in a fight. The first CDS suit to utilize their proprietary nano-weave, this light armor became a favorite of those who needed a little extra protection while remaining agile. == Description == == Base Variants ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
