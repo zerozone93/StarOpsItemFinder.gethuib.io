@@ -3,14 +3,14 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-18T01:20:43.472Z"
+    "fetchedAt": "2026-06-19T15:36:26.158Z"
   },
   "systems": [],
   "locations": [
     {
       "name": "Area18",
       "slug": "area18",
-      "description": "Area18 is one of the main commercial ports for interplanetary traffic for the surrounding region of ArcCorp. Travelers can find a variety of goods from trusted names as well as local providers, if they're not overwhelmed by the sights and sounds of this landing zone. Security is taken very seriously on the surface, as ArcCorp has enlisted (notorious) private security firm BlacJac Security to maintain the peace. The Observist advises if you have problems, to head to the local UEE Advocacy office instead. Area18 features a number of common stores including CenterMass, Abernathy Interiors, Dumper's Depot, Casaba, et cetera. == Significant Characters == Tecia \"Twitch\" Pacheco is a drug dealer with connections, who resents BlacJac Security. Voiced by Katrina Nare. Lt. Michael Callum of PMC BlacJac Security is the corrupt security rep in charge of Area18 (they are essentially ArcCorp's police)",
+      "description": "Area18 is one of the main commercial ports for interplanetary traffic for the surrounding region of ArcCorp. Travelers can find a variety of goods from trusted names as well as local providers, if they're not overwhelmed by the sights and sounds of this landing zone. Security is taken very seriously on the surface, as ArcCorp has enlisted (notorious) private security firm BlacJac Security to maintain the peace. The Observist advises if you have problems, to head to the local UEE Advocacy office instead. Area18 features a number of common stores including CenterMass, Abernathy Interiors, Dumper's Depot, Casaba, et cetera. == Districts == === ArcCorp Plaza === ArcCorp Plaza is the main plaza of Area18, which you first enter into when coming from Cityflight Transit. The plaza gives access to all the other zones of Area18. Prominently situated in the center of the plaza is Memphis Avery's ic",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
@@ -1404,7 +1404,6 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1758,6 +1757,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1997,7 +1997,7 @@
     {
       "name": "C54 SMG",
       "slug": "c54-smg",
-      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
+      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -2089,7 +2089,7 @@
     {
       "name": "Gallant Rifle",
       "slug": "gallant-rifle",
-      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology",
+      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -2112,7 +2112,7 @@
     {
       "name": "Custodian SMG",
       "slug": "custodian-smg",
-      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submachine gun FN P90. == References ==",
+      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submac",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -2135,7 +2135,7 @@
     {
       "name": "S71 Rifle",
       "slug": "s71-rifle",
-      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References ==",
+      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
