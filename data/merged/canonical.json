@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-19T15:38:04.731Z",
+    "generatedAt": "2026-06-20T14:23:46.329Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-19T15:34:54.620Z",
+        "fetchedAt": "2026-06-20T14:20:12.234Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-19T15:36:26.158Z",
+        "fetchedAt": "2026-06-20T14:22:07.934Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-19T15:36:26.164Z",
+        "fetchedAt": "2026-06-20T14:22:07.941Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-19T15:36:26.165Z",
+        "fetchedAt": "2026-06-20T14:22:07.942Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-19T15:36:27.207Z",
+        "fetchedAt": "2026-06-20T14:22:08.832Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-19T15:38:04.730Z",
+        "fetchedAt": "2026-06-20T14:23:46.328Z",
         "skipped": false
       }
     ],
@@ -2658,7 +2658,7 @@
     {
       "name": "CenterMass",
       "slug": "centermass",
-      "description": "CenterMass is a Human spacecraft weapons and armor retailer with franchise stores in multiple locations across the United Empire of Earth (UEE). Founded as a weapons-only store, they added armor to their inventory in 2939. They also keep mechanics on staff for installation, modification, and repair of any items purchased at a CenterMass store. == Locations == 2nd floor of the IO-North tower, Area18, ArcCorp The Plaza, New Babbage, microTech == Gallery == == References ==",
+      "description": "CenterMass is a Human spacecraft weapons and armor retailer with franchise stores in multiple locations across the United Empire of Earth (UEE). Founded as a weapons-only store, the company added armor to its inventory in 2939. It also keeps mechanics on staff for the installation, modification, and repair of any items purchased at a CenterMass store. == Locations == 2nd floor of the IO-North tower, Area18, ArcCorp The Plaza, New Babbage, microTech == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -2673,7 +2673,7 @@
     {
       "name": "Cubby Blast",
       "slug": "cubby-blast",
-      "description": "Cubby Blast is a weapon dealership in Zone 1 in Area18 on ArcCorp. The store is owned and operated by the former outlaw Clor Vee. == Items for sale == === Armor === == Portfolio (lore) == “Racks of rifles, stacks of shotguns, piles of pistols,” excitedly promises the Cubby Blast holo-jingle, and the store delivers, firmly establishing itself as one of Area18’s more eccentric locales. While most of the stores on the planet strive to achieve an aura of respectability, Cubby Blast seems to stand in staunch defiance to the corporate culture that surrounds it. Supposedly modeled after a weapons shop on the infamous Spider station in the Cathcart system, this small personal weapons store is pure counterculture. Even the name itself is taken from a Cathcart sales phrase meaning “the weapon fires fine.” It’s this flavor that makes Cubby Blast a popular destination for all people traveling throug",
+      "description": "Cubby Blast is a weapon dealership in Zone 1 of Area18 on ArcCorp. The store is owned and operated by the former outlaw Clor Vee, and it carries a catalog of personal weaponry, personal armor, and other defensive goods. == History == The Cubby Blast holo-jingle promises \"racks of rifles, stacks of shotguns, piles of pistols,\" and the store has established itself as one of Area18's more eccentric locales. While most of the stores on the planet aim for an aura of respectability, Cubby Blast stands apart from the corporate culture that surrounds it. It is modeled after a weapons shop on the Spider station in the Cathcart system, and the name itself comes from a Cathcart sales phrase meaning \"the weapon fires fine.\" This character has made Cubby Blast a popular destination for people traveling through the system, whether or not they intend to buy a weapon. The store is centered on its owner ",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -2686,7 +2686,7 @@
     {
       "name": "Live Fire Weapons",
       "slug": "live-fire-weapons",
-      "description": "Live Fire Weapons is a franchise selling personal weapons and weapon attachments. == Store locations == Last updated with info from patch 3.17. == References ==",
+      "description": "Live Fire Weapons is a retail franchise that sells personal weapons and weapon attachments. Its stores operate from shopping galleries aboard space stations and orbital rest stops across the Stanton system. == Store locations == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [],
@@ -2697,7 +2697,7 @@
     {
       "name": "Tammany and Sons",
       "slug": "tammany-and-sons",
-      "description": "Tammany and Sons is a shop in Lorville. It belongs to Hurston Dynamics and primarly sells goods to their workers in a truck-shop scheme that ensures no credits (or employees) leave the Hurston ecosystem. == Location == The shop is located in the L19 Workers District of Lorville, Hurston right next to the miners' rail line. In addition to Clothing and Armor, the shop also sells Greycat Industrial's Pyro RYT Multi-Tool. Also of note is that this is where you can pick up a Gyson Ready-Up - the notorious \"baghead\" soft-body breathing helmet, which is frequently used by residents to cope with the planet's abysmal atmospheric quality. == Gallery == == Merchandise == == References ==",
+      "description": "Tammany and Sons is a shop in Lorville owned by Hurston Dynamics. It primarily sells goods to the company's workers in a company-store arrangement that is intended to keep credits, and employees, within the Hurston ecosystem. == Location == The shop is located in the L19 Workers District of Lorville, Hurston, next to the miners' rail line. In addition to clothing and armor, it stocks Greycat Industrial's Pyro RYT Multi-Tool. It is also a source for the Gyson Ready-Up, a soft-body breathing helmet nicknamed the \"baghead\" that residents commonly use to cope with the planet's poor atmospheric quality. == Merchandise == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -2711,7 +2711,7 @@
     {
       "name": "Casaba Outlet",
       "slug": "casaba-outlet",
-      "description": "Casaba Outlet is a clothing shop franchise that was founded by Jean Polanco and Joel Polanco. == History == From Corel to Chronos and almost everywhere in between, Casaba Outlet has become ubiquitous across the UEE. The concept behind the store is far from new. It sells designer-style fashion at affordable prices, yet Casaba succeeded where many had failed thanks mainly to the business savvy and entrepreneurial drive embodied by the company's founding partners, siblings Jean and Joel Polanco. == Development == Casaba Outlet was added in patch 2.0 on Area18 (social module) that could be accessed from the game's main menu. It was then the only place where players could spend their aUEC with many different pieces of clothing. In patch 3.0 Area18's menu option was removed and Casaba (in a different form) moved to Port Olisar instead. Patch 3.5 introduced Area18 back into the Persistent Unive",
+      "description": "Casaba Outlet is a human clothing retail franchise founded by the siblings Jean and Joel Polanco. It sells designer-style fashion at affordable prices and has grown from a single storefront on Lyre to a chain reaching from the Corel to Chronos systems across nearly the entire UEE. == History == Jean and Joel Polanco grew up aboard their family's Freelancer as their parents worked as independent cargo haulers, crisscrossing the systems in search of work. Jean became fascinated with the cultural differences between planets and began buying distinctive items on one world to resell on the next, realizing that a cheap trinket from one system could be a statement piece in another. The pair later shifted from selling single curiosities to buying remnant stock in bulk from small and medium softline manufacturers, and their ship became known in various landing zones for stylish yet affordable clo",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.72,
       "locationIds": [
@@ -2807,7 +2807,7 @@
     {
       "name": "C54 SMG",
       "slug": "c54-smg",
-      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
+      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -2911,7 +2911,7 @@
     {
       "name": "Gallant Rifle",
       "slug": "gallant-rifle",
-      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the",
+      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -2937,7 +2937,7 @@
     {
       "name": "Custodian SMG",
       "slug": "custodian-smg",
-      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submac",
+      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submachine gun FN P90. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -2963,7 +2963,7 @@
     {
       "name": "S71 Rifle",
       "slug": "s71-rifle",
-      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References",
+      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
