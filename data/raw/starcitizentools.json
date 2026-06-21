@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-20T14:22:07.934Z"
+    "fetchedAt": "2026-06-21T14:27:06.924Z"
   },
   "systems": [],
   "locations": [
@@ -1757,7 +1757,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
