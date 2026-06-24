@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T04:15:21.418Z",
+    "generatedAt": "2026-06-24T14:50:13.483Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2004,6 +2004,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2029,6 +2030,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
