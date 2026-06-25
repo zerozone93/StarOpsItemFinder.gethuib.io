@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-25T04:15:44.046Z",
+    "generatedAt": "2026-06-25T14:49:41.738Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-25T04:11:55.431Z",
+        "fetchedAt": "2026-06-25T14:46:05.809Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-25T04:14:05.283Z",
+        "fetchedAt": "2026-06-25T14:48:03.634Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-25T04:14:05.285Z",
+        "fetchedAt": "2026-06-25T14:48:03.636Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-25T04:14:05.286Z",
+        "fetchedAt": "2026-06-25T14:48:03.637Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-25T04:14:06.076Z",
+        "fetchedAt": "2026-06-25T14:48:04.099Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-25T04:15:44.044Z",
+        "fetchedAt": "2026-06-25T14:49:41.736Z",
         "skipped": false
       }
     ],
@@ -2485,7 +2485,7 @@
     {
       "name": "Iron",
       "slug": "iron",
-      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
+      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [

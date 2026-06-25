@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-06-25T04:14:05.283Z"
+    "fetchedAt": "2026-06-25T14:48:03.634Z"
   },
   "systems": [],
   "locations": [
@@ -1717,7 +1717,7 @@
     {
       "name": "Iron",
       "slug": "iron",
-      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
+      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [

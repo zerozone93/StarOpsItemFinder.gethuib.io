@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T04:15:44.207Z",
+    "generatedAt": "2026-06-25T14:49:41.896Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2329,7 +2329,7 @@
     {
       "name": "Iron",
       "slug": "iron",
-      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
+      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
