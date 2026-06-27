@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-26T14:42:16.818Z",
+    "generatedAt": "2026-06-27T04:09:02.083Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-26T14:38:35.072Z",
+        "fetchedAt": "2026-06-27T04:05:00.823Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-26T14:40:38.486Z",
+        "fetchedAt": "2026-06-27T04:07:23.457Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-26T14:40:38.493Z",
+        "fetchedAt": "2026-06-27T04:07:23.458Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-26T14:40:38.494Z",
+        "fetchedAt": "2026-06-27T04:07:23.459Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-26T14:40:39.463Z",
+        "fetchedAt": "2026-06-27T04:07:23.939Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-26T14:42:16.817Z",
+        "fetchedAt": "2026-06-27T04:09:02.082Z",
         "skipped": false
       }
     ],
@@ -2485,7 +2485,7 @@
     {
       "name": "Iron",
       "slug": "iron",
-      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == Development == == References ==",
+      "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
