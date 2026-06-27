@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-06-27T04:09:02.083Z",
+    "generatedAt": "2026-06-27T13:59:59.745Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-06-27T04:05:00.823Z",
+        "fetchedAt": "2026-06-27T13:57:48.523Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-06-27T04:07:23.457Z",
+        "fetchedAt": "2026-06-27T13:58:21.783Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-06-27T04:07:23.458Z",
+        "fetchedAt": "2026-06-27T13:58:21.785Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-06-27T04:07:23.459Z",
+        "fetchedAt": "2026-06-27T13:58:21.786Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-06-27T04:07:23.939Z",
+        "fetchedAt": "2026-06-27T13:58:22.243Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-06-27T04:09:02.082Z",
+        "fetchedAt": "2026-06-27T13:59:59.743Z",
         "skipped": false
       }
     ],
@@ -2096,19 +2096,7 @@
         "cave"
       ],
       "sourceNotes": "Live wiki enrichment for Hadanite",
-      "knownLocations": [
-        "area18",
-        "new_babbage",
-        "lorville",
-        "baijini_point",
-        "port_tressler",
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "mic_l1",
-        "daymar",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
       "mergedSources": [
@@ -2154,19 +2142,7 @@
       "description": "Aphorite is a mineral hand-mined for its low instability. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "area18",
-        "new_babbage",
-        "baijini_point",
-        "port_tressler",
-        "arc_l1",
-        "arc_l2",
-        "hur_l1",
-        "hur_l2",
-        "mic_l1",
-        "daymar",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
       "sourceNotes": "Live wiki enrichment for Aphorite",
@@ -2180,19 +2156,7 @@
       "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "area18",
-        "new_babbage",
-        "baijini_point",
-        "port_tressler",
-        "arc_l1",
-        "arc_l2",
-        "hur_l1",
-        "hur_l2",
-        "mic_l1",
-        "daymar",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
       "sourceNotes": "Live wiki enrichment for Dolivine",
@@ -2206,14 +2170,7 @@
       "description": "Agricium is a metal refined from agricium ore and traded as a commodity. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "mic_l1",
-        "microtech",
-        "pyro"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Agricium",
@@ -2227,13 +2184,7 @@
       "description": "Bexalite is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Bexalite",
@@ -2247,13 +2198,7 @@
       "description": "Borase is a non-metal refined from borase ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "hur_l5",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
       "sourceNotes": "Live wiki enrichment for Borase",
@@ -2267,15 +2212,7 @@
       "description": "Laranite is a somewhat radioactive, crystalline mineral gemstone, black with streaks of dark red. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5",
-        "mic_l1",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Laranite",
@@ -2289,14 +2226,7 @@
       "description": "Taranite is a mineral refined from raw taranite. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "cru_l4",
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Taranite",
@@ -2310,17 +2240,7 @@
       "description": "Gold is a metal refined from gold ore and traded across the 'verse. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "hur_l5",
-        "mic_l1",
-        "microtech",
-        "pyro",
-        "pyro-1",
-        "ruin-station"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Gold",
@@ -2334,20 +2254,7 @@
       "description": "Diamond is a mineral. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "area18",
-        "new_babbage",
-        "lorville",
-        "grimhex",
-        "arc_l1",
-        "aberdeen",
-        "arial",
-        "daymar",
-        "wala",
-        "lyria",
-        "magda",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Diamond",
@@ -2361,14 +2268,7 @@
       "description": "Titanium is a metal refined from titanium ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "hur_l2",
-        "microtech",
-        "pyro",
-        "pyro-1",
-        "pyro-2",
-        "monox"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Titanium",
@@ -2382,12 +2282,7 @@
       "description": "Tungsten is a metal refined from tungsten ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "hur_l1",
-        "hur_l2",
-        "hur_l5",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Tungsten",
@@ -2401,15 +2296,7 @@
       "description": "Corundum is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "lorville",
-        "hur_l1",
-        "hur_l2",
-        "hur_l5",
-        "mic_l1",
-        "microtech",
-        "pyro"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Corundum",
@@ -2423,16 +2310,7 @@
       "description": "Copper is a metal refined from copper ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "new_babbage",
-        "port_tressler",
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5",
-        "mic_l1",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Copper",
@@ -2446,15 +2324,7 @@
       "description": "Beryl is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5",
-        "mic_l1",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Beryl",
@@ -2468,13 +2338,7 @@
       "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "arc_l1",
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Hephaestanite",
@@ -2488,14 +2352,7 @@
       "description": "Iron is a metal refined from iron ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "new_babbage",
-        "port_tressler",
-        "hur_l1",
-        "hur_l4",
-        "hur_l5",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Iron",
@@ -2509,14 +2366,7 @@
       "description": "Quartz is a chiral mineral of silicon and oxygen, found in many forms and colors. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "lorville",
-        "hur_l5",
-        "mic_l1",
-        "daymar",
-        "microtech",
-        "pyro"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
       "sourceNotes": "Live wiki enrichment for Quartz",
@@ -2530,14 +2380,7 @@
       "description": "Aluminum is a metal refined from aluminum ore. == Description == == Acquisition == == Crafting == == Related == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
-      "knownLocations": [
-        "hur_l1",
-        "hur_l2",
-        "hur_l4",
-        "hur_l5",
-        "mic_l1",
-        "microtech"
-      ],
+      "knownLocations": [],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
       "sourceNotes": "Live wiki enrichment for Aluminum",
