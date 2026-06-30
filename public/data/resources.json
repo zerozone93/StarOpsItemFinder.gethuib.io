@@ -205,6 +205,7 @@
     "confidenceScore": 0.82,
     "knownLocations": [
       "arc_l1",
+      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l4",
