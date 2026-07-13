@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T03:46:33.382Z",
+    "generatedAt": "2026-07-13T03:41:31.337Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2700,7 +2700,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
