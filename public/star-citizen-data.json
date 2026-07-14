@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-14T03:17:06.770Z",
+    "generatedAt": "2026-07-14T14:03:29.567Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2705,7 +2705,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
