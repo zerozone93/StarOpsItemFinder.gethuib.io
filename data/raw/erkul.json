@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "erkul",
     "sourceName": "Erkul",
-    "fetchedAt": "2026-07-13T03:40:10.365Z",
+    "fetchedAt": "2026-07-14T03:15:28.717Z",
     "priority": 50
   },
   "systems": [],
@@ -52,22 +52,22 @@
     {
       "key": "shop",
       "url": "https://www.erkul.games/live/shops",
-      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     },
     {
       "key": "fpsWeapons",
       "url": "https://www.erkul.games/live/calculator",
-      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     },
     {
       "key": "vehicles",
       "url": "https://www.erkul.games/live/ships",
-      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     },
     {
       "key": "index",
       "url": "https://www.erkul.games/",
-      "excerpt": "#DPSCalculator Please enable JavaScript to continue using this application."
+      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     }
   ]
 }
