@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "erkul",
     "sourceName": "Erkul",
-    "fetchedAt": "2026-07-14T14:02:09.388Z",
+    "fetchedAt": "2026-07-15T13:58:29.482Z",
     "priority": 50
   },
   "systems": [],
@@ -52,22 +52,22 @@
     {
       "key": "shop",
       "url": "https://www.erkul.games/live/shops",
-      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
+      "excerpt": "#DPSCalculator \"Deploy-time edge cache poisoning\", 2026-07-15). If a build asset fails to load — classically the browser cached the SPA-fallback HTML under a hashed .js/.css URL during a deploy's propagation window, immutable for a year — `nosniff` guarantees an error event on the tag. Re-fetch the exact URL with `cache: 'reload'` (replaces the poisoned HTTP-cache entry), then reload once. The sessionStorage stamp caps recovery at one attempt per minute so a still-propagating deploy can't reload-loop the tab. Inline because when main-*.js is the poisoned asset, no bundle code ever runs — this is the only place that can heal it. --> /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     },
     {
       "key": "fpsWeapons",
       "url": "https://www.erkul.games/live/calculator",
-      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
+      "excerpt": "#DPSCalculator \"Deploy-time edge cache poisoning\", 2026-07-15). If a build asset fails to load — classically the browser cached the SPA-fallback HTML under a hashed .js/.css URL during a deploy's propagation window, immutable for a year — `nosniff` guarantees an error event on the tag. Re-fetch the exact URL with `cache: 'reload'` (replaces the poisoned HTTP-cache entry), then reload once. The sessionStorage stamp caps recovery at one attempt per minute so a still-propagating deploy can't reload-loop the tab. Inline because when main-*.js is the poisoned asset, no bundle code ever runs — this is the only place that can heal it. --> /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     },
     {
       "key": "vehicles",
       "url": "https://www.erkul.games/live/ships",
-      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
+      "excerpt": "#DPSCalculator \"Deploy-time edge cache poisoning\", 2026-07-15). If a build asset fails to load — classically the browser cached the SPA-fallback HTML under a hashed .js/.css URL during a deploy's propagation window, immutable for a year — `nosniff` guarantees an error event on the tag. Re-fetch the exact URL with `cache: 'reload'` (replaces the poisoned HTTP-cache entry), then reload once. The sessionStorage stamp caps recovery at one attempt per minute so a still-propagating deploy can't reload-loop the tab. Inline because when main-*.js is the poisoned asset, no bundle code ever runs — this is the only place that can heal it. --> /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     },
     {
       "key": "index",
       "url": "https://www.erkul.games/",
-      "excerpt": "#DPSCalculator /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
+      "excerpt": "#DPSCalculator \"Deploy-time edge cache poisoning\", 2026-07-15). If a build asset fails to load — classically the browser cached the SPA-fallback HTML under a hashed .js/.css URL during a deploy's propagation window, immutable for a year — `nosniff` guarantees an error event on the tag. Re-fetch the exact URL with `cache: 'reload'` (replaces the poisoned HTTP-cache entry), then reload once. The sessionStorage stamp caps recovery at one attempt per minute so a still-propagating deploy can't reload-loop the tab. Inline because when main-*.js is the poisoned asset, no bundle code ever runs — this is the only place that can heal it. --> /description/OG), and the client ErkulTitleStrategy keeps them live after JS boots. If the function ever doesn't run (local dev), these stay valid. -->"
     }
   ]
 }

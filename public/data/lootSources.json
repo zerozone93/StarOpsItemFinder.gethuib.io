@@ -53,12 +53,12 @@
       {
         "source": "sc-crafter",
         "url": "https://www.sc-crafter.com/?type=Weapons",
-        "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+        "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
       },
       {
         "source": "sc-crafter",
         "url": "https://www.sc-crafter.com/?type=Ammo",
-        "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+        "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
       }
     ],
     "mergedSources": [
