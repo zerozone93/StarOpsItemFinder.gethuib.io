@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-07-17T03:26:00.955Z",
+    "generatedAt": "2026-07-18T13:39:54.155Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-07-17T03:23:03.412Z",
+        "fetchedAt": "2026-07-18T13:36:50.067Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-07-17T03:24:22.913Z",
+        "fetchedAt": "2026-07-18T13:38:15.488Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-07-17T03:24:22.919Z",
+        "fetchedAt": "2026-07-18T13:38:15.489Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-07-17T03:24:22.921Z",
+        "fetchedAt": "2026-07-18T13:38:15.490Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-07-17T03:24:23.689Z",
+        "fetchedAt": "2026-07-18T13:38:16.211Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-07-17T03:26:00.953Z",
+        "fetchedAt": "2026-07-18T13:39:54.154Z",
         "skipped": false
       }
     ],
@@ -2744,17 +2744,17 @@
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/shops",
-          "note": "page fetched"
+          "note": "error: HTTP 404 for https://www.erkul.games/live/shops"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/calculator",
-          "note": "page fetched"
+          "note": "error: HTTP 404 for https://www.erkul.games/live/calculator"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/ships",
-          "note": "page fetched"
+          "note": "error: HTTP 404 for https://www.erkul.games/live/ships"
         },
         {
           "source": "erkul",

@@ -10,17 +10,17 @@
       {
         "source": "erkul",
         "url": "https://www.erkul.games/live/shops",
-        "note": "page fetched"
+        "note": "error: HTTP 404 for https://www.erkul.games/live/shops"
       },
       {
         "source": "erkul",
         "url": "https://www.erkul.games/live/calculator",
-        "note": "page fetched"
+        "note": "error: HTTP 404 for https://www.erkul.games/live/calculator"
       },
       {
         "source": "erkul",
         "url": "https://www.erkul.games/live/ships",
-        "note": "page fetched"
+        "note": "error: HTTP 404 for https://www.erkul.games/live/ships"
       },
       {
         "source": "erkul",

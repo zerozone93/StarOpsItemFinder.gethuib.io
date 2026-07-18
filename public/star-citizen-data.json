@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-17T03:26:01.135Z",
+    "generatedAt": "2026-07-18T13:39:54.296Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2662,17 +2662,17 @@
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/shops",
-          "note": "page fetched"
+          "note": "error: HTTP 404 for https://www.erkul.games/live/shops"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/calculator",
-          "note": "page fetched"
+          "note": "error: HTTP 404 for https://www.erkul.games/live/calculator"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/ships",
-          "note": "page fetched"
+          "note": "error: HTTP 404 for https://www.erkul.games/live/ships"
         },
         {
           "source": "erkul",
