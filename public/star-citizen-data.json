@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-18T13:39:54.296Z",
+    "generatedAt": "2026-07-19T03:34:52.967Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1947,6 +1947,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2135,7 +2136,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -2158,7 +2158,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",
@@ -2272,7 +2271,6 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2695,7 +2693,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
@@ -2710,7 +2708,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [

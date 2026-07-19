@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-07-18T13:38:15.488Z"
+    "fetchedAt": "2026-07-19T03:34:03.851Z"
   },
   "systems": [],
   "locations": [
@@ -1404,6 +1404,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1550,7 +1551,6 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1570,7 +1570,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",
@@ -1669,7 +1668,6 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
