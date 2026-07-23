@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "sc-crafter",
     "sourceName": "SC Crafter",
-    "fetchedAt": "2026-07-23T03:34:08.552Z",
+    "fetchedAt": "2026-07-23T14:23:58.756Z",
     "priority": 55
   },
   "systems": [],
@@ -39,7 +39,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-23T03:34:08.701Z",
+    "generatedAt": "2026-07-23T14:23:58.929Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2705,7 +2705,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [
