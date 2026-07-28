@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "erkul",
     "sourceName": "Erkul",
-    "fetchedAt": "2026-07-27T14:52:25.325Z",
+    "fetchedAt": "2026-07-28T14:26:53.429Z",
     "priority": 50
   },
   "systems": [],
@@ -24,17 +24,17 @@
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/shops",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/shops"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/calculator",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/calculator"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/ships",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/ships"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
@@ -52,17 +52,17 @@
     {
       "key": "shop",
       "url": "https://www.erkul.games/live/shops",
-      "error": "HTTP 404 for https://www.erkul.games/live/shops"
+      "excerpt": "Component Finder · #DPSCalculator"
     },
     {
       "key": "fpsWeapons",
       "url": "https://www.erkul.games/live/calculator",
-      "error": "HTTP 404 for https://www.erkul.games/live/calculator"
+      "excerpt": "#DPSCalculator"
     },
     {
       "key": "vehicles",
       "url": "https://www.erkul.games/live/ships",
-      "error": "HTTP 404 for https://www.erkul.games/live/ships"
+      "excerpt": "Ship &amp; Component Data · #DPSCalculator"
     },
     {
       "key": "index",

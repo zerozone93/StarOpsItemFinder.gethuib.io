@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-27T14:54:02.758Z",
+    "generatedAt": "2026-07-28T14:27:57.886Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2657,17 +2657,17 @@
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/shops",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/shops"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/calculator",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/calculator"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/ships",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/ships"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
@@ -2695,12 +2695,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",

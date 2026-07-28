@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-07-27T14:54:02.585Z",
+    "generatedAt": "2026-07-28T14:27:57.723Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-07-27T14:51:03.333Z",
+        "fetchedAt": "2026-07-28T14:25:21.093Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-07-27T14:52:24.651Z",
+        "fetchedAt": "2026-07-28T14:26:52.291Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-07-27T14:52:24.653Z",
+        "fetchedAt": "2026-07-28T14:26:52.293Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-07-27T14:52:24.654Z",
+        "fetchedAt": "2026-07-28T14:26:52.293Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-07-27T14:52:25.325Z",
+        "fetchedAt": "2026-07-28T14:26:53.429Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-07-27T14:54:02.583Z",
+        "fetchedAt": "2026-07-28T14:27:57.721Z",
         "skipped": false
       }
     ],
@@ -2739,17 +2739,17 @@
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/shops",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/shops"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/calculator",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/calculator"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
           "url": "https://www.erkul.games/live/ships",
-          "note": "error: HTTP 404 for https://www.erkul.games/live/ships"
+          "note": "page fetched"
         },
         {
           "source": "erkul",
@@ -2777,12 +2777,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
