@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-30T02:56:27.456Z",
+    "generatedAt": "2026-08-01T03:38:09.699Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2305,7 +2305,7 @@
     {
       "name": "Hephaestanite",
       "slug": "hephaestanite",
-      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == == Related == == References ==",
+      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2695,7 +2695,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
