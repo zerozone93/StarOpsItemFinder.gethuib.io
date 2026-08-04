@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-08-04T03:22:03.832Z"
+    "fetchedAt": "2026-08-04T14:32:37.700Z"
   },
   "systems": [],
   "locations": [
@@ -1696,7 +1696,7 @@
     {
       "name": "Hephaestanite",
       "slug": "hephaestanite",
-      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == References ==",
+      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [

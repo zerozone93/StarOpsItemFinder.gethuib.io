@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-08-04T03:23:41.699Z",
+    "generatedAt": "2026-08-04T14:34:16.380Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-08-04T03:20:41.160Z",
+        "fetchedAt": "2026-08-04T14:31:08.661Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-08-04T03:22:03.832Z",
+        "fetchedAt": "2026-08-04T14:32:37.700Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-08-04T03:22:03.834Z",
+        "fetchedAt": "2026-08-04T14:32:37.707Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-08-04T03:22:03.835Z",
+        "fetchedAt": "2026-08-04T14:32:37.708Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-08-04T03:22:04.295Z",
+        "fetchedAt": "2026-08-04T14:32:38.472Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-08-04T03:23:41.698Z",
+        "fetchedAt": "2026-08-04T14:34:16.378Z",
         "skipped": false
       }
     ],
@@ -2461,7 +2461,7 @@
     {
       "name": "Hephaestanite",
       "slug": "hephaestanite",
-      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == === BlueprintsBlueprint data unavailable. === === DismantleDismantle data unavailable. === == Related == No related items available from the API. == References ==",
+      "description": "Hephaestanite is a mineral found near volcanic outcroppings and commonly used as a thermal insulator. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
