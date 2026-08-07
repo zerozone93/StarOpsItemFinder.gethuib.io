@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-08-05T14:27:53.918Z",
+    "generatedAt": "2026-08-07T13:20:55.935Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-08-05T14:24:20.221Z",
+        "fetchedAt": "2026-08-07T13:17:56.463Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-08-05T14:26:15.692Z",
+        "fetchedAt": "2026-08-07T13:19:18.020Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-08-05T14:26:15.695Z",
+        "fetchedAt": "2026-08-07T13:19:18.022Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-08-05T14:26:15.696Z",
+        "fetchedAt": "2026-08-07T13:19:18.023Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-08-05T14:26:16.409Z",
+        "fetchedAt": "2026-08-07T13:19:18.499Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-08-05T14:27:53.916Z",
+        "fetchedAt": "2026-08-07T13:20:55.932Z",
         "skipped": false
       }
     ],
@@ -2111,7 +2111,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg",
+      "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg?qbjeg",
       "mergedSources": [
         "starcitizentools"
       ]
@@ -2127,7 +2127,7 @@
       ],
       "knownLocations": [],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png",
+      "imageUrl": "https://media.starcitizen.tools/e/e0/Star_Citizen_29.05.2025_11_40_47.png?phlex",
       "sourceNotes": "Live wiki enrichment for Janalite",
       "mergedSources": [
         "starcitizentools"
@@ -2170,7 +2170,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg",
+      "imageUrl": "https://media.starcitizen.tools/6/6e/Aphorite.jpg?hs0c0",
       "sourceNotes": "Live wiki enrichment for Aphorite",
       "mergedSources": [
         "starcitizentools"
@@ -2197,7 +2197,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg",
+      "imageUrl": "https://media.starcitizen.tools/b/b2/Dolivine-in-space-3.10.jpg?8mqjz",
       "sourceNotes": "Live wiki enrichment for Dolivine",
       "mergedSources": [
         "starcitizentools"
@@ -2218,7 +2218,7 @@
         "pyro"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Agricium",
       "mergedSources": [
         "starcitizentools"
@@ -2238,7 +2238,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Bexalite",
       "mergedSources": [
         "starcitizentools"
@@ -2257,7 +2257,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png",
+      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png?t6prd",
       "sourceNotes": "Live wiki enrichment for Borase",
       "mergedSources": [
         "starcitizentools"
@@ -2279,7 +2279,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Laranite",
       "mergedSources": [
         "starcitizentools"
@@ -2299,7 +2299,7 @@
         "hur_l5"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Taranite",
       "mergedSources": [
         "starcitizentools"
@@ -2322,7 +2322,7 @@
         "ruin-station"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Gold",
       "mergedSources": [
         "starcitizentools"
@@ -2349,7 +2349,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Diamond",
       "mergedSources": [
         "starcitizentools"
@@ -2370,7 +2370,7 @@
         "monox"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Titanium",
       "mergedSources": [
         "starcitizentools"
@@ -2388,7 +2388,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Tungsten",
       "mergedSources": [
         "starcitizentools"
@@ -2409,7 +2409,7 @@
         "pyro"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Corundum",
       "mergedSources": [
         "starcitizentools"
@@ -2430,7 +2430,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Copper",
       "mergedSources": [
         "starcitizentools"
@@ -2452,7 +2452,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Beryl",
       "mergedSources": [
         "starcitizentools"
@@ -2472,7 +2472,7 @@
         "hur_l5"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Hephaestanite",
       "mergedSources": [
         "starcitizentools"
@@ -2493,7 +2493,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Iron",
       "mergedSources": [
         "starcitizentools"
@@ -2514,7 +2514,7 @@
         "pyro"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
       "sourceNotes": "Live wiki enrichment for Quartz",
       "mergedSources": [
         "starcitizentools"
@@ -2534,7 +2534,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
       "sourceNotes": "Live wiki enrichment for Aluminum",
       "mergedSources": [
         "starcitizentools"
@@ -2817,7 +2817,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/7/75/Gemini_-_C54.jpg",
+      "imageUrl": "https://media.starcitizen.tools/7/75/Gemini_-_C54.jpg?klh4t",
       "class": "smg",
       "damageType": "ballistic_or_energy_variant_unknown",
       "mergedSources": [
@@ -2843,7 +2843,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/b/b2/P4-AR_4.6.png",
+      "imageUrl": "https://media.starcitizen.tools/b/b2/P4-AR_4.6.png?h699r",
       "class": "assault_rifle",
       "damageType": "ballistic",
       "mergedSources": [
@@ -2869,7 +2869,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/f/fe/StarCitizen-Preview_BEHR_P8SC_01-pcgh.jpg",
+      "imageUrl": "https://media.starcitizen.tools/f/fe/StarCitizen-Preview_BEHR_P8SC_01-pcgh.jpg?th6mg",
       "class": "smg",
       "damageType": "ballistic",
       "mergedSources": [
@@ -2895,7 +2895,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/b/bd/FS-9_-_On_crate_with_extra_magazine.jpg",
+      "imageUrl": "https://media.starcitizen.tools/b/bd/FS-9_-_On_crate_with_extra_magazine.jpg?41vc3",
       "class": "lmg",
       "damageType": "ballistic",
       "mergedSources": [
@@ -2921,7 +2921,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/e/ef/Gallant_-_with_3_clips_and_ArcLight_-_Flat.png",
+      "imageUrl": "https://media.starcitizen.tools/e/ef/Gallant_-_with_3_clips_and_ArcLight_-_Flat.png?ajei5",
       "class": "assault_rifle",
       "damageType": "energy",
       "mergedSources": [
@@ -2947,7 +2947,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/a/a8/Custodian_-_with_x4_clips_-_Flat.jpg",
+      "imageUrl": "https://media.starcitizen.tools/a/a8/Custodian_-_with_x4_clips_-_Flat.jpg?6tqmc",
       "class": "smg",
       "damageType": "energy",
       "mergedSources": [
@@ -2973,7 +2973,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/2c/Gmni-st71.png",
+      "imageUrl": "https://media.starcitizen.tools/2/2c/Gmni-st71.png?qxnxg",
       "class": "battle_rifle",
       "damageType": "ballistic",
       "mergedSources": [
@@ -2999,7 +2999,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/2/21/MacFlex_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/2/21/MacFlex_armor_set.jpg?bfe3q",
       "manufacturer": "Roberts Space Industries",
       "mergedSources": [
         "starcitizentools"
@@ -3022,7 +3022,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/8/8b/ADP_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/8/8b/ADP_armor_set.jpg?hu0ef",
       "manufacturer": "Clark Defense Systems",
       "mergedSources": [
         "starcitizentools"
@@ -3045,7 +3045,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/c/c3/ADP-mk4_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/c/c3/ADP-mk4_armor_set.jpg?gh4w7",
       "manufacturer": "Clark Defense Systems",
       "mergedSources": [
         "starcitizentools"
@@ -3068,7 +3068,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/3/32/ORC-mkV_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/3/32/ORC-mkV_armor_set.jpg?7pxv8",
       "manufacturer": "Clark Defense Systems",
       "mergedSources": [
         "starcitizentools"
@@ -3091,7 +3091,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/6/64/ORC-mkX_Woodland_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/6/64/ORC-mkX_Woodland_armor_set.jpg?qh1w9",
       "manufacturer": "Clark Defense Systems",
       "mergedSources": [
         "starcitizentools"
@@ -3114,7 +3114,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/9/91/PAB-1_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/9/91/PAB-1_armor_set.jpg?bnbef",
       "manufacturer": "Clark Defense Systems",
       "mergedSources": [
         "starcitizentools"
@@ -3137,7 +3137,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/4/49/FBL8_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/4/49/FBL8_set.jpg?4tals",
       "manufacturer": "Clark Defense Systems",
       "mergedSources": [
         "starcitizentools"
@@ -3160,7 +3160,7 @@
         "nyx-station-primary"
       ],
       "foundLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/5/53/Field_Recon_armor_set.jpg",
+      "imageUrl": "https://media.starcitizen.tools/5/53/Field_Recon_armor_set.jpg?0lrsb",
       "manufacturer": "unknown",
       "mergedSources": [
         "starcitizentools"
