@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-12T02:31:41.868Z",
+    "generatedAt": "2026-08-13T02:34:01.647Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2245,6 +2245,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "grimhex",
         "hur_l1",
         "hur_l2",
         "hur_l5",
