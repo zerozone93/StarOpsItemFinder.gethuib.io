@@ -76,7 +76,6 @@
       "port_tressler",
       "arc_l1",
       "arc_l2",
-      "arc_l3",
       "hur_l1",
       "hur_l2",
       "mic_l1",
@@ -103,7 +102,6 @@
       "port_tressler",
       "arc_l1",
       "arc_l2",
-      "arc_l3",
       "hur_l1",
       "hur_l2",
       "mic_l1",
@@ -168,6 +166,7 @@
       "arc_l1",
       "hur_l1",
       "hur_l2",
+      "hur_l5",
       "microtech"
     ],
     "purchaseLocations": [],
@@ -299,6 +298,7 @@
     "knownLocations": [
       "hur_l1",
       "hur_l2",
+      "hur_l5",
       "microtech"
     ],
     "purchaseLocations": [],
@@ -341,6 +341,7 @@
       "port_tressler",
       "hur_l1",
       "hur_l2",
+      "hur_l5",
       "mic_l1",
       "microtech"
     ],

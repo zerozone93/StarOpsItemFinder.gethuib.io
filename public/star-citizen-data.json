@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-13T02:34:01.647Z",
+    "generatedAt": "2026-08-13T13:29:36.253Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2006,7 +2006,6 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "arc_l3",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2033,7 +2032,6 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
-        "arc_l3",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2098,6 +2096,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2229,6 +2228,7 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2271,6 +2271,7 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
         "microtech"
       ],
