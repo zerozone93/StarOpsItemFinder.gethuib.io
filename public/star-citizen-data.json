@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-13T13:29:36.253Z",
+    "generatedAt": "2026-08-14T02:31:58.173Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1941,10 +1941,8 @@
       ],
       "sourceNotes": "Live wiki enrichment for Hadanite",
       "knownLocations": [
-        "area18",
         "new_babbage",
         "lorville",
-        "baijini_point",
         "port_tressler",
         "arc_l1",
         "arc_l2",
@@ -2228,7 +2226,6 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2245,7 +2242,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "grimhex",
+        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -2375,6 +2372,7 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"

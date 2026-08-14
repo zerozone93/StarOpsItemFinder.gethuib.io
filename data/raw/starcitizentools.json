@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-08-13T13:27:57.282Z"
+    "fetchedAt": "2026-08-14T02:30:20.107Z"
   },
   "systems": [],
   "locations": [
@@ -1398,10 +1398,8 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "area18",
         "new_babbage",
         "lorville",
-        "baijini_point",
         "port_tressler",
         "arc_l1",
         "arc_l2",
@@ -1631,7 +1629,6 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -1645,7 +1642,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "grimhex",
+        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -1757,6 +1754,7 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
