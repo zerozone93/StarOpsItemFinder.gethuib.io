@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-08-14T02:30:20.107Z"
+    "fetchedAt": "2026-08-14T13:22:33.639Z"
   },
   "systems": [],
   "locations": [
@@ -539,7 +539,7 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Bacchus Belt Alpha",
+      "name": "Bacchus belt alpha",
       "slug": "bacchus-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
@@ -767,7 +767,7 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Branaugh Belt Alpha",
+      "name": "Branaugh belt alpha",
       "slug": "branaugh-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
@@ -971,7 +971,7 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Caliban Belt Alpha",
+      "name": "Caliban belt alpha",
       "slug": "caliban-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
@@ -1157,7 +1157,7 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Cathcart Belt Alpha",
+      "name": "Cathcart belt alpha",
       "slug": "cathcart-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
@@ -1187,7 +1187,7 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Centauri Belt Alpha",
+      "name": "Centauri belt alpha",
       "slug": "centauri-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68

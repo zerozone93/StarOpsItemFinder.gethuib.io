@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-08-14T02:31:58.010Z",
+    "generatedAt": "2026-08-14T13:24:11.743Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-08-14T02:28:25.595Z",
+        "fetchedAt": "2026-08-14T13:20:37.824Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-08-14T02:30:20.107Z",
+        "fetchedAt": "2026-08-14T13:22:33.639Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-08-14T02:30:20.109Z",
+        "fetchedAt": "2026-08-14T13:22:33.646Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-08-14T02:30:20.110Z",
+        "fetchedAt": "2026-08-14T13:22:33.647Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-08-14T02:30:20.539Z",
+        "fetchedAt": "2026-08-14T13:22:34.082Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-08-14T02:31:58.009Z",
+        "fetchedAt": "2026-08-14T13:24:11.741Z",
         "skipped": false
       }
     ],
@@ -892,7 +892,7 @@
       ]
     },
     {
-      "name": "Bacchus Belt Alpha",
+      "name": "Bacchus belt alpha",
       "slug": "bacchus-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
@@ -1228,7 +1228,7 @@
       ]
     },
     {
-      "name": "Branaugh Belt Alpha",
+      "name": "Branaugh belt alpha",
       "slug": "branaugh-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
@@ -1534,7 +1534,7 @@
       ]
     },
     {
-      "name": "Caliban Belt Alpha",
+      "name": "Caliban belt alpha",
       "slug": "caliban-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
@@ -1804,7 +1804,7 @@
       ]
     },
     {
-      "name": "Cathcart Belt Alpha",
+      "name": "Cathcart belt alpha",
       "slug": "cathcart-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
@@ -1849,7 +1849,7 @@
       ]
     },
     {
-      "name": "Centauri Belt Alpha",
+      "name": "Centauri belt alpha",
       "slug": "centauri-belt-alpha",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
