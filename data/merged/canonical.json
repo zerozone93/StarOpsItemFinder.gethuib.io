@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-08-14T13:24:11.743Z",
+    "generatedAt": "2026-08-15T12:52:31.403Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-08-14T13:20:37.824Z",
+        "fetchedAt": "2026-08-15T12:49:42.880Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-08-14T13:22:33.639Z",
+        "fetchedAt": "2026-08-15T12:50:53.273Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-08-14T13:22:33.646Z",
+        "fetchedAt": "2026-08-15T12:50:53.280Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-08-14T13:22:33.647Z",
+        "fetchedAt": "2026-08-15T12:50:53.281Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-08-14T13:22:34.082Z",
+        "fetchedAt": "2026-08-15T12:50:53.804Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-08-14T13:24:11.741Z",
+        "fetchedAt": "2026-08-15T12:52:31.402Z",
         "skipped": false
       }
     ],
@@ -2097,8 +2097,10 @@
       ],
       "sourceNotes": "Live wiki enrichment for Hadanite",
       "knownLocations": [
+        "area18",
         "new_babbage",
         "lorville",
+        "baijini_point",
         "port_tressler",
         "arc_l1",
         "arc_l2",
@@ -2250,7 +2252,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2398,7 +2399,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -2424,7 +2424,6 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -2528,7 +2527,6 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
