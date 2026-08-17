@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-16T12:54:24.529Z",
+    "generatedAt": "2026-08-17T01:48:06.027Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2243,6 +2243,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "grimhex",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -2268,6 +2269,7 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
         "microtech"
       ],
