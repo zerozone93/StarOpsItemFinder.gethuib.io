@@ -166,6 +166,7 @@
       "arc_l1",
       "hur_l1",
       "hur_l2",
+      "hur_l5",
       "microtech"
     ],
     "purchaseLocations": [],
@@ -313,7 +314,7 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "grimhex",
+      "lorville",
       "hur_l1",
       "hur_l2",
       "hur_l5",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T01:48:06.027Z",
+    "generatedAt": "2026-08-17T12:59:35.779Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2096,6 +2096,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2243,7 +2244,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "grimhex",
+        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l5",
