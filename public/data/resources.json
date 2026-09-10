@@ -17,7 +17,6 @@
       "baijini_point",
       "port_tressler",
       "arc_l1",
-      "arc_l2",
       "hur_l1",
       "hur_l2",
       "mic_l1",
@@ -75,7 +74,6 @@
       "baijini_point",
       "port_tressler",
       "arc_l1",
-      "arc_l2",
       "hur_l1",
       "hur_l2",
       "mic_l1",
@@ -92,7 +90,7 @@
   {
     "name": "Dolivine",
     "slug": "dolivine",
-    "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
+    "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == No related items available from the API. == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -101,7 +99,6 @@
       "baijini_point",
       "port_tressler",
       "arc_l1",
-      "arc_l2",
       "hur_l1",
       "hur_l2",
       "mic_l1",
@@ -122,6 +119,8 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
@@ -143,6 +142,8 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "hur_l1",
       "hur_l2",
       "hur_l4",
@@ -163,6 +164,8 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
@@ -170,7 +173,7 @@
       "microtech"
     ],
     "purchaseLocations": [],
-    "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png?t6prd",
+    "imageUrl": null,
     "sourceNotes": "Live wiki enrichment for Borase",
     "mergedSources": [
       "starcitizentools"
@@ -183,11 +186,11 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l4",
-      "hur_l5",
       "mic_l1",
       "microtech"
     ],
@@ -205,10 +208,11 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l4",
       "hur_l5"
     ],
     "purchaseLocations": [],
@@ -225,6 +229,9 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "area18",
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
@@ -275,6 +282,8 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "hur_l2",
       "microtech",
       "pyro",
@@ -296,6 +305,8 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "hur_l1",
       "hur_l2",
       "microtech"
@@ -314,6 +325,7 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
       "lorville",
       "hur_l1",
       "hur_l2",
@@ -337,6 +349,7 @@
     "confidenceScore": 0.82,
     "knownLocations": [
       "new_babbage",
+      "lorville",
       "port_tressler",
       "hur_l1",
       "hur_l2",
@@ -358,10 +371,11 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l4",
       "hur_l5",
       "mic_l1",
       "microtech"
@@ -380,10 +394,11 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
+      "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l4",
       "hur_l5"
     ],
     "purchaseLocations": [],
@@ -401,9 +416,9 @@
     "confidenceScore": 0.82,
     "knownLocations": [
       "new_babbage",
+      "lorville",
       "port_tressler",
       "hur_l1",
-      "hur_l4",
       "hur_l5",
       "microtech"
     ],
@@ -421,12 +436,12 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "new_babbage",
       "lorville",
       "hur_l5",
       "mic_l1",
       "daymar",
-      "microtech",
-      "pyro"
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -444,6 +459,7 @@
     "knownLocations": [
       "hur_l1",
       "hur_l2",
+      "hur_l4",
       "hur_l5",
       "mic_l1",
       "microtech"

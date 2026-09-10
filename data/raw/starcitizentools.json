@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-08-17T12:57:57.912Z"
+    "fetchedAt": "2026-09-10T16:15:30.062Z"
   },
   "systems": [],
   "locations": [
@@ -263,24 +263,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Ail'ka - Kyuk'ya",
-      "slug": "ail-ka-kyuk-ya",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ail'ka - T.āl",
-      "slug": "ail-ka-t-l",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ail'ka - Yā'mon",
-      "slug": "ail-ka-y-mon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Ail'ka Belt Alpha",
       "slug": "ail-ka-belt-alpha",
       "verificationStatus": "community_verified",
@@ -521,12 +503,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Bacchus - Geddon",
-      "slug": "bacchus-geddon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Bacchus A",
       "slug": "bacchus-a",
       "verificationStatus": "community_verified",
@@ -575,36 +551,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Baker - Kiel",
-      "slug": "baker-kiel",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker - Osiris",
-      "slug": "baker-osiris",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker - Tayac",
-      "slug": "baker-tayac",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker - Th.us'ūng",
-      "slug": "baker-th-us-ng",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker - Yā'mon",
-      "slug": "baker-y-mon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Baker A",
       "slug": "baker-a",
       "verificationStatus": "community_verified",
@@ -643,36 +589,6 @@
     {
       "name": "Banshee (star)",
       "slug": "banshee-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee - Fora",
-      "slug": "banshee-fora",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee - Garron",
-      "slug": "banshee-garron",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee - Leir",
-      "slug": "banshee-leir",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee - Tamsa",
-      "slug": "banshee-tamsa",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee - Yulin",
-      "slug": "banshee-yulin",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -761,12 +677,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Branaugh - Chronos",
-      "slug": "branaugh-chronos",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Branaugh belt alpha",
       "slug": "branaugh-belt-alpha",
       "verificationStatus": "community_verified",
@@ -793,30 +703,6 @@
     {
       "name": "Bremen (star)",
       "slug": "bremen-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen - Kallis",
-      "slug": "bremen-kallis",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen - Nyx",
-      "slug": "bremen-nyx",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen - Tanga",
-      "slug": "bremen-tanga",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen - Vega",
-      "slug": "bremen-vega",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -889,30 +775,6 @@
     {
       "name": "Caliban (star)",
       "slug": "caliban-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban - Nul",
-      "slug": "caliban-nul",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban - Oberon",
-      "slug": "caliban-oberon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban - Orion",
-      "slug": "caliban-orion",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban - Viking",
-      "slug": "caliban-viking",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1019,18 +881,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Cano - Davien",
-      "slug": "cano-davien",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cano - Pyro",
-      "slug": "cano-pyro",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Cano belt alpha",
       "slug": "cano-belt-alpha",
       "verificationStatus": "community_verified",
@@ -1091,36 +941,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Castra - Hadrian",
-      "slug": "castra-hadrian",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Castra - Nyx",
-      "slug": "castra-nyx",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Castra - Oso",
-      "slug": "castra-oso",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Castra - Oya",
-      "slug": "castra-oya",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Castra - Pyro",
-      "slug": "castra-pyro",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Castra I",
       "slug": "castra-i",
       "verificationStatus": "community_verified",
@@ -1129,30 +949,6 @@
     {
       "name": "Cathcart (star)",
       "slug": "cathcart-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cathcart - Davien",
-      "slug": "cathcart-davien",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cathcart - Hades",
-      "slug": "cathcart-hades",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cathcart - Kilian",
-      "slug": "cathcart-kilian",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cathcart - Nexus",
-      "slug": "cathcart-nexus",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1171,18 +967,6 @@
     {
       "name": "Centauri (star)",
       "slug": "centauri-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri - Elysium",
-      "slug": "centauri-elysium",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri - Nul",
-      "slug": "centauri-nul",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1253,26 +1037,242 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Charon - Genesis",
-      "slug": "charon-genesis",
+      "name": "Charon 2a",
+      "slug": "charon-2a",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Charon - Helios",
-      "slug": "charon-helios",
+      "name": "Charon 2b",
+      "slug": "charon-2b",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Charon - Kins",
-      "slug": "charon-kins",
+      "name": "Charon 3a",
+      "slug": "charon-3a",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Charon - Tyrol",
-      "slug": "charon-tyrol",
+      "name": "Charon I",
+      "slug": "charon-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon II",
+      "slug": "charon-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon III",
+      "slug": "charon-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon IV",
+      "slug": "charon-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Charon V",
+      "slug": "charon-v",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Checkmate Station",
+      "slug": "checkmate-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Chronos (star)",
+      "slug": "chronos-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Chuai'chuai",
+      "slug": "chuai-chuai",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Chuaiton",
+      "slug": "chuaiton",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Clear View Emergency Shelter",
+      "slug": "clear-view-emergency-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Clio",
+      "slug": "clio",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cloudview Center",
+      "slug": "cloudview-center",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cole",
+      "slug": "cole",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cologne",
+      "slug": "cologne",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST1-02",
+      "slug": "comm-array-st1-02",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST1-13",
+      "slug": "comm-array-st1-13",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST1-48",
+      "slug": "comm-array-st1-48",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST1-61",
+      "slug": "comm-array-st1-61",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST1-92",
+      "slug": "comm-array-st1-92",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST2-28",
+      "slug": "comm-array-st2-28",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST2-47",
+      "slug": "comm-array-st2-47",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST2-55",
+      "slug": "comm-array-st2-55",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST2-76",
+      "slug": "comm-array-st2-76",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST3-18",
+      "slug": "comm-array-st3-18",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST3-35",
+      "slug": "comm-array-st3-35",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST3-90",
+      "slug": "comm-array-st3-90",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST4-22",
+      "slug": "comm-array-st4-22",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST4-31",
+      "slug": "comm-array-st4-31",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST4-59",
+      "slug": "comm-array-st4-59",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Comm Array ST4-64",
+      "slug": "comm-array-st4-64",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "CommArray SCC",
+      "slug": "commarray-scc",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Corel (star)",
+      "slug": "corel-star",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Corel I",
+      "slug": "corel-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Corel II",
+      "slug": "corel-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Corel V",
+      "slug": "corel-v",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Corel VI",
+      "slug": "corel-vi",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Corin",
+      "slug": "corin",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1404,7 +1404,6 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1427,7 +1426,6 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1441,7 +1439,7 @@
     {
       "name": "Dolivine",
       "slug": "dolivine",
-      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
+      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == No related items available from the API. == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -1450,7 +1448,6 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1479,6 +1476,8 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -1497,6 +1496,8 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1514,6 +1515,8 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -1521,7 +1524,7 @@
         "microtech"
       ],
       "purchaseLocations": [],
-      "imageUrl": "https://media.starcitizen.tools/9/93/Placeholderv2.png?t6prd",
+      "imageUrl": null,
       "sourceNotes": "Live wiki enrichment for Borase"
     },
     {
@@ -1531,11 +1534,11 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
-        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -1550,10 +1553,11 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -1567,6 +1571,9 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -1611,6 +1618,8 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "hur_l2",
         "microtech",
         "pyro",
@@ -1629,6 +1638,8 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "hur_l1",
         "hur_l2",
         "microtech"
@@ -1644,6 +1655,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
         "lorville",
         "hur_l1",
         "hur_l2",
@@ -1664,6 +1676,7 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "new_babbage",
+        "lorville",
         "port_tressler",
         "hur_l1",
         "hur_l2",
@@ -1682,10 +1695,11 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -1701,10 +1715,11 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
+        "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -1719,9 +1734,9 @@
       "confidenceScore": 0.82,
       "knownLocations": [
         "new_babbage",
+        "lorville",
         "port_tressler",
         "hur_l1",
-        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -1736,12 +1751,12 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "new_babbage",
         "lorville",
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1756,6 +1771,7 @@
       "knownLocations": [
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"

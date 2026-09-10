@@ -366,33 +366,6 @@
     ]
   },
   {
-    "name": "Ail'ka - Kyuk'ya",
-    "slug": "ail-ka-kyuk-ya",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Ail'ka - T.āl",
-    "slug": "ail-ka-t-l",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Ail'ka - Yā'mon",
-    "slug": "ail-ka-y-mon",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Ail'ka Belt Alpha",
     "slug": "ail-ka-belt-alpha",
     "verificationStatus": "community_verified",
@@ -699,15 +672,6 @@
     ]
   },
   {
-    "name": "Bacchus - Geddon",
-    "slug": "bacchus-geddon",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Bacchus A",
     "slug": "bacchus-a",
     "verificationStatus": "community_verified",
@@ -771,51 +735,6 @@
     ]
   },
   {
-    "name": "Baker - Kiel",
-    "slug": "baker-kiel",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Baker - Osiris",
-    "slug": "baker-osiris",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Baker - Tayac",
-    "slug": "baker-tayac",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Baker - Th.us'ūng",
-    "slug": "baker-th-us-ng",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Baker - Yā'mon",
-    "slug": "baker-y-mon",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Baker A",
     "slug": "baker-a",
     "verificationStatus": "community_verified",
@@ -872,51 +791,6 @@
   {
     "name": "Banshee (star)",
     "slug": "banshee-star",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Banshee - Fora",
-    "slug": "banshee-fora",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Banshee - Garron",
-    "slug": "banshee-garron",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Banshee - Leir",
-    "slug": "banshee-leir",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Banshee - Tamsa",
-    "slug": "banshee-tamsa",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Banshee - Yulin",
-    "slug": "banshee-yulin",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1053,15 +927,6 @@
     ]
   },
   {
-    "name": "Branaugh - Chronos",
-    "slug": "branaugh-chronos",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Branaugh belt alpha",
     "slug": "branaugh-belt-alpha",
     "verificationStatus": "community_verified",
@@ -1100,42 +965,6 @@
   {
     "name": "Bremen (star)",
     "slug": "bremen-star",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Bremen - Kallis",
-    "slug": "bremen-kallis",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Bremen - Nyx",
-    "slug": "bremen-nyx",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Bremen - Tanga",
-    "slug": "bremen-tanga",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Bremen - Vega",
-    "slug": "bremen-vega",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1244,42 +1073,6 @@
   {
     "name": "Caliban (star)",
     "slug": "caliban-star",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Caliban - Nul",
-    "slug": "caliban-nul",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Caliban - Oberon",
-    "slug": "caliban-oberon",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Caliban - Orion",
-    "slug": "caliban-orion",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Caliban - Viking",
-    "slug": "caliban-viking",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1431,24 +1224,6 @@
     ]
   },
   {
-    "name": "Cano - Davien",
-    "slug": "cano-davien",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Cano - Pyro",
-    "slug": "cano-pyro",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Cano belt alpha",
     "slug": "cano-belt-alpha",
     "verificationStatus": "community_verified",
@@ -1539,51 +1314,6 @@
     ]
   },
   {
-    "name": "Castra - Hadrian",
-    "slug": "castra-hadrian",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Castra - Nyx",
-    "slug": "castra-nyx",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Castra - Oso",
-    "slug": "castra-oso",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Castra - Oya",
-    "slug": "castra-oya",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Castra - Pyro",
-    "slug": "castra-pyro",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Castra I",
     "slug": "castra-i",
     "verificationStatus": "community_verified",
@@ -1595,42 +1325,6 @@
   {
     "name": "Cathcart (star)",
     "slug": "cathcart-star",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Cathcart - Davien",
-    "slug": "cathcart-davien",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Cathcart - Hades",
-    "slug": "cathcart-hades",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Cathcart - Kilian",
-    "slug": "cathcart-kilian",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Cathcart - Nexus",
-    "slug": "cathcart-nexus",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1658,24 +1352,6 @@
   {
     "name": "Centauri (star)",
     "slug": "centauri-star",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Centauri - Elysium",
-    "slug": "centauri-elysium",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Centauri - Nul",
-    "slug": "centauri-nul",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1782,8 +1458,8 @@
     ]
   },
   {
-    "name": "Charon - Genesis",
-    "slug": "charon-genesis",
+    "name": "Charon 2a",
+    "slug": "charon-2a",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1791,8 +1467,8 @@
     ]
   },
   {
-    "name": "Charon - Helios",
-    "slug": "charon-helios",
+    "name": "Charon 2b",
+    "slug": "charon-2b",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1800,8 +1476,8 @@
     ]
   },
   {
-    "name": "Charon - Kins",
-    "slug": "charon-kins",
+    "name": "Charon 3a",
+    "slug": "charon-3a",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -1809,8 +1485,332 @@
     ]
   },
   {
-    "name": "Charon - Tyrol",
-    "slug": "charon-tyrol",
+    "name": "Charon I",
+    "slug": "charon-i",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Charon II",
+    "slug": "charon-ii",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Charon III",
+    "slug": "charon-iii",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Charon IV",
+    "slug": "charon-iv",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Charon V",
+    "slug": "charon-v",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Checkmate Station",
+    "slug": "checkmate-station",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Chronos (star)",
+    "slug": "chronos-star",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Chuai'chuai",
+    "slug": "chuai-chuai",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Chuaiton",
+    "slug": "chuaiton",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Clear View Emergency Shelter",
+    "slug": "clear-view-emergency-shelter",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Clio",
+    "slug": "clio",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Cloudview Center",
+    "slug": "cloudview-center",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Cole",
+    "slug": "cole",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Cologne",
+    "slug": "cologne",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST1-02",
+    "slug": "comm-array-st1-02",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST1-13",
+    "slug": "comm-array-st1-13",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST1-48",
+    "slug": "comm-array-st1-48",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST1-61",
+    "slug": "comm-array-st1-61",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST1-92",
+    "slug": "comm-array-st1-92",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST2-28",
+    "slug": "comm-array-st2-28",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST2-47",
+    "slug": "comm-array-st2-47",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST2-55",
+    "slug": "comm-array-st2-55",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST2-76",
+    "slug": "comm-array-st2-76",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST3-18",
+    "slug": "comm-array-st3-18",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST3-35",
+    "slug": "comm-array-st3-35",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST3-90",
+    "slug": "comm-array-st3-90",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST4-22",
+    "slug": "comm-array-st4-22",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST4-31",
+    "slug": "comm-array-st4-31",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST4-59",
+    "slug": "comm-array-st4-59",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Comm Array ST4-64",
+    "slug": "comm-array-st4-64",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "CommArray SCC",
+    "slug": "commarray-scc",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Corel (star)",
+    "slug": "corel-star",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Corel I",
+    "slug": "corel-i",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Corel II",
+    "slug": "corel-ii",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Corel V",
+    "slug": "corel-v",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Corel VI",
+    "slug": "corel-vi",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Corin",
+    "slug": "corin",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
