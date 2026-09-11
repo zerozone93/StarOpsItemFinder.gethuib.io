@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T16:17:11.602Z",
+    "generatedAt": "2026-09-11T00:51:17.468Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2020,7 +2020,7 @@
     {
       "name": "Dolivine",
       "slug": "dolivine",
-      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == === BlueprintsNo blueprints found for this item. === === DismantleNo dismantle returns for this item. === == Related == No related items available from the API. == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
+      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -2076,7 +2076,6 @@
         "lorville",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -2142,8 +2141,7 @@
         "lorville",
         "arc_l1",
         "hur_l1",
-        "hur_l2",
-        "hur_l5"
+        "hur_l2"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2239,6 +2237,7 @@
         "lorville",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2349,6 +2348,7 @@
         "lorville",
         "port_tressler",
         "hur_l1",
+        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -2371,7 +2371,8 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
