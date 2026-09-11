@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-11T00:49:38.296Z"
+    "fetchedAt": "2026-09-11T12:28:56.618Z"
   },
   "systems": [],
   "locations": [
@@ -1426,6 +1426,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1448,6 +1449,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1500,6 +1502,7 @@
         "lorville",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -1556,7 +1559,8 @@
         "lorville",
         "arc_l1",
         "hur_l1",
-        "hur_l2"
+        "hur_l2",
+        "hur_l5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1640,7 +1644,6 @@
         "lorville",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -1736,7 +1739,6 @@
         "lorville",
         "port_tressler",
         "hur_l1",
-        "hur_l4",
         "hur_l5",
         "microtech"
       ],

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-11T00:51:17.468Z",
+    "generatedAt": "2026-09-11T12:30:35.708Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2004,6 +2004,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2029,6 +2030,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2076,6 +2078,7 @@
         "lorville",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -2141,7 +2144,8 @@
         "lorville",
         "arc_l1",
         "hur_l1",
-        "hur_l2"
+        "hur_l2",
+        "hur_l5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2237,7 +2241,6 @@
         "lorville",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2348,7 +2351,6 @@
         "lorville",
         "port_tressler",
         "hur_l1",
-        "hur_l4",
         "hur_l5",
         "microtech"
       ],
