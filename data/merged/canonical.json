@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-12T00:50:07.112Z",
+    "generatedAt": "2026-09-12T12:26:22.744Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-12T00:46:45.486Z",
+        "fetchedAt": "2026-09-12T12:23:26.561Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-12T00:48:27.247Z",
+        "fetchedAt": "2026-09-12T12:24:43.516Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-12T00:48:27.253Z",
+        "fetchedAt": "2026-09-12T12:24:43.524Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-12T00:48:27.256Z",
+        "fetchedAt": "2026-09-12T12:24:43.525Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-12T00:48:28.314Z",
+        "fetchedAt": "2026-09-12T12:24:44.639Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-12T00:50:07.110Z",
+        "fetchedAt": "2026-09-12T12:26:22.743Z",
         "skipped": false
       }
     ],
