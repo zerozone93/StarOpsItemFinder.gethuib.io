@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-11T12:30:35.565Z",
+    "generatedAt": "2026-09-12T00:50:07.112Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-11T12:26:59.714Z",
+        "fetchedAt": "2026-09-12T00:46:45.486Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-11T12:28:56.618Z",
+        "fetchedAt": "2026-09-12T00:48:27.247Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-11T12:28:56.619Z",
+        "fetchedAt": "2026-09-12T00:48:27.253Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-11T12:28:56.620Z",
+        "fetchedAt": "2026-09-12T00:48:27.256Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-11T12:28:57.563Z",
+        "fetchedAt": "2026-09-12T00:48:28.314Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-11T12:30:35.563Z",
+        "fetchedAt": "2026-09-12T00:50:07.110Z",
         "skipped": false
       }
     ],
@@ -2529,8 +2529,7 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
