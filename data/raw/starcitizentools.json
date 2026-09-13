@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-12T12:24:43.516Z"
+    "fetchedAt": "2026-09-13T12:25:54.807Z"
   },
   "systems": [],
   "locations": [
@@ -1541,6 +1541,8 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
+        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -1558,8 +1560,10 @@
         "new_babbage",
         "lorville",
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -1644,6 +1648,7 @@
         "lorville",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -1682,6 +1687,7 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -1702,6 +1708,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -1722,6 +1729,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -1739,6 +1747,7 @@
         "lorville",
         "port_tressler",
         "hur_l1",
+        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -1758,7 +1767,8 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",

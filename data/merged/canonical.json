@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-12T12:26:22.744Z",
+    "generatedAt": "2026-09-13T12:27:33.390Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-12T12:23:26.561Z",
+        "fetchedAt": "2026-09-13T12:24:06.718Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-12T12:24:43.516Z",
+        "fetchedAt": "2026-09-13T12:25:54.807Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-12T12:24:43.524Z",
+        "fetchedAt": "2026-09-13T12:25:54.809Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-12T12:24:43.525Z",
+        "fetchedAt": "2026-09-13T12:25:54.809Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-12T12:24:44.639Z",
+        "fetchedAt": "2026-09-13T12:25:55.579Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-12T12:26:22.743Z",
+        "fetchedAt": "2026-09-13T12:27:33.388Z",
         "skipped": false
       }
     ],
@@ -2279,6 +2279,8 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
+        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -2299,8 +2301,10 @@
         "new_babbage",
         "lorville",
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -2397,6 +2401,7 @@
         "lorville",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2441,6 +2446,7 @@
         "port_tressler",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2464,6 +2470,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2487,6 +2494,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -2507,6 +2515,7 @@
         "lorville",
         "port_tressler",
         "hur_l1",
+        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -2529,7 +2538,8 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
