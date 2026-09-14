@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-14T00:58:24.255Z",
+    "generatedAt": "2026-09-14T12:32:02.579Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-14T00:54:47.030Z",
+        "fetchedAt": "2026-09-14T12:28:29.776Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-14T00:56:45.276Z",
+        "fetchedAt": "2026-09-14T12:30:23.680Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-14T00:56:45.277Z",
+        "fetchedAt": "2026-09-14T12:30:23.682Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-14T00:56:45.278Z",
+        "fetchedAt": "2026-09-14T12:30:23.683Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-14T00:56:46.630Z",
+        "fetchedAt": "2026-09-14T12:30:24.733Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-14T00:58:24.254Z",
+        "fetchedAt": "2026-09-14T12:32:02.578Z",
         "skipped": false
       }
     ],
@@ -2448,7 +2448,6 @@
         "hur_l2",
         "hur_l4",
         "hur_l5",
-        "mic_l1",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -2495,7 +2494,8 @@
         "hur_l1",
         "hur_l2",
         "hur_l4",
-        "hur_l5"
+        "hur_l5",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2538,8 +2538,7 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2555,12 +2554,11 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
-        "hur_l5",
-        "mic_l1",
-        "microtech"
+        "hur_l5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",

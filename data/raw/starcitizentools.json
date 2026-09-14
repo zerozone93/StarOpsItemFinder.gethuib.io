@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-14T00:56:45.276Z"
+    "fetchedAt": "2026-09-14T12:30:23.680Z"
   },
   "systems": [],
   "locations": [
@@ -1689,7 +1689,6 @@
         "hur_l2",
         "hur_l4",
         "hur_l5",
-        "mic_l1",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -1730,7 +1729,8 @@
         "hur_l1",
         "hur_l2",
         "hur_l4",
-        "hur_l5"
+        "hur_l5",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1767,8 +1767,7 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1781,12 +1780,11 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
-        "hur_l5",
-        "mic_l1",
-        "microtech"
+        "hur_l5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
