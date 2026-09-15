@@ -235,12 +235,12 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "area18",
       "new_babbage",
       "lorville",
       "arc_l1",
       "hur_l1",
       "hur_l2",
-      "hur_l5",
       "mic_l1",
       "microtech",
       "pyro",
@@ -452,8 +452,7 @@
       "hur_l5",
       "mic_l1",
       "daymar",
-      "microtech",
-      "pyro"
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
