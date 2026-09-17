@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-16T00:52:55.394Z",
+    "generatedAt": "2026-09-17T12:30:36.258Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2165,12 +2165,12 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
         "new_babbage",
         "lorville",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro",
