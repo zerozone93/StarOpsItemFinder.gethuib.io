@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-17T12:28:57.460Z"
+    "fetchedAt": "2026-09-19T00:49:33.837Z"
   },
   "systems": [],
   "locations": [
@@ -197,42 +197,6 @@
       "confidenceScore": 0.74
     },
     {
-      "name": "2930-CRU983",
-      "slug": "2930-cru983",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "78 Leonis (star)",
-      "slug": "78-leonis-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Aaron Halo",
-      "slug": "aaron-halo",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Aberdeen",
-      "slug": "aberdeen",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Abyss",
-      "slug": "abyss",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Adir",
-      "slug": "adir",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Adira Falls",
       "slug": "adira-falls",
       "verificationStatus": "community_verified",
@@ -245,42 +209,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Aemilia",
-      "slug": "aemilia",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Aero",
-      "slug": "aero",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ail'ka (star)",
-      "slug": "ail-ka-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ail'ka Belt Alpha",
-      "slug": "ail-ka-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ail'ka Belt Beta",
-      "slug": "ail-ka-belt-beta",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Akiro Cluster",
-      "slug": "akiro-cluster",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Ambulance pad",
       "slug": "ambulance-pad",
       "verificationStatus": "community_verified",
@@ -289,12 +217,6 @@
     {
       "name": "Amidon Island",
       "slug": "amidon-island",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Angeli",
-      "slug": "angeli",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -337,12 +259,6 @@
     {
       "name": "ARC-L5 Yellow Core Station",
       "slug": "arc-l5-yellow-core-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp (planet)",
-      "slug": "arccorp-planet",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -407,36 +323,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Aremis",
-      "slug": "aremis",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Arial",
-      "slug": "arial",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ariel",
-      "slug": "ariel",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Armitage (planet)",
-      "slug": "armitage-planet",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ashana",
-      "slug": "ashana",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Ashburn Channel Aid Shelter",
       "slug": "ashburn-channel-aid-shelter",
       "verificationStatus": "community_verified",
@@ -457,12 +343,6 @@
     {
       "name": "Aston Ridge Aid Shelter",
       "slug": "aston-ridge-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Asura",
-      "slug": "asura",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -503,110 +383,14 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Bacchus A",
-      "slug": "bacchus-a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bacchus B",
-      "slug": "bacchus-b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bacchus belt alpha",
-      "slug": "bacchus-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Bacchus Flotilla",
       "slug": "bacchus-flotilla",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Bacchus I",
-      "slug": "bacchus-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bacchus II",
-      "slug": "bacchus-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bacchus III",
-      "slug": "bacchus-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Baijini Point",
       "slug": "baijini-point",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker A",
-      "slug": "baker-a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker B",
-      "slug": "baker-b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker I",
-      "slug": "baker-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker II",
-      "slug": "baker-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker III",
-      "slug": "baker-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baker IV",
-      "slug": "baker-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee (star)",
-      "slug": "banshee-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee I",
-      "slug": "banshee-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee II",
-      "slug": "banshee-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Banshee IV",
-      "slug": "banshee-iv",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -647,80 +431,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Bloom",
-      "slug": "bloom",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bombora",
-      "slug": "bombora",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Borea",
-      "slug": "borea",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Bountiful Harvest Hydroponics",
       "slug": "bountiful-harvest-hydroponics",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Branaugh (star)",
-      "slug": "branaugh-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Branaugh belt alpha",
-      "slug": "branaugh-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Branaugh I",
-      "slug": "branaugh-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Branaugh II",
-      "slug": "branaugh-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Branaugh III",
-      "slug": "branaugh-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen (star)",
-      "slug": "bremen-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen I",
-      "slug": "bremen-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen III",
-      "slug": "bremen-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bremen IV",
-      "slug": "bremen-iv",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -733,18 +445,6 @@
     {
       "name": "Brio's Breaker Yard",
       "slug": "brio-s-breaker-yard",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Broken Moon",
-      "slug": "broken-moon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bruder",
-      "slug": "bruder",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -773,152 +473,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Caliban (star)",
-      "slug": "caliban-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 2a",
-      "slug": "caliban-2a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 3a",
-      "slug": "caliban-3a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 3b",
-      "slug": "caliban-3b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 4a",
-      "slug": "caliban-4a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 4b",
-      "slug": "caliban-4b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 4c",
-      "slug": "caliban-4c",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 4d",
-      "slug": "caliban-4d",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 4e",
-      "slug": "caliban-4e",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban 4f",
-      "slug": "caliban-4f",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban belt alpha",
-      "slug": "caliban-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban I",
-      "slug": "caliban-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban III",
-      "slug": "caliban-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban IV",
-      "slug": "caliban-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Caliban V",
-      "slug": "caliban-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Calliope",
-      "slug": "calliope",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Callisto",
-      "slug": "callisto",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cano (star)",
-      "slug": "cano-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cano belt alpha",
-      "slug": "cano-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cano I",
-      "slug": "cano-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cano III",
-      "slug": "cano-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Caplan Circuit",
       "slug": "caplan-circuit",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Carteyna",
-      "slug": "carteyna",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cascom",
-      "slug": "cascom",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cassel",
-      "slug": "cassel",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -929,80 +485,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Castor",
-      "slug": "castor",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Castra (star)",
-      "slug": "castra-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Castra I",
-      "slug": "castra-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cathcart (star)",
-      "slug": "cathcart-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cathcart belt alpha",
-      "slug": "cathcart-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cellin",
-      "slug": "cellin",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri (star)",
-      "slug": "centauri-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri belt alpha",
-      "slug": "centauri-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri I",
-      "slug": "centauri-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri IV",
-      "slug": "centauri-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Centauri V",
-      "slug": "centauri-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Central Business District (Lorville)",
       "slug": "central-business-district-lorville",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cestulus",
-      "slug": "cestulus",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1025,86 +509,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Charon (moon)",
-      "slug": "charon-moon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon (star)",
-      "slug": "charon-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon 2a",
-      "slug": "charon-2a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon 2b",
-      "slug": "charon-2b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon 3a",
-      "slug": "charon-3a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon I",
-      "slug": "charon-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon II",
-      "slug": "charon-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon III",
-      "slug": "charon-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon IV",
-      "slug": "charon-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Charon V",
-      "slug": "charon-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Checkmate Station",
       "slug": "checkmate-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Chronos (star)",
-      "slug": "chronos-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Chuai'chuai",
-      "slug": "chuai-chuai",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Chuaiton",
-      "slug": "chuaiton",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1115,20 +521,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Clio",
-      "slug": "clio",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Cloudview Center",
       "slug": "cloudview-center",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cole",
-      "slug": "cole",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1241,38 +635,644 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Corel (star)",
-      "slug": "corel-star",
+      "name": "Covalex Hub Gundo",
+      "slug": "covalex-hub-gundo",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Corel I",
-      "slug": "corel-i",
+      "name": "CRU-L1 Ambitious Dream Station",
+      "slug": "cru-l1-ambitious-dream-station",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Corel II",
-      "slug": "corel-ii",
+      "name": "CRU-L4 Shallow Fields Station",
+      "slug": "cru-l4-shallow-fields-station",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Corel V",
-      "slug": "corel-v",
+      "name": "CRU-L5 Beautiful Glen Station",
+      "slug": "cru-l5-beautiful-glen-station",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Corel VI",
-      "slug": "corel-vi",
+      "name": "Crusader Discovery Center",
+      "slug": "crusader-discovery-center",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Corin",
-      "slug": "corin",
+      "name": "Crusader Industries Showroom",
+      "slug": "crusader-industries-showroom",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Cry-Astro (stanton)",
+      "slug": "cry-astro-stanton",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Deakins Research Outpost",
+      "slug": "deakins-research-outpost",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Desmond Memorial Convention Center",
+      "slug": "desmond-memorial-convention-center",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Devlin Scrap & Salvage",
+      "slug": "devlin-scrap-salvage",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Downed Relay AC-652",
+      "slug": "downed-relay-ac-652",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Dudley & Daughters",
+      "slug": "dudley-daughters",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Dunlow Ridge Aid Shelter",
+      "slug": "dunlow-ridge-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Eager Flats Aid Shelter",
+      "slug": "eager-flats-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Echo Eleven",
+      "slug": "echo-eleven",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Elsewhere",
+      "slug": "elsewhere",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Empire Health Services",
+      "slug": "empire-health-services",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Encole Station",
+      "slug": "encole-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Endgame",
+      "slug": "endgame",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Eri City",
+      "slug": "eri-city",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Esperia Boneyard",
+      "slug": "esperia-boneyard",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Everus Harbor",
+      "slug": "everus-harbor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Farro Data Center I",
+      "slug": "farro-data-center-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Farro Data Center II",
+      "slug": "farro-data-center-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Farro Data Center III",
+      "slug": "farro-data-center-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Farro Data Center IV",
+      "slug": "farro-data-center-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Farro Data Center IX",
+      "slug": "farro-data-center-ix",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Farro Data Center V",
+      "slug": "farro-data-center-v",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Flanagan's Ravine Aid Shelter",
+      "slug": "flanagan-s-ravine-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Fool's Run",
+      "slug": "fool-s-run",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Forge Quintus",
+      "slug": "forge-quintus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Fortune's Cross",
+      "slug": "fortune-s-cross",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Front Row",
+      "slug": "front-row",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Frostbite",
+      "slug": "frostbite",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Fujin City",
+      "slug": "fujin-city",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "G-Loc Bar",
+      "slug": "g-loc-bar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Gallete Family Farms",
+      "slug": "gallete-family-farms",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Gaslight",
+      "slug": "gaslight",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Gemma",
+      "slug": "gemma",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "GIO",
+      "slug": "gio",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Grand Barter Bazaar",
+      "slug": "grand-barter-bazaar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Green Imperial Medical",
+      "slug": "green-imperial-medical",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Greencircle Habitation",
+      "slug": "greencircle-habitation",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Grim HEX",
+      "slug": "grim-hex",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Haven",
+      "slug": "haven",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDES-Calthrope",
+      "slug": "hdes-calthrope",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMO-Dobbs",
+      "slug": "hdmo-dobbs",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Anderson",
+      "slug": "hdms-anderson",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Bezdek",
+      "slug": "hdms-bezdek",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Edmond",
+      "slug": "hdms-edmond",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Hadley",
+      "slug": "hdms-hadley",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Hahn",
+      "slug": "hdms-hahn",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Lathan",
+      "slug": "hdms-lathan",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Norgaard",
+      "slug": "hdms-norgaard",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Oparei",
+      "slug": "hdms-oparei",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Perlman",
+      "slug": "hdms-perlman",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Pinewood",
+      "slug": "hdms-pinewood",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Ryder",
+      "slug": "hdms-ryder",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Stanhope",
+      "slug": "hdms-stanhope",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Thedus",
+      "slug": "hdms-thedus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDMS-Woodruff",
+      "slug": "hdms-woodruff",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDPC-Farnesway",
+      "slug": "hdpc-farnesway",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Adlai",
+      "slug": "hdsf-adlai",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Barnabas",
+      "slug": "hdsf-barnabas",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Breckinridge",
+      "slug": "hdsf-breckinridge",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Colfax",
+      "slug": "hdsf-colfax",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Damaris",
+      "slug": "hdsf-damaris",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Elbridge",
+      "slug": "hdsf-elbridge",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Hendricks",
+      "slug": "hdsf-hendricks",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Hiram",
+      "slug": "hdsf-hiram",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Hobart",
+      "slug": "hdsf-hobart",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Ishmael",
+      "slug": "hdsf-ishmael",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Millerand",
+      "slug": "hdsf-millerand",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Rufus",
+      "slug": "hdsf-rufus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Sherman",
+      "slug": "hdsf-sherman",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Tamar",
+      "slug": "hdsf-tamar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Tompkins",
+      "slug": "hdsf-tompkins",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HDSF-Zacharias",
+      "slug": "hdsf-zacharias",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Hickes Research Outpost",
+      "slug": "hickes-research-outpost",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Hospital",
+      "slug": "hospital",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Humboldt Mines",
+      "slug": "humboldt-mines",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HUR-L1 Green Glade Station",
+      "slug": "hur-l1-green-glade-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HUR-L2 Faithful Dream Station",
+      "slug": "hur-l2-faithful-dream-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HUR-L3 Thundering Express Station",
+      "slug": "hur-l3-thundering-express-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HUR-L4 Melodic Fields Station",
+      "slug": "hur-l4-melodic-fields-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "HUR-L5 High Course Station",
+      "slug": "hur-l5-high-course-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Hurston Dynamics Showcase",
+      "slug": "hurston-dynamics-showcase",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Hurston Security Station",
+      "slug": "hurston-security-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "IAS Hammett",
+      "slug": "ias-hammett",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "ICC ScanHub Stanton",
+      "slug": "icc-scanhub-stanton",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "IMS Bolliver",
+      "slug": "ims-bolliver",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Infinity Custom",
+      "slug": "infinity-custom",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Aniene",
+      "slug": "ins-aniene",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Dunleavy",
+      "slug": "ins-dunleavy",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Flavus",
+      "slug": "ins-flavus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Hephaestus",
+      "slug": "ins-hephaestus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Jericho",
+      "slug": "ins-jericho",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Malcolm",
+      "slug": "ins-malcolm",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "INS Reilly",
+      "slug": "ins-reilly",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Inspiration Park",
+      "slug": "inspiration-park",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Intensive Care Unit",
+      "slug": "intensive-care-unit",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Invictus Base",
+      "slug": "invictus-base",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "IO-North tower",
+      "slug": "io-north-tower",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Jackson's Swap",
+      "slug": "jackson-s-swap",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Jata",
+      "slug": "jata",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Julep Ravine Aid Shelter",
+      "slug": "julep-ravine-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Jumptown",
+      "slug": "jumptown",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1600,18 +1600,10 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "area18",
-        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "aberdeen",
-        "arial",
-        "daymar",
-        "wala",
-        "lyria",
-        "magda",
-        "microtech"
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1767,8 +1759,7 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1822,7 +1813,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A barrel attachment is a Star Citizen weapon attachment that attaches to the barrel of a weapon to modify its behavior. == Types == == References ==",
+      "description": "A barrel attachment is a Star Citizen weapon attachment that attaches to the barrel of a weapon to modify its behavior. == List of barrel attachments == == Types == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": []
@@ -1833,7 +1824,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A magazine is an ammunition storage and feeding device for a repeating firearm, either integral within the gun (internal/fixed magazine) or externally attached (detachable magazine). The magazine functions by holding several cartridges within itself and sequentially pushing each one into a position where it may be readily loaded into the barrel chamber by the firearm's moving action. The detachable magazine is sometimes colloquially referred to as a \"clip\", although this is technically inaccurate since a clip is actually an accessory device used to help load ammunition into a magazine. == References ==",
+      "description": "A magazine is an ammunition storage and feeding device for a repeating firearm, either integral within the gun (internal/fixed magazine) or externally attached (detachable magazine). The magazine functions by holding several cartridges within itself and sequentially pushing each one into a position where it may be readily loaded into the barrel chamber by the firearm's moving action. The detachable magazine is sometimes colloquially referred to as a \"clip\", although this is technically inaccurate since a clip is actually an accessory device used to help load ammunition into a magazine. == List of magazines == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": []
@@ -1844,7 +1835,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A Multi-Tool attachment is a FPS weapon attachment that attaches to a Multi-Tool such as the Pyro RYT Multi-Tool. == References ==",
+      "description": "A Multi-Tool attachment is a FPS weapon attachment that attaches to a Multi-Tool such as the Pyro RYT Multi-Tool. == List of Multi-Tool attachments == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [
@@ -1857,7 +1848,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A Star Citizen optical attachment is an FPS weapon attachment that uses optics that give the player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
+      "description": "A Star Citizen optical attachment is an FPS weapon attachment that uses optics that give the player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == List of optics attachments == == Types == Optics can be divided in four categories: == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": []
@@ -1868,7 +1859,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "An underbarrel attachment is a FPS weapon attachment that attaches to the underbarrel/bottom of the weapon. == References ==",
+      "description": "An underbarrel attachment is a FPS weapon attachment that attaches to the underbarrel/bottom of the weapon. == List of underbarrel attachments == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": []

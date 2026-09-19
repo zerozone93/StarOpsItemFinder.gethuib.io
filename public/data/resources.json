@@ -261,18 +261,10 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
-      "area18",
-      "new_babbage",
       "lorville",
       "grimhex",
       "arc_l1",
-      "aberdeen",
-      "arial",
-      "daymar",
-      "wala",
-      "lyria",
-      "magda",
-      "microtech"
+      "pyro"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -452,8 +444,7 @@
       "hur_l5",
       "mic_l1",
       "daymar",
-      "microtech",
-      "pyro"
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",

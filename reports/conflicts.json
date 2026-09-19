@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-17T12:30:36.093Z",
+  "generatedAt": "2026-09-19T00:51:12.634Z",
   "sourceCount": 6,
-  "conflictCount": 11,
+  "conflictCount": 14,
   "conflicts": [
-    {
-      "collection": "locations",
-      "slug": "aberdeen",
-      "sources": [
-        "starcitizentools"
-      ],
-      "fields": [
-        "confidenceScore"
-      ]
-    },
     {
       "collection": "locations",
       "slug": "arc-l1-wide-forest-station",
@@ -65,16 +55,6 @@
     },
     {
       "collection": "locations",
-      "slug": "arial",
-      "sources": [
-        "starcitizentools"
-      ],
-      "fields": [
-        "confidenceScore"
-      ]
-    },
-    {
-      "collection": "locations",
       "slug": "baijini-point",
       "sources": [
         "starcitizentools"
@@ -85,7 +65,57 @@
     },
     {
       "collection": "locations",
-      "slug": "calliope",
+      "slug": "cru-l1-ambitious-dream-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "cru-l5-beautiful-glen-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "everus-harbor",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "hur-l2-faithful-dream-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "hur-l4-melodic-fields-station",
+      "sources": [
+        "starcitizentools"
+      ],
+      "fields": [
+        "confidenceScore"
+      ]
+    },
+    {
+      "collection": "locations",
+      "slug": "hur-l5-high-course-station",
       "sources": [
         "starcitizentools"
       ],

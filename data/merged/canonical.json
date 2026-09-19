@@ -1,63 +1,53 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-17T12:30:36.091Z",
+    "generatedAt": "2026-09-19T00:51:12.631Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-17T12:27:38.230Z",
+        "fetchedAt": "2026-09-19T00:47:48.038Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-17T12:28:57.460Z",
+        "fetchedAt": "2026-09-19T00:49:33.837Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-17T12:28:57.468Z",
+        "fetchedAt": "2026-09-19T00:49:33.839Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-17T12:28:57.469Z",
+        "fetchedAt": "2026-09-19T00:49:33.840Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-17T12:28:58.185Z",
+        "fetchedAt": "2026-09-19T00:49:34.550Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-17T12:30:36.089Z",
+        "fetchedAt": "2026-09-19T00:51:12.630Z",
         "skipped": false
       }
     ],
-    "conflictCount": 11,
+    "conflictCount": 14,
     "conflicts": [
-      {
-        "collection": "locations",
-        "slug": "aberdeen",
-        "sources": [
-          "starcitizentools"
-        ],
-        "fields": [
-          "confidenceScore"
-        ]
-      },
       {
         "collection": "locations",
         "slug": "arc-l1-wide-forest-station",
@@ -110,16 +100,6 @@
       },
       {
         "collection": "locations",
-        "slug": "arial",
-        "sources": [
-          "starcitizentools"
-        ],
-        "fields": [
-          "confidenceScore"
-        ]
-      },
-      {
-        "collection": "locations",
         "slug": "baijini-point",
         "sources": [
           "starcitizentools"
@@ -130,7 +110,57 @@
       },
       {
         "collection": "locations",
-        "slug": "calliope",
+        "slug": "cru-l1-ambitious-dream-station",
+        "sources": [
+          "starcitizentools"
+        ],
+        "fields": [
+          "confidenceScore"
+        ]
+      },
+      {
+        "collection": "locations",
+        "slug": "cru-l5-beautiful-glen-station",
+        "sources": [
+          "starcitizentools"
+        ],
+        "fields": [
+          "confidenceScore"
+        ]
+      },
+      {
+        "collection": "locations",
+        "slug": "everus-harbor",
+        "sources": [
+          "starcitizentools"
+        ],
+        "fields": [
+          "confidenceScore"
+        ]
+      },
+      {
+        "collection": "locations",
+        "slug": "hur-l2-faithful-dream-station",
+        "sources": [
+          "starcitizentools"
+        ],
+        "fields": [
+          "confidenceScore"
+        ]
+      },
+      {
+        "collection": "locations",
+        "slug": "hur-l4-melodic-fields-station",
+        "sources": [
+          "starcitizentools"
+        ],
+        "fields": [
+          "confidenceScore"
+        ]
+      },
+      {
+        "collection": "locations",
+        "slug": "hur-l5-high-course-station",
         "sources": [
           "starcitizentools"
         ],
@@ -210,7 +240,7 @@
       "slug": "everus-harbor",
       "description": "Everus Harbor is a space station that is in a geostationary orbit around Hurston above the city of Lorville. It serves as the primary trading port for Lorville. It is owned and operated by Hurston Dynamics. Hurston's primary port of call for Lorville for all large-scale incoming and outgoing cargo. Everus Harbor has been outfitted with a handful of amenities for capital ships and travelers looking for a quick stopover before heading down to the planet surface. == Trade data == == Vehicle Rental (Cargo Center) == Everus Harbor features a Travelers Rental terminal within the Cargo Center. The terminal is adjacent to the Cargo Supplies storefront. From this terminal, players are able to rent a selection of ships. Prices are in aUEC. When renting for more than one day, the rate is not flat. The more days you rent, the lower the average cost is per day. The discount follows this pattern: == C",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.74,
+      "confidenceScore": 0.68,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -280,7 +310,7 @@
       "slug": "cru-l1-ambitious-dream-station",
       "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.74,
+      "confidenceScore": 0.68,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -290,7 +320,7 @@
       "slug": "cru-l5-beautiful-glen-station",
       "description": "CRU-L5 Beautiful Glen Station is a Rest & Relax owned Rest Stop located in Crusader's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Crusader (Stanton II), Rest & Relax's Beautiful Glen Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading Info == Last updated with info from patch 3.21.1. ==== Black Market ==== ==== Admin ==== == Development == Since Alpha 3.8.0, the quantum travel marker for the space station has been removed. The best way to access it is to fly towards the biggest rock and you will eventually see the station. == Gallery =",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.74,
+      "confidenceScore": 0.68,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -300,7 +330,7 @@
       "slug": "hur-l2-faithful-dream-station",
       "description": "HUR-L2 Faithful Dream Station is a Rest & Relax owned Rest Stop located in Hurston's L2 Lagrangian point. == In-game description == Located at the L2 Lagrange point of Hurston (Stanton I), Rest & Relax's Faithful Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Nearby Mining Resources == The asteroids at HUR-L2 are composed of the following raw elements: == Gallery == == References ==",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.74,
+      "confidenceScore": 0.68,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -310,7 +340,7 @@
       "slug": "hur-l4-melodic-fields-station",
       "description": "HUR-L4 Melodic Fields Station is a Rest & Relax owned Rest Stop located in Hurston's L4 Lagrangian point. == In-game description == Located at the L4 Lagrange point of Hurston (Stanton I), Rest & Relax's Melodic Fields Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Nearby Mining Resources == The asteroids at HUR-L4 are composed of the following raw elements: == Gallery == == References ==",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.74,
+      "confidenceScore": 0.68,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -320,7 +350,7 @@
       "slug": "hur-l5-high-course-station",
       "description": "HUR-L5 High Course Station is a Rest & Relax owned Rest Stop located in Hurston's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Hurston (Stanton I), Rest & Relax's High Course Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Trading == == Nearby Mining Resources == The asteroids at HUR-L5 are composed of the following raw elements: == Gallery == == References ==",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.74,
+      "confidenceScore": 0.68,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -340,7 +370,7 @@
       "slug": "aberdeen",
       "description": "Aberdeen or Stanton 1b is a natural satellite of Hurston. It was named after scientist Aberdeen Hurston, designer of the first Hurston Dynamics antimatter warhead. Aberdeen is notable for being the only moon in the Stanton system to feature once-thriving grasslands and scattered trees. Although some dead and desiccated examples of Aberdeen's former ecosystems remain, nothing now grows in the highly toxic, boiling environment. It is unclear how or when Aberdeen's ecosystem collapsed into its current hellscape, but it is most likely that the moon was used as a testing site for Hurston Dynamics antimatter weapons. If true this would be most ironic, given who the moon was named after. At present, Aberdeen is known primarily for being the location of the Klescher Rehabilitation Facility. == Atmosphere == Aberdeen's atmosphere is comprised primarily of sulfur dioxide and sulfur oxide, giving i",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
+      "confidenceScore": 0.74,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -350,7 +380,7 @@
       "slug": "arial",
       "description": "Arial is a moon of Hurston. This moon was named after the 3rd CEO of Hurston Dynamics, Arial Hurston, who was known for creating the controversial Life/Labor-style employee contract. Prota Harvestables can be found here. == Atmosphere == Arial's atmosphere primarily contains nitrogen, although trace amounts of methane and hydrogen are present as well. It is toxic to humans, and average temperatures are considerably above the boiling point as well; environmental survival equipment is required. Surface conditions on the moon tend to be hazy, and its temperature causes shimmering refraction effects, further reducing visibility. == Locations == === Surface outposts === === Other locations === === Artificial satellites === ==== CommArray ST1-13 ==== == Gallery == == Trivia == While initially named Ariel, this was changed to Arial on the approach to implementation in Alpha 3.3.0, likely to dis",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
+      "confidenceScore": 0.74,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -420,7 +450,7 @@
       "slug": "calliope",
       "description": "Calliope is a moon orbiting microTech. It is named after the ancient Greek muse who inspires eloquence. Beset by high winds and low temperatures, Calliope becomes so cold at night that even exceptionally insulated weather suits can fail. The dark side of this moon is a dangerous one, even to the most experienced adventurer. Low clouds and ground fog regularly reduce surface visibility to a minimum. == Atmosphere == Due to Calliope's extremely low temperatures, environmental survival gear is an absolute requirement for all surface activity. However, pressure suits can easily replenish their air supply from the moon's oxygen-rich atmosphere. == Locations == === Surface outposts === === Other locations === === Artificial satellites === ==== CommArray ST4-31 ==== == Gallery == == Trivia == In Greek mythology, Calliope is the Muse who presides over eloquence and epic poetry; so called from th",
       "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
+      "confidenceScore": 0.74,
       "mergedSources": [
         "starcitizentools"
       ]
@@ -434,54 +464,6 @@
       "id": "ignis",
       "systemId": "pyro",
       "locationType": "planet",
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "2930-CRU983",
-      "slug": "2930-cru983",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "78 Leonis (star)",
-      "slug": "78-leonis-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Aaron Halo",
-      "slug": "aaron-halo",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Abyss",
-      "slug": "abyss",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Adir",
-      "slug": "adir",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "id": "adir",
-      "systemId": "pyro",
-      "locationType": "moon",
       "mergedSources": [
         "starcitizentools"
       ]
@@ -505,60 +487,6 @@
       ]
     },
     {
-      "name": "Aemilia",
-      "slug": "aemilia",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Aero",
-      "slug": "aero",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Ail'ka (star)",
-      "slug": "ail-ka-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Ail'ka Belt Alpha",
-      "slug": "ail-ka-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Ail'ka Belt Beta",
-      "slug": "ail-ka-belt-beta",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Akiro Cluster",
-      "slug": "akiro-cluster",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Ambulance pad",
       "slug": "ambulance-pad",
       "verificationStatus": "community_verified",
@@ -570,15 +498,6 @@
     {
       "name": "Amidon Island",
       "slug": "amidon-island",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Angeli",
-      "slug": "angeli",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -606,15 +525,6 @@
     {
       "name": "ARC-L4 Faint Glen Station",
       "slug": "arc-l4-faint-glen-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "ArcCorp (planet)",
-      "slug": "arccorp-planet",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -703,42 +613,6 @@
       ]
     },
     {
-      "name": "Aremis",
-      "slug": "aremis",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Ariel",
-      "slug": "ariel",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Armitage (planet)",
-      "slug": "armitage-planet",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Ashana",
-      "slug": "ashana",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Ashburn Channel Aid Shelter",
       "slug": "ashburn-channel-aid-shelter",
       "verificationStatus": "community_verified",
@@ -768,15 +642,6 @@
     {
       "name": "Aston Ridge Aid Shelter",
       "slug": "aston-ridge-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Asura",
-      "slug": "asura",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -838,152 +703,8 @@
       ]
     },
     {
-      "name": "Bacchus A",
-      "slug": "bacchus-a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bacchus B",
-      "slug": "bacchus-b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bacchus belt alpha",
-      "slug": "bacchus-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Bacchus Flotilla",
       "slug": "bacchus-flotilla",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bacchus I",
-      "slug": "bacchus-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bacchus II",
-      "slug": "bacchus-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bacchus III",
-      "slug": "bacchus-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Baker A",
-      "slug": "baker-a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Baker B",
-      "slug": "baker-b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Baker I",
-      "slug": "baker-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Baker II",
-      "slug": "baker-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Baker III",
-      "slug": "baker-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Baker IV",
-      "slug": "baker-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Banshee (star)",
-      "slug": "banshee-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Banshee I",
-      "slug": "banshee-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Banshee II",
-      "slug": "banshee-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Banshee IV",
-      "slug": "banshee-iv",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1045,119 +766,8 @@
       ]
     },
     {
-      "name": "Bloom",
-      "slug": "bloom",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "id": "bloom",
-      "systemId": "pyro",
-      "locationType": "moon",
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bombora",
-      "slug": "bombora",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Borea",
-      "slug": "borea",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Bountiful Harvest Hydroponics",
       "slug": "bountiful-harvest-hydroponics",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Branaugh (star)",
-      "slug": "branaugh-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Branaugh belt alpha",
-      "slug": "branaugh-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Branaugh I",
-      "slug": "branaugh-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Branaugh II",
-      "slug": "branaugh-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Branaugh III",
-      "slug": "branaugh-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bremen (star)",
-      "slug": "bremen-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bremen I",
-      "slug": "bremen-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bremen III",
-      "slug": "bremen-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bremen IV",
-      "slug": "bremen-iv",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1176,24 +786,6 @@
     {
       "name": "Brio's Breaker Yard",
       "slug": "brio-s-breaker-yard",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Broken Moon",
-      "slug": "broken-moon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Bruder",
-      "slug": "bruder",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1237,215 +829,8 @@
       ]
     },
     {
-      "name": "Caliban (star)",
-      "slug": "caliban-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 2a",
-      "slug": "caliban-2a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 3a",
-      "slug": "caliban-3a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 3b",
-      "slug": "caliban-3b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 4a",
-      "slug": "caliban-4a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 4b",
-      "slug": "caliban-4b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 4c",
-      "slug": "caliban-4c",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 4d",
-      "slug": "caliban-4d",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 4e",
-      "slug": "caliban-4e",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban 4f",
-      "slug": "caliban-4f",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban belt alpha",
-      "slug": "caliban-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban I",
-      "slug": "caliban-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban III",
-      "slug": "caliban-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban IV",
-      "slug": "caliban-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Caliban V",
-      "slug": "caliban-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Callisto",
-      "slug": "callisto",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cano (star)",
-      "slug": "cano-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cano belt alpha",
-      "slug": "cano-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cano I",
-      "slug": "cano-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cano III",
-      "slug": "cano-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Caplan Circuit",
       "slug": "caplan-circuit",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Carteyna",
-      "slug": "carteyna",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cascom",
-      "slug": "cascom",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cassel",
-      "slug": "cassel",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1462,116 +847,8 @@
       ]
     },
     {
-      "name": "Castor",
-      "slug": "castor",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Castra (star)",
-      "slug": "castra-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Castra I",
-      "slug": "castra-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cathcart (star)",
-      "slug": "cathcart-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cathcart belt alpha",
-      "slug": "cathcart-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cellin",
-      "slug": "cellin",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Centauri (star)",
-      "slug": "centauri-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Centauri belt alpha",
-      "slug": "centauri-belt-alpha",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Centauri I",
-      "slug": "centauri-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Centauri IV",
-      "slug": "centauri-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Centauri V",
-      "slug": "centauri-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Central Business District (Lorville)",
       "slug": "central-business-district-lorville",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cestulus",
-      "slug": "cestulus",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1606,125 +883,8 @@
       ]
     },
     {
-      "name": "Charon (moon)",
-      "slug": "charon-moon",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon (star)",
-      "slug": "charon-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon 2a",
-      "slug": "charon-2a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon 2b",
-      "slug": "charon-2b",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon 3a",
-      "slug": "charon-3a",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon I",
-      "slug": "charon-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon II",
-      "slug": "charon-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon III",
-      "slug": "charon-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon IV",
-      "slug": "charon-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Charon V",
-      "slug": "charon-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Checkmate Station",
       "slug": "checkmate-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Chronos (star)",
-      "slug": "chronos-star",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Chuai'chuai",
-      "slug": "chuai-chuai",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Chuaiton",
-      "slug": "chuaiton",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1741,26 +901,8 @@
       ]
     },
     {
-      "name": "Clio",
-      "slug": "clio",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
       "name": "Cloudview Center",
       "slug": "cloudview-center",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cole",
-      "slug": "cole",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1930,8 +1072,8 @@
       ]
     },
     {
-      "name": "Corel (star)",
-      "slug": "corel-star",
+      "name": "Covalex Hub Gundo",
+      "slug": "covalex-hub-gundo",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1939,8 +1081,8 @@
       ]
     },
     {
-      "name": "Corel I",
-      "slug": "corel-i",
+      "name": "CRU-L4 Shallow Fields Station",
+      "slug": "cru-l4-shallow-fields-station",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1948,8 +1090,8 @@
       ]
     },
     {
-      "name": "Corel II",
-      "slug": "corel-ii",
+      "name": "Crusader Discovery Center",
+      "slug": "crusader-discovery-center",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1957,8 +1099,8 @@
       ]
     },
     {
-      "name": "Corel V",
-      "slug": "corel-v",
+      "name": "Crusader Industries Showroom",
+      "slug": "crusader-industries-showroom",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1966,8 +1108,8 @@
       ]
     },
     {
-      "name": "Corel VI",
-      "slug": "corel-vi",
+      "name": "Cry-Astro (stanton)",
+      "slug": "cry-astro-stanton",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1975,8 +1117,863 @@
       ]
     },
     {
-      "name": "Corin",
-      "slug": "corin",
+      "name": "Deakins Research Outpost",
+      "slug": "deakins-research-outpost",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Desmond Memorial Convention Center",
+      "slug": "desmond-memorial-convention-center",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Devlin Scrap & Salvage",
+      "slug": "devlin-scrap-salvage",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Downed Relay AC-652",
+      "slug": "downed-relay-ac-652",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Dudley & Daughters",
+      "slug": "dudley-daughters",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Dunlow Ridge Aid Shelter",
+      "slug": "dunlow-ridge-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Eager Flats Aid Shelter",
+      "slug": "eager-flats-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Echo Eleven",
+      "slug": "echo-eleven",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Elsewhere",
+      "slug": "elsewhere",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Empire Health Services",
+      "slug": "empire-health-services",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Encole Station",
+      "slug": "encole-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Endgame",
+      "slug": "endgame",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Eri City",
+      "slug": "eri-city",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Esperia Boneyard",
+      "slug": "esperia-boneyard",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Farro Data Center I",
+      "slug": "farro-data-center-i",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Farro Data Center II",
+      "slug": "farro-data-center-ii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Farro Data Center III",
+      "slug": "farro-data-center-iii",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Farro Data Center IV",
+      "slug": "farro-data-center-iv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Farro Data Center IX",
+      "slug": "farro-data-center-ix",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Farro Data Center V",
+      "slug": "farro-data-center-v",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Flanagan's Ravine Aid Shelter",
+      "slug": "flanagan-s-ravine-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Fool's Run",
+      "slug": "fool-s-run",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Forge Quintus",
+      "slug": "forge-quintus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Fortune's Cross",
+      "slug": "fortune-s-cross",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Front Row",
+      "slug": "front-row",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Frostbite",
+      "slug": "frostbite",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Fujin City",
+      "slug": "fujin-city",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "G-Loc Bar",
+      "slug": "g-loc-bar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Gallete Family Farms",
+      "slug": "gallete-family-farms",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Gaslight",
+      "slug": "gaslight",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Gemma",
+      "slug": "gemma",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "GIO",
+      "slug": "gio",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Grand Barter Bazaar",
+      "slug": "grand-barter-bazaar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Green Imperial Medical",
+      "slug": "green-imperial-medical",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Greencircle Habitation",
+      "slug": "greencircle-habitation",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Grim HEX",
+      "slug": "grim-hex",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Haven",
+      "slug": "haven",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDES-Calthrope",
+      "slug": "hdes-calthrope",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMO-Dobbs",
+      "slug": "hdmo-dobbs",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Anderson",
+      "slug": "hdms-anderson",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Bezdek",
+      "slug": "hdms-bezdek",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Edmond",
+      "slug": "hdms-edmond",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Hadley",
+      "slug": "hdms-hadley",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Hahn",
+      "slug": "hdms-hahn",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Lathan",
+      "slug": "hdms-lathan",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Norgaard",
+      "slug": "hdms-norgaard",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Oparei",
+      "slug": "hdms-oparei",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Perlman",
+      "slug": "hdms-perlman",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Pinewood",
+      "slug": "hdms-pinewood",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Ryder",
+      "slug": "hdms-ryder",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Stanhope",
+      "slug": "hdms-stanhope",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Thedus",
+      "slug": "hdms-thedus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDMS-Woodruff",
+      "slug": "hdms-woodruff",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDPC-Farnesway",
+      "slug": "hdpc-farnesway",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Adlai",
+      "slug": "hdsf-adlai",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Barnabas",
+      "slug": "hdsf-barnabas",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Breckinridge",
+      "slug": "hdsf-breckinridge",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Colfax",
+      "slug": "hdsf-colfax",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Damaris",
+      "slug": "hdsf-damaris",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Elbridge",
+      "slug": "hdsf-elbridge",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Hendricks",
+      "slug": "hdsf-hendricks",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Hiram",
+      "slug": "hdsf-hiram",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Hobart",
+      "slug": "hdsf-hobart",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Ishmael",
+      "slug": "hdsf-ishmael",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Millerand",
+      "slug": "hdsf-millerand",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Rufus",
+      "slug": "hdsf-rufus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Sherman",
+      "slug": "hdsf-sherman",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Tamar",
+      "slug": "hdsf-tamar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Tompkins",
+      "slug": "hdsf-tompkins",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HDSF-Zacharias",
+      "slug": "hdsf-zacharias",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Hickes Research Outpost",
+      "slug": "hickes-research-outpost",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Hospital",
+      "slug": "hospital",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Humboldt Mines",
+      "slug": "humboldt-mines",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HUR-L1 Green Glade Station",
+      "slug": "hur-l1-green-glade-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "HUR-L3 Thundering Express Station",
+      "slug": "hur-l3-thundering-express-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Hurston Dynamics Showcase",
+      "slug": "hurston-dynamics-showcase",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Hurston Security Station",
+      "slug": "hurston-security-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "IAS Hammett",
+      "slug": "ias-hammett",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "ICC ScanHub Stanton",
+      "slug": "icc-scanhub-stanton",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "IMS Bolliver",
+      "slug": "ims-bolliver",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Infinity Custom",
+      "slug": "infinity-custom",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Aniene",
+      "slug": "ins-aniene",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Dunleavy",
+      "slug": "ins-dunleavy",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Flavus",
+      "slug": "ins-flavus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Hephaestus",
+      "slug": "ins-hephaestus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Jericho",
+      "slug": "ins-jericho",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Malcolm",
+      "slug": "ins-malcolm",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "INS Reilly",
+      "slug": "ins-reilly",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Inspiration Park",
+      "slug": "inspiration-park",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Intensive Care Unit",
+      "slug": "intensive-care-unit",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Invictus Base",
+      "slug": "invictus-base",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "IO-North tower",
+      "slug": "io-north-tower",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Jackson's Swap",
+      "slug": "jackson-s-swap",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Jata",
+      "slug": "jata",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Julep Ravine Aid Shelter",
+      "slug": "julep-ravine-aid-shelter",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Jumptown",
+      "slug": "jumptown",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -2074,11 +2071,31 @@
       ]
     },
     {
+      "id": "bloom",
+      "name": "Bloom",
+      "systemId": "pyro",
+      "locationType": "moon",
+      "slug": "bloom",
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "id": "monox",
       "name": "Monox",
       "systemId": "pyro",
       "locationType": "moon",
       "slug": "monox",
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "id": "adir",
+      "name": "Adir",
+      "systemId": "pyro",
+      "locationType": "moon",
+      "slug": "adir",
       "mergedSources": [
         "starcitizentools"
       ]
@@ -2347,18 +2364,10 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "area18",
-        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "aberdeen",
-        "arial",
-        "daymar",
-        "wala",
-        "lyria",
-        "magda",
-        "microtech"
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2538,8 +2547,7 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech",
-        "pyro"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2608,7 +2616,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A barrel attachment is a Star Citizen weapon attachment that attaches to the barrel of a weapon to modify its behavior. == Types == == References ==",
+      "description": "A barrel attachment is a Star Citizen weapon attachment that attaches to the barrel of a weapon to modify its behavior. == List of barrel attachments == == Types == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [],
@@ -2622,7 +2630,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A magazine is an ammunition storage and feeding device for a repeating firearm, either integral within the gun (internal/fixed magazine) or externally attached (detachable magazine). The magazine functions by holding several cartridges within itself and sequentially pushing each one into a position where it may be readily loaded into the barrel chamber by the firearm's moving action. The detachable magazine is sometimes colloquially referred to as a \"clip\", although this is technically inaccurate since a clip is actually an accessory device used to help load ammunition into a magazine. == References ==",
+      "description": "A magazine is an ammunition storage and feeding device for a repeating firearm, either integral within the gun (internal/fixed magazine) or externally attached (detachable magazine). The magazine functions by holding several cartridges within itself and sequentially pushing each one into a position where it may be readily loaded into the barrel chamber by the firearm's moving action. The detachable magazine is sometimes colloquially referred to as a \"clip\", although this is technically inaccurate since a clip is actually an accessory device used to help load ammunition into a magazine. == List of magazines == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [],
@@ -2636,7 +2644,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A Multi-Tool attachment is a FPS weapon attachment that attaches to a Multi-Tool such as the Pyro RYT Multi-Tool. == References ==",
+      "description": "A Multi-Tool attachment is a FPS weapon attachment that attaches to a Multi-Tool such as the Pyro RYT Multi-Tool. == List of Multi-Tool attachments == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [
@@ -2652,7 +2660,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "A Star Citizen optical attachment is an FPS weapon attachment that uses optics that give the player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == Types == Optics can be divided in four categories: == References ==",
+      "description": "A Star Citizen optical attachment is an FPS weapon attachment that uses optics that give the player an enhanced image with an aligned aiming point or pattern (also called a reticle) superimposed onto the target image, preferably at the same focal plane. == List of optics attachments == == Types == Optics can be divided in four categories: == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [],
@@ -2666,7 +2674,7 @@
       "category": "weapon_attachment",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
-      "description": "An underbarrel attachment is a FPS weapon attachment that attaches to the underbarrel/bottom of the weapon. == References ==",
+      "description": "An underbarrel attachment is a FPS weapon attachment that attaches to the underbarrel/bottom of the weapon. == List of underbarrel attachments == == References ==",
       "imageUrl": null,
       "purchaseLocations": [],
       "foundLocations": [],
