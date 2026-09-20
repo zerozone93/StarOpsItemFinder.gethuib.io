@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-19T00:51:12.631Z",
+    "generatedAt": "2026-09-20T00:57:32.379Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-19T00:47:48.038Z",
+        "fetchedAt": "2026-09-20T00:54:43.760Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-19T00:49:33.837Z",
+        "fetchedAt": "2026-09-20T00:55:53.381Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-19T00:49:33.839Z",
+        "fetchedAt": "2026-09-20T00:55:53.383Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-19T00:49:33.840Z",
+        "fetchedAt": "2026-09-20T00:55:53.384Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-19T00:49:34.550Z",
+        "fetchedAt": "2026-09-20T00:55:54.613Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-19T00:51:12.630Z",
+        "fetchedAt": "2026-09-20T00:57:32.375Z",
         "skipped": false
       }
     ],
@@ -2341,14 +2341,15 @@
         "area18",
         "new_babbage",
         "lorville",
+        "everus_harbor",
+        "baijini_point",
+        "port_tressler",
         "arc_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
         "microtech",
-        "pyro",
-        "pyro-1",
-        "ruin-station"
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -2364,10 +2365,18 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
+        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "pyro"
+        "aberdeen",
+        "arial",
+        "daymar",
+        "wala",
+        "lyria",
+        "magda",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -2526,7 +2535,9 @@
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "microtech"
+        "microtech",
+        "pyro",
+        "pyro-5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",

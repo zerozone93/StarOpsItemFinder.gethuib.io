@@ -238,14 +238,15 @@
       "area18",
       "new_babbage",
       "lorville",
+      "everus_harbor",
+      "baijini_point",
+      "port_tressler",
       "arc_l1",
       "hur_l1",
       "hur_l2",
       "mic_l1",
       "microtech",
-      "pyro",
-      "pyro-1",
-      "ruin-station"
+      "pyro"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -261,10 +262,18 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "area18",
+      "new_babbage",
       "lorville",
       "grimhex",
       "arc_l1",
-      "pyro"
+      "aberdeen",
+      "arial",
+      "daymar",
+      "wala",
+      "lyria",
+      "magda",
+      "microtech"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -423,7 +432,9 @@
       "hur_l1",
       "hur_l4",
       "hur_l5",
-      "microtech"
+      "microtech",
+      "pyro",
+      "pyro-5"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
