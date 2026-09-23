@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-23T00:50:33.928Z",
+    "generatedAt": "2026-09-23T12:30:31.748Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-23T00:47:31.866Z",
+        "fetchedAt": "2026-09-23T12:27:36.807Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-23T00:48:54.684Z",
+        "fetchedAt": "2026-09-23T12:28:53.594Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-23T00:48:54.689Z",
+        "fetchedAt": "2026-09-23T12:28:53.596Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-23T00:48:54.690Z",
+        "fetchedAt": "2026-09-23T12:28:53.597Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-23T00:48:56.139Z",
+        "fetchedAt": "2026-09-23T12:28:54.193Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-23T00:50:33.927Z",
+        "fetchedAt": "2026-09-23T12:30:31.746Z",
         "skipped": false
       }
     ],
@@ -2365,10 +2365,18 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
+        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "pyro"
+        "aberdeen",
+        "arial",
+        "daymar",
+        "wala",
+        "lyria",
+        "magda",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",

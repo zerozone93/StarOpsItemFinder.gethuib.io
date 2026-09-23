@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-23T00:48:54.684Z"
+    "fetchedAt": "2026-09-23T12:28:53.594Z"
   },
   "systems": [],
   "locations": [
@@ -1601,10 +1601,18 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
+        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "pyro"
+        "aberdeen",
+        "arial",
+        "daymar",
+        "wala",
+        "lyria",
+        "magda",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",

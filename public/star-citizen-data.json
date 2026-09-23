@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T00:50:34.035Z",
+    "generatedAt": "2026-09-23T12:30:31.916Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -2179,10 +2179,18 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
+        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "pyro"
+        "aberdeen",
+        "arial",
+        "daymar",
+        "wala",
+        "lyria",
+        "magda",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
