@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-23T12:28:53.594Z"
+    "fetchedAt": "2026-09-24T00:50:20.175Z"
   },
   "systems": [],
   "locations": [
@@ -1359,7 +1359,7 @@
     {
       "name": "Hadanite",
       "slug": "hadanite",
-      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids.\n\n\n== Description ==\n\n\n== Acquisition ==\n\n\n== Crafting ==\nNot used as an ingredient in any known crafting recipe.\n\n\n== Related ==\n\n\n== Harvest locations ==\n\n\n== Gallery ==\n\n\n== Trivia ==\nDuring PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node.\n\n\n== References ==",
+      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids.\n\n\n== Description ==\n\n\n== Acquisition ==\n\n\n== Crafting ==\n\n\n== Related ==\n\n\n== Harvest locations ==\n\n\n== Gallery ==\n\n\n== Trivia ==\nDuring PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node.\n\n\n== References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.85,
       "environments": [
@@ -1371,7 +1371,7 @@
     {
       "name": "Janalite",
       "slug": "janalite",
-      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits.\n\n\n== Description ==\n\n\n== Acquisition ==\n\n\n== Crafting ==\nNot used as an ingredient in any known crafting recipe.\n\n\n== Related ==\n\n\n== Harvest locations ==\n\n\n== Development ==\n\n\n== References ==",
+      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits.\n\n\n== Description ==\n\n\n== Acquisition ==\n\n\n== Crafting ==\n\n\n== Related ==\n\n\n== Harvest locations ==\n\n\n== Development ==\n\n\n== References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.9,
       "environments": [
@@ -1394,7 +1394,7 @@
     {
       "name": "Hadanite",
       "slug": "hadanite",
-      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Gallery == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
+      "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Acquisition == == Crafting == == Related == == Harvest locations == == Gallery == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -1417,7 +1417,7 @@
     {
       "name": "Aphorite",
       "slug": "aphorite",
-      "description": "Aphorite is a mineral hand-mined for its low instability. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
+      "description": "Aphorite is a mineral hand-mined for its low instability. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -1440,7 +1440,7 @@
     {
       "name": "Dolivine",
       "slug": "dolivine",
-      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
+      "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -1463,7 +1463,7 @@
     {
       "name": "Janalite",
       "slug": "janalite",
-      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Development == == References ==",
+      "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Acquisition == == Crafting == == Related == == Harvest locations == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [],
@@ -1580,15 +1580,15 @@
         "area18",
         "new_babbage",
         "lorville",
-        "everus_harbor",
-        "baijini_point",
-        "port_tressler",
         "arc_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
         "microtech",
-        "pyro"
+        "pyro",
+        "pyro-1",
+        "ruin-station",
+        "terminus"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1597,7 +1597,7 @@
     {
       "name": "Diamond",
       "slug": "diamond",
-      "description": "Diamond is a mineral. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
+      "description": "Diamond is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
@@ -1647,6 +1647,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -1727,6 +1728,7 @@
         "new_babbage",
         "lorville",
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",

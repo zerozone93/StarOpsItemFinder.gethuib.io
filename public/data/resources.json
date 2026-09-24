@@ -2,7 +2,7 @@
   {
     "name": "Hadanite",
     "slug": "hadanite",
-    "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Gallery == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
+    "description": "Hadanite is a pinkish purple colored mineral found in small-scale rock deposits. Some deposits can be mined with a handheld mining tool, while others need at least the power of a size 0 mining laser. It can be found on both planetary surfaces or attached to asteroids. == Description == == Acquisition == == Crafting == == Related == == Harvest locations == == Gallery == == Trivia == During PTU Alpha 3.15.0 there was a bug that allow players turn dropped ore into a mining node. == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "environments": [
@@ -32,7 +32,7 @@
   {
     "name": "Janalite",
     "slug": "janalite",
-    "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Harvest locations == == Development == == References ==",
+    "description": "Janalite is an extremely rare and valuable mineral found in small-scale rock deposits. == Description == == Acquisition == == Crafting == == Related == == Harvest locations == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "environments": [
@@ -65,7 +65,7 @@
   {
     "name": "Aphorite",
     "slug": "aphorite",
-    "description": "Aphorite is a mineral hand-mined for its low instability. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
+    "description": "Aphorite is a mineral hand-mined for its low instability. == Description == == Acquisition == == Crafting == == Related == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -91,7 +91,7 @@
   {
     "name": "Dolivine",
     "slug": "dolivine",
-    "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
+    "description": "Dolivine is a green mineral gemstone mined by hand. == Description == == Acquisition == == Crafting == == Related == == Lore == Dolivine came to prominence as a gemstone after Imperator Illyana Messer VI wore a 45 carat dolivine brooch to her niece Astrid’s wedding in 2690. == Gallery == == Development == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -238,15 +238,15 @@
       "area18",
       "new_babbage",
       "lorville",
-      "everus_harbor",
-      "baijini_point",
-      "port_tressler",
       "arc_l1",
       "hur_l1",
       "hur_l2",
       "mic_l1",
       "microtech",
-      "pyro"
+      "pyro",
+      "pyro-1",
+      "ruin-station",
+      "terminus"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -258,7 +258,7 @@
   {
     "name": "Diamond",
     "slug": "diamond",
-    "description": "Diamond is a mineral. == Description == == Acquisition == == Crafting == Not used as an ingredient in any known crafting recipe. == Related == == References ==",
+    "description": "Diamond is a mineral. == Description == == Acquisition == == Crafting == == Related == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
@@ -314,6 +314,7 @@
     "knownLocations": [
       "new_babbage",
       "lorville",
+      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l5",
@@ -406,6 +407,7 @@
       "new_babbage",
       "lorville",
       "arc_l1",
+      "cru_l4",
       "hur_l1",
       "hur_l2",
       "hur_l4",
