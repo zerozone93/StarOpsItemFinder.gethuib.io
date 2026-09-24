@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-24T00:50:20.175Z"
+    "fetchedAt": "2026-09-24T12:29:02.890Z"
   },
   "systems": [],
   "locations": [
@@ -1709,7 +1709,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
