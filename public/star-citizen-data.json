@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T12:30:42.463Z",
+    "generatedAt": "2026-09-25T12:30:45.792Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1934,6 +1934,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1991,7 +1992,8 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
+        "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2017,7 +2019,8 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
+        "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2110,7 +2113,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2135,7 +2137,6 @@
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -2155,15 +2156,15 @@
         "area18",
         "new_babbage",
         "lorville",
+        "everus_harbor",
+        "baijini_point",
+        "port_tressler",
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
-        "microtech",
-        "pyro",
-        "pyro-1",
-        "ruin-station",
-        "terminus"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -2208,6 +2209,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",
@@ -2231,6 +2233,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "cru_l4",
         "hur_l1",
         "hur_l2",
@@ -2323,10 +2326,8 @@
         "new_babbage",
         "lorville",
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -2373,7 +2374,8 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",

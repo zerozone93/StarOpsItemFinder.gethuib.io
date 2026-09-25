@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-24T12:30:42.294Z",
+    "generatedAt": "2026-09-25T12:30:45.655Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-24T12:27:51.931Z",
+        "fetchedAt": "2026-09-25T12:28:05.801Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-24T12:29:02.890Z",
+        "fetchedAt": "2026-09-25T12:29:06.146Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-24T12:29:02.897Z",
+        "fetchedAt": "2026-09-25T12:29:06.149Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-24T12:29:02.898Z",
+        "fetchedAt": "2026-09-25T12:29:06.152Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-24T12:29:04.632Z",
+        "fetchedAt": "2026-09-25T12:29:07.549Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-24T12:30:42.292Z",
+        "fetchedAt": "2026-09-25T12:30:45.649Z",
         "skipped": false
       }
     ],
@@ -2120,6 +2120,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2177,7 +2178,8 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
+        "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2203,7 +2205,8 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l2",
+        "arc_l3",
+        "arc_l5",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -2296,7 +2299,6 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -2321,7 +2323,6 @@
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5"
       ],
       "purchaseLocations": [],
@@ -2341,15 +2342,15 @@
         "area18",
         "new_babbage",
         "lorville",
+        "everus_harbor",
+        "baijini_point",
+        "port_tressler",
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l5",
         "mic_l1",
-        "microtech",
-        "pyro",
-        "pyro-1",
-        "ruin-station",
-        "terminus"
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -2394,6 +2395,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "hur_l2",
         "microtech",
         "pyro",
@@ -2417,6 +2419,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "cru_l4",
         "hur_l1",
         "hur_l2",
@@ -2509,10 +2512,8 @@
         "new_babbage",
         "lorville",
         "arc_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l4",
         "hur_l5",
         "microtech"
       ],
@@ -2559,7 +2560,8 @@
         "hur_l5",
         "mic_l1",
         "daymar",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
