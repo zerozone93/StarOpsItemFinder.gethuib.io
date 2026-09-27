@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-09-25T12:29:06.146Z"
+    "fetchedAt": "2026-09-27T00:59:46.512Z"
   },
   "systems": [],
   "locations": [
@@ -31,98 +31,98 @@
     {
       "name": "Seraphim Station",
       "slug": "seraphim-station",
-      "description": "Seraphim Station is a R&R-owned space station located in the trade lanes above Crusader, offering breathtaking views of the planet below. It is named after Seraphim Systems, a former shuttlecraft manufacturer based in Tram, which was purchased by August Dunlow and then rebranded as Crusader Industries. == Trade data == == Vehicle rental == Players are able to rent a selection of vehicles from the Cargo Center. Available rental ships: == Gallery == == Development == == References ==",
+      "description": "Seraphim Station is a R&R-owned space station located in the trade lanes above Crusader, offering breathtaking views of the planet below. It is named after Seraphim Systems, a former shuttlecraft manufacturer based in Tram, which was purchased by August Dunlow and then rebranded as Crusader Industries. == Services and shops == === Services === Administration Office Cargo Deck EZ Hab Kel-To Medical Clinic Ship rentals Ship repair & refueling === Shops === Casaba Outlet Food court Live Fire Weapons Personal armor Pizza shop Ship weapons == Trade data == == Vehicle rental == Players are able to rent a selection of vehicles from the Cargo Center. Available rental ships: == Gallery == == Development == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "Everus Harbor",
       "slug": "everus-harbor",
-      "description": "Everus Harbor is a space station that is in a geostationary orbit around Hurston above the city of Lorville. It serves as the primary trading port for Lorville. It is owned and operated by Hurston Dynamics. Hurston's primary port of call for Lorville for all large-scale incoming and outgoing cargo. Everus Harbor has been outfitted with a handful of amenities for capital ships and travelers looking for a quick stopover before heading down to the planet surface. == Trade data == == Vehicle Rental (Cargo Center) == Everus Harbor features a Travelers Rental terminal within the Cargo Center. The terminal is adjacent to the Cargo Supplies storefront. From this terminal, players are able to rent a selection of ships. Prices are in aUEC. When renting for more than one day, the rate is not flat. The more days you rent, the lower the average cost is per day. The discount follows this pattern: == C",
+      "description": "Everus Harbor is a space station that is in a geostationary orbit around Hurston above the city of Lorville. It serves as the primary trading port for Lorville. It is owned and operated by Hurston Dynamics. Hurston's primary port of call for Lorville for all large-scale incoming and outgoing cargo. Everus Harbor has been outfitted with a handful of amenities for capital ships and travelers looking for a quick stopover before heading down to the planet surface. == Services and shops == === Services === Commodity trading Delivery handling Repair, rearm & refuel Ship spawning === Shops === Armor Shop Cargo Services Casaba Outlet Platinum Bay Traveler Rentals == Trade data == == Vehicle Rental (Cargo Center) == Everus Harbor features a Travelers Rental terminal within the Cargo Center. The terminal is adjacent to the Cargo Supplies storefront. From this terminal, players are able to rent a s",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "Baijini Point",
       "slug": "baijini-point",
-      "description": "Baijini Point is a space station in geostationary orbit around ArcCorp, located above Area18. == In-game description == The primary cargo and transfer point for ArcCorp. Perfect as a waypoint on your down or back from the surface, Baijini Point features plenty of amenities for travelers while also providing a top-tier loading/unloading system for capital ships that are unable to head down to the surface. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
+      "description": "Baijini Point is a space station in geostationary orbit around ArcCorp, located above Area18. == In-game description == The primary cargo and transfer point for ArcCorp. Perfect as a waypoint on your down or back from the surface, Baijini Point features plenty of amenities for travelers while also providing a top-tier loading/unloading system for capital ships that are unable to head down to the surface. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office Cargo Deck EZ Hab Kel-To Medical Clinic Ship rentals Ship repair & refueling === Shops === Bar Clothing Store Food Court Hot Dog Vendor Platinum Bay Ship Weapons ",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "Port Tressler",
       "slug": "port-tressler",
-      "description": "Port Tressler is a space station in geostationary orbit around planet microTech, located above New Babbage. Owned and operated by microTech, it is named after Aleena Tressler, who was a mentor to the company's founder, Magnus Tobin. == In-game description == Located in the trade lane above microTech, Port Tressler is the main transfer hub for New Babbage. Millions of SCU pass through this station everyday between exports from microTech and the other companies on the surface and the resources and trade coming in from the other systems. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Personal Armor, Clothing, Food, and Habs. == Trading == == Gallery == == References ==",
+      "description": "Port Tressler is a space station in geostationary orbit around planet microTech, located above New Babbage. Owned and operated by microTech, it is named after Aleena Tressler, who was a mentor to the company's founder, Magnus Tobin. == In-game description == Located in the trade lane above microTech, Port Tressler is the main transfer hub for New Babbage. Millions of SCU pass through this station everyday between exports from microTech and the other companies on the surface and the resources and trade coming in from the other systems. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Personal Armor, Clothing, Food, and Habs. == Services and shops == === Services === Administration Office Kel-To Medical Clinic EZ Hab Cargo Deck === Shops === Casaba Outlet Platinum Bay Bar Food Court Hot Dog Shop Armor Shop == Trading == == Gallery == == References ",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "ARC-L1 Wide Forest Station",
       "slug": "arc-l1-wide-forest-station",
-      "description": "ARC-L1 Wide Forest Station is a Rest Stop owned by Rest & Relax, located in ArcCorp's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of ArcCorp (Stanton III), Rest & Relax's Wide Forest Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Gallery == == References ==",
+      "description": "ARC-L1 Wide Forest Station is a Rest Stop owned by Rest & Relax, located in ArcCorp's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of ArcCorp (Stanton III), Rest & Relax's Wide Forest Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office Kel-To Medical Clinic EZ Hab Refinery Deck === Shops === Live Fire Weapons Platinum Bay Armor Store Bar Burrito Bar Food Court == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Gallery ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "ARC-L2 Lively Pathway Station",
       "slug": "arc-l2-lively-pathway-station",
-      "description": "ARC-L2 Lively Pathway Station is a Rest & Relax owned Rest Stop located in ArcCorp's L2 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space-weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments. == Visitor information == == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "description": "ARC-L2 Lively Pathway Station is a Rest & Relax owned Rest Stop located in ArcCorp's L2 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space-weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments. == Visitor information == == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic Mining Support Center Refinery Deck Ship rentals Ship repair & refueling === Shops === Bar Clothing Hotdogs Juice Pizza Ship Weapons == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "ARC-L3 Modern Express Station",
       "slug": "arc-l3-modern-express-station",
-      "description": "ARC-L3 Modern Express Station is a Rest & Relax owned Rest Stop located in ArcCorp's L3 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "description": "ARC-L3 Modern Express Station is a Rest & Relax owned Rest Stop located in ArcCorp's L3 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments == Services and shops == === Services === Administration Office EZ Hab === Shops === Clothing Pizza Ship Weapons == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "ARC-L5 Yellow Core Station",
       "slug": "arc-l5-yellow-core-station",
-      "description": "ARC-L5 Yellow Core Station is a Rest & Relax owned Rest Stop located in ArcCorp's L5 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space-weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments. == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "description": "ARC-L5 Yellow Core Station is a Rest & Relax owned Rest Stop located in ArcCorp's L5 Lagrangian point. == In-game description == Owned and operated by Rest & Relax, this station offers plenty of amenities for space-weary travelers. Besides being able to restock and refuel their ships, visitors can rest up and find several shops to peruse for provisions and refreshments. == Services and shops == === Services === Administration Office Kel-To Medical Clinic EZ Hab === Shops === Bar Burrito Bar Clothing store Hotdog shop Noodle Bar Ship weapons shop == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "CRU-L1 Ambitious Dream Station",
       "slug": "cru-l1-ambitious-dream-station",
-      "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
+      "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic Refinery Deck === Shops === Armor Shop Bar Food Court Juice Bar Live Fire Weapons Platinum Bay == Trading == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "CRU-L5 Beautiful Glen Station",
       "slug": "cru-l5-beautiful-glen-station",
-      "description": "CRU-L5 Beautiful Glen Station is a Rest & Relax owned Rest Stop located in Crusader's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Crusader (Stanton II), Rest & Relax's Beautiful Glen Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading Info == Last updated with info from patch 3.21.1. ==== Black Market ==== ==== Admin ==== == Development == Since Alpha 3.8.0, the quantum travel marker for the space station has been removed. The best way to access it is to fly towards the biggest rock and you will eventually see the station. == Gallery =",
+      "description": "CRU-L5 Beautiful Glen Station is a Rest & Relax owned Rest Stop located in Crusader's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Crusader (Stanton II), Rest & Relax's Beautiful Glen Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic === Shops === Bar Black Market Hot Dog Shop Juice Bar Live Fire Weapons Noodle Bar Platinum Bay Ship Weapons Shop == Trading Info == Last updated with info from patch 3.21.1. ==== Black Market ==== ==== Admin ==== == Develop",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "HUR-L2 Faithful Dream Station",
       "slug": "hur-l2-faithful-dream-station",
-      "description": "HUR-L2 Faithful Dream Station is a Rest & Relax owned Rest Stop located in Hurston's L2 Lagrangian point. == In-game description == Located at the L2 Lagrange point of Hurston (Stanton I), Rest & Relax's Faithful Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Nearby Mining Resources == The asteroids at HUR-L2 are composed of the following raw elements: == Gallery == == References ==",
+      "description": "HUR-L2 Faithful Dream Station is a Rest & Relax owned Rest Stop located in Hurston's L2 Lagrangian point. == In-game description == Located at the L2 Lagrange point of Hurston (Stanton I), Rest & Relax's Faithful Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic Mining Support Center Refinery Deck Ship rentals Ship repair & refueling === Shops === Bar Live Fire Weapons Noodle Bar Pizza Shop Platinum Bay Ship Weapons == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Nearby Mining Resources == The asteroids at HUR-L2 are composed of the following raw elements: == Gall",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "HUR-L4 Melodic Fields Station",
       "slug": "hur-l4-melodic-fields-station",
-      "description": "HUR-L4 Melodic Fields Station is a Rest & Relax owned Rest Stop located in Hurston's L4 Lagrangian point. == In-game description == Located at the L4 Lagrange point of Hurston (Stanton I), Rest & Relax's Melodic Fields Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Nearby Mining Resources == The asteroids at HUR-L4 are composed of the following raw elements: == Gallery == == References ==",
+      "description": "HUR-L4 Melodic Fields Station is a Rest & Relax owned Rest Stop located in Hurston's L4 Lagrangian point. == In-game description == Located at the L4 Lagrange point of Hurston (Stanton I), Rest & Relax's Melodic Fields Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic Ship repair & refueling === Shops === Bar Casaba Outlet Juice Bar Live Fire Weapons Pizza Shop Ship Weapons == Trading == == Nearby Mining Resources == The asteroids at HUR-L4 are composed of the following raw elements: == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "HUR-L5 High Course Station",
       "slug": "hur-l5-high-course-station",
-      "description": "HUR-L5 High Course Station is a Rest & Relax owned Rest Stop located in Hurston's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Hurston (Stanton I), Rest & Relax's High Course Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Trading == == Nearby Mining Resources == The asteroids at HUR-L5 are composed of the following raw elements: == Gallery == == References ==",
+      "description": "HUR-L5 High Course Station is a Rest & Relax owned Rest Stop located in Hurston's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Hurston (Stanton I), Rest & Relax's High Course Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Services and shops == === Services === Administration Office Kel-To Medical Clinic EZ Hab === Shops === Live Fire Weapons Platinum Bay Bar Hot Dog Shop Noodle Bar == Trading == == Nearby Mining Resources == The asteroids at HUR-L5 are composed of the following raw elements: == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
     {
       "name": "MIC-L3 Endless Odyssey Station",
       "slug": "mic-l3-endless-odyssey-station",
-      "description": "MIC-L3 Endless Odyssey Station is a Rest & Relax owned Rest Stop located in microTech's L3 Lagrangian point. == In-game description == Located at the L3 Lagrange point of microTech (Stanton IV), Rest & Relax's Endless Odyssey Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
+      "description": "MIC-L3 Endless Odyssey Station is a Rest & Relax owned Rest Stop located in microTech's L3 Lagrangian point. == In-game description == Located at the L3 Lagrange point of microTech (Stanton IV), Rest & Relax's Endless Odyssey Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Food, a Clinic, and Habs. == Services and shops == === Services === Administration Office Kel-To Medical Clinic EZ Hab === Shops === Live Fire Weapons Ship Weapons Shop == Trading == == Development == The space station was added to the Stanton system in the Alpha 3.17.2 update. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74
     },
@@ -197,18 +197,6 @@
       "confidenceScore": 0.74
     },
     {
-      "name": "Adira Falls",
-      "slug": "adira-falls",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Administration Office",
-      "slug": "administration-office",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Ambulance pad",
       "slug": "ambulance-pad",
       "verificationStatus": "community_verified",
@@ -233,164 +221,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "ARC-L1 Wide Forest Station",
-      "slug": "arc-l1-wide-forest-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ARC-L2 Lively Pathway Station",
-      "slug": "arc-l2-lively-pathway-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ARC-L3 Modern Express Station",
-      "slug": "arc-l3-modern-express-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ARC-L4 Faint Glen Station",
-      "slug": "arc-l4-faint-glen-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ARC-L5 Yellow Core Station",
-      "slug": "arc-l5-yellow-core-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp Mining Area 045",
-      "slug": "arccorp-mining-area-045",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp Mining Area 048",
-      "slug": "arccorp-mining-area-048",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp Mining Area 056",
-      "slug": "arccorp-mining-area-056",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp Mining Area 061",
-      "slug": "arccorp-mining-area-061",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp Mining Area 141",
-      "slug": "arccorp-mining-area-141",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "ArcCorp Mining Area 157",
-      "slug": "arccorp-mining-area-157",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Archangel Station",
-      "slug": "archangel-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Archibald Station",
-      "slug": "archibald-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Archon Base",
-      "slug": "archon-base",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Area18",
-      "slug": "area18",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Ashburn Channel Aid Shelter",
-      "slug": "ashburn-channel-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Asiatica",
       "slug": "asiatica",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Aspire Grand",
-      "slug": "aspire-grand",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Aston Ridge Aid Shelter",
-      "slug": "aston-ridge-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Attritus OLP",
-      "slug": "attritus-olp",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Attritus PAF-I",
-      "slug": "attritus-paf-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Attritus PAF-II",
-      "slug": "attritus-paf-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Attritus PAF-III",
-      "slug": "attritus-paf-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "August Dunlow Spaceport",
-      "slug": "august-dunlow-spaceport",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Aydo",
-      "slug": "aydo",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bacchus Flotilla",
-      "slug": "bacchus-flotilla",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Baijini Point",
-      "slug": "baijini-point",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -401,74 +233,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Barton Flats Aid Shelter",
-      "slug": "barton-flats-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Benny Henge",
       "slug": "benny-henge",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Benson Mining Outpost",
-      "slug": "benson-mining-outpost",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bethor",
-      "slug": "bethor",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bevic Convention Center",
-      "slug": "bevic-convention-center",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bountiful Harvest Hydroponics",
-      "slug": "bountiful-harvest-hydroponics",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Brentworth Care Center (New Babbage)",
-      "slug": "brentworth-care-center-new-babbage",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Brio's Breaker Yard",
-      "slug": "brio-s-breaker-yard",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Bud's Growery",
-      "slug": "bud-s-growery",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Buloi Sataball Arena",
-      "slug": "buloi-sataball-arena",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Café Musain",
-      "slug": "caf-musain",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Calhoun Pass Emergency Shelter",
-      "slug": "calhoun-pass-emergency-shelter",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -479,32 +245,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Casselean",
-      "slug": "casselean",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Central Business District (Lorville)",
       "slug": "central-business-district-lorville",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Chairman's Club Lounge (Lorville)",
-      "slug": "chairman-s-club-lounge-lorville",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Chairman's Club Lounge (Orison)",
-      "slug": "chairman-s-club-lounge-orison",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Char",
-      "slug": "char",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -515,116 +257,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Clear View Emergency Shelter",
-      "slug": "clear-view-emergency-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Cloudview Center",
-      "slug": "cloudview-center",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Cologne",
       "slug": "cologne",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST1-02",
-      "slug": "comm-array-st1-02",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST1-13",
-      "slug": "comm-array-st1-13",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST1-48",
-      "slug": "comm-array-st1-48",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST1-61",
-      "slug": "comm-array-st1-61",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST1-92",
-      "slug": "comm-array-st1-92",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST2-28",
-      "slug": "comm-array-st2-28",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST2-47",
-      "slug": "comm-array-st2-47",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST2-55",
-      "slug": "comm-array-st2-55",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST2-76",
-      "slug": "comm-array-st2-76",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST3-18",
-      "slug": "comm-array-st3-18",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST3-35",
-      "slug": "comm-array-st3-35",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST3-90",
-      "slug": "comm-array-st3-90",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST4-22",
-      "slug": "comm-array-st4-22",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST4-31",
-      "slug": "comm-array-st4-31",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST4-59",
-      "slug": "comm-array-st4-59",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Comm Array ST4-64",
-      "slug": "comm-array-st4-64",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -637,24 +271,6 @@
     {
       "name": "Covalex Hub Gundo",
       "slug": "covalex-hub-gundo",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "CRU-L1 Ambitious Dream Station",
-      "slug": "cru-l1-ambitious-dream-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "CRU-L4 Shallow Fields Station",
-      "slug": "cru-l4-shallow-fields-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "CRU-L5 Beautiful Glen Station",
-      "slug": "cru-l5-beautiful-glen-station",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -677,56 +293,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Deakins Research Outpost",
-      "slug": "deakins-research-outpost",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Desmond Memorial Convention Center",
-      "slug": "desmond-memorial-convention-center",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Devlin Scrap & Salvage",
-      "slug": "devlin-scrap-salvage",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Downed Relay AC-652",
       "slug": "downed-relay-ac-652",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Dudley & Daughters",
-      "slug": "dudley-daughters",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Dunlow Ridge Aid Shelter",
-      "slug": "dunlow-ridge-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Eager Flats Aid Shelter",
-      "slug": "eager-flats-aid-shelter",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Echo Eleven",
-      "slug": "echo-eleven",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Elsewhere",
-      "slug": "elsewhere",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -737,74 +305,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Encole Station",
-      "slug": "encole-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Endgame",
-      "slug": "endgame",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Eri City",
-      "slug": "eri-city",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Esperia Boneyard",
       "slug": "esperia-boneyard",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Everus Harbor",
-      "slug": "everus-harbor",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Farro Data Center I",
-      "slug": "farro-data-center-i",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Farro Data Center II",
-      "slug": "farro-data-center-ii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Farro Data Center III",
-      "slug": "farro-data-center-iii",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Farro Data Center IV",
-      "slug": "farro-data-center-iv",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Farro Data Center IX",
-      "slug": "farro-data-center-ix",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Farro Data Center V",
-      "slug": "farro-data-center-v",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Flanagan's Ravine Aid Shelter",
-      "slug": "flanagan-s-ravine-aid-shelter",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -827,84 +329,6 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Front Row",
-      "slug": "front-row",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Frostbite",
-      "slug": "frostbite",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Fujin City",
-      "slug": "fujin-city",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "G-Loc Bar",
-      "slug": "g-loc-bar",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Gallete Family Farms",
-      "slug": "gallete-family-farms",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Gaslight",
-      "slug": "gaslight",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Gemma",
-      "slug": "gemma",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "GIO",
-      "slug": "gio",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Grand Barter Bazaar",
-      "slug": "grand-barter-bazaar",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Green Imperial Medical",
-      "slug": "green-imperial-medical",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Greencircle Habitation",
-      "slug": "greencircle-habitation",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Grim HEX",
-      "slug": "grim-hex",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Haven",
-      "slug": "haven",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "HDES-Calthrope",
       "slug": "hdes-calthrope",
       "verificationStatus": "community_verified",
@@ -917,236 +341,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "HDMS-Anderson",
-      "slug": "hdms-anderson",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Bezdek",
-      "slug": "hdms-bezdek",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Edmond",
-      "slug": "hdms-edmond",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Hadley",
-      "slug": "hdms-hadley",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Hahn",
-      "slug": "hdms-hahn",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Lathan",
-      "slug": "hdms-lathan",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Norgaard",
-      "slug": "hdms-norgaard",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Oparei",
-      "slug": "hdms-oparei",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Perlman",
-      "slug": "hdms-perlman",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Pinewood",
-      "slug": "hdms-pinewood",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Ryder",
-      "slug": "hdms-ryder",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Stanhope",
-      "slug": "hdms-stanhope",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Thedus",
-      "slug": "hdms-thedus",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDMS-Woodruff",
-      "slug": "hdms-woodruff",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDPC-Farnesway",
-      "slug": "hdpc-farnesway",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Adlai",
-      "slug": "hdsf-adlai",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Barnabas",
-      "slug": "hdsf-barnabas",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Breckinridge",
-      "slug": "hdsf-breckinridge",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Colfax",
-      "slug": "hdsf-colfax",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Damaris",
-      "slug": "hdsf-damaris",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Elbridge",
-      "slug": "hdsf-elbridge",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Hendricks",
-      "slug": "hdsf-hendricks",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Hiram",
-      "slug": "hdsf-hiram",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Hobart",
-      "slug": "hdsf-hobart",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Ishmael",
-      "slug": "hdsf-ishmael",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Millerand",
-      "slug": "hdsf-millerand",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Rufus",
-      "slug": "hdsf-rufus",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Sherman",
-      "slug": "hdsf-sherman",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Tamar",
-      "slug": "hdsf-tamar",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Tompkins",
-      "slug": "hdsf-tompkins",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HDSF-Zacharias",
-      "slug": "hdsf-zacharias",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Hickes Research Outpost",
-      "slug": "hickes-research-outpost",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "Hospital",
       "slug": "hospital",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "Humboldt Mines",
-      "slug": "humboldt-mines",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HUR-L1 Green Glade Station",
-      "slug": "hur-l1-green-glade-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HUR-L2 Faithful Dream Station",
-      "slug": "hur-l2-faithful-dream-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HUR-L3 Thundering Express Station",
-      "slug": "hur-l3-thundering-express-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HUR-L4 Melodic Fields Station",
-      "slug": "hur-l4-melodic-fields-station",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "HUR-L5 High Course Station",
-      "slug": "hur-l5-high-course-station",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1163,20 +359,8 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "IAS Hammett",
-      "slug": "ias-hammett",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "ICC ScanHub Stanton",
       "slug": "icc-scanhub-stanton",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "IMS Bolliver",
-      "slug": "ims-bolliver",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1193,38 +377,14 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "INS Dunleavy",
-      "slug": "ins-dunleavy",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "INS Flavus",
       "slug": "ins-flavus",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "INS Hephaestus",
-      "slug": "ins-hephaestus",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "INS Jericho",
-      "slug": "ins-jericho",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "INS Malcolm",
       "slug": "ins-malcolm",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
-      "name": "INS Reilly",
-      "slug": "ins-reilly",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1241,38 +401,254 @@
       "confidenceScore": 0.68
     },
     {
-      "name": "Invictus Base",
-      "slug": "invictus-base",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68
-    },
-    {
       "name": "IO-North tower",
       "slug": "io-north-tower",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Jackson's Swap",
-      "slug": "jackson-s-swap",
+      "name": "Khanos Stadium",
+      "slug": "khanos-stadium",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Jata",
-      "slug": "jata",
+      "name": "Kudre Ore Mine",
+      "slug": "kudre-ore-mine",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Julep Ravine Aid Shelter",
-      "slug": "julep-ravine-aid-shelter",
+      "name": "Kutaram",
+      "slug": "kutaram",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
     {
-      "name": "Jumptown",
-      "slug": "jumptown",
+      "name": "Leavsden Square",
+      "slug": "leavsden-square",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "List of Stanton locations",
+      "slug": "list-of-stanton-locations",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Lorville Outskirts",
+      "slug": "lorville-outskirts",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Magnus Gateway",
+      "slug": "magnus-gateway",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Mercy Hospital",
+      "slug": "mercy-hospital",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Miner’s Lament",
+      "slug": "miner-s-lament",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "MT OpCenter TLI-4",
+      "slug": "mt-opcenter-tli-4",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Mōhio Museum",
+      "slug": "m-hio-museum",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Nessa Park",
+      "slug": "nessa-park",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Nova Kyiv",
+      "slug": "nova-kyiv",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "OB Heller",
+      "slug": "ob-heller",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Olympus Pool",
+      "slug": "olympus-pool",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Operations Depot Lyria",
+      "slug": "operations-depot-lyria",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Pharmacy",
+      "slug": "pharmacy",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Phiyi Tower",
+      "slug": "phiyi-tower",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Player hab",
+      "slug": "player-hab",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Port Olisar",
+      "slug": "port-olisar",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "PYAM-EXHANG-0-1",
+      "slug": "pyam-exhang-0-1",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Rayari Livengood Research Outpost",
+      "slug": "rayari-livengood-research-outpost",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Reclamation & Disposal",
+      "slug": "reclamation-disposal",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Refinery Deck",
+      "slug": "refinery-deck",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Rest Stop",
+      "slug": "rest-stop",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Shoel",
+      "slug": "shoel",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Sightseeing and Travel Guide",
+      "slug": "sightseeing-and-travel-guide",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Starlight Service Station",
+      "slug": "starlight-service-station",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Test Facility Octagon",
+      "slug": "test-facility-octagon",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "The Blocks",
+      "slug": "the-blocks",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "The Commons (New Babbage)",
+      "slug": "the-commons-new-babbage",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "The Factory Line",
+      "slug": "the-factory-line",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "The Good Doctor",
+      "slug": "the-good-doctor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "The Pit",
+      "slug": "the-pit",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Vanduul Attack",
+      "slug": "vanduul-attack",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Vastac",
+      "slug": "vastac",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Vision Center",
+      "slug": "vision-center",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Wheeler's",
+      "slug": "wheeler-s",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Wikelo Emporium",
+      "slug": "wikelo-emporium",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Xenia Shipping Hub",
+      "slug": "xenia-shipping-hub",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Yadar Valley",
+      "slug": "yadar-valley",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },
@@ -1404,7 +780,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l5",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1427,8 +803,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l3",
-        "arc_l5",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1451,8 +826,7 @@
         "baijini_point",
         "port_tressler",
         "arc_l1",
-        "arc_l3",
-        "arc_l5",
+        "arc_l2",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1578,18 +952,18 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "area18",
         "new_babbage",
         "lorville",
-        "everus_harbor",
-        "baijini_point",
-        "port_tressler",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
-        "microtech"
+        "microtech",
+        "pyro",
+        "pyro-1",
+        "ruin-station",
+        "terminus",
+        "bloom"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1602,18 +976,10 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "area18",
-        "new_babbage",
         "lorville",
         "grimhex",
         "arc_l1",
-        "aberdeen",
-        "arial",
-        "daymar",
-        "wala",
-        "lyria",
-        "magda",
-        "microtech"
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1690,6 +1056,7 @@
         "new_babbage",
         "lorville",
         "port_tressler",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1712,6 +1079,7 @@
         "arc_l1",
         "hur_l1",
         "hur_l2",
+        "hur_l4",
         "hur_l5",
         "mic_l1",
         "microtech"
@@ -1730,6 +1098,7 @@
         "new_babbage",
         "lorville",
         "arc_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -1771,7 +1140,6 @@
         "lorville",
         "hur_l5",
         "mic_l1",
-        "daymar",
         "microtech",
         "pyro"
       ],
