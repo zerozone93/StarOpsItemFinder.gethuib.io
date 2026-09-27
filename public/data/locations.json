@@ -52,7 +52,7 @@
   {
     "name": "Baijini Point",
     "slug": "baijini-point",
-    "description": "Baijini Point is a space station in geostationary orbit around ArcCorp, located above Area18. == In-game description == The primary cargo and transfer point for ArcCorp. Perfect as a waypoint on your down or back from the surface, Baijini Point features plenty of amenities for travelers while also providing a top-tier loading/unloading system for capital ships that are unable to head down to the surface. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office Cargo Deck EZ Hab Kel-To Medical Clinic Ship rentals Ship repair & refueling === Shops === Bar Clothing Store Food Court Hot Dog Vendor Platinum Bay Ship Weapons ",
+    "description": "Baijini Point is a space station in geostationary orbit around ArcCorp, located above Area18. == In-game description == The primary cargo and transfer point for ArcCorp. Perfect as a waypoint on your down or back from the surface, Baijini Point features plenty of amenities for travelers while also providing a top-tier loading/unloading system for capital ships that are unable to head down to the surface. Includes shops and services like: Refueling, Restocking, Cargo Transfers, Ship Components, Clothing, Food, and Habs. == Visitor information == === Stores & services === Also at the station: Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.74,
     "mergedSources": [
@@ -72,7 +72,7 @@
   {
     "name": "ARC-L1 Wide Forest Station",
     "slug": "arc-l1-wide-forest-station",
-    "description": "ARC-L1 Wide Forest Station is a Rest Stop owned by Rest & Relax, located in ArcCorp's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of ArcCorp (Stanton III), Rest & Relax's Wide Forest Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office Kel-To Medical Clinic EZ Hab Refinery Deck === Shops === Live Fire Weapons Platinum Bay Armor Store Bar Burrito Bar Food Court == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Gallery ==",
+    "description": "ARC-L1 Wide Forest Station is a Rest Stop owned by Rest & Relax, located in ArcCorp's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of ArcCorp (Stanton III), Rest & Relax's Wide Forest Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Visitor information == === Stores & services === Also at the station: Bar Burrito Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Refinery Services == === Mining Support Center === Last updated with information from Alpha 3.16.0 == Gallery == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.74,
     "mergedSources": [
@@ -112,7 +112,7 @@
   {
     "name": "CRU-L1 Ambitious Dream Station",
     "slug": "cru-l1-ambitious-dream-station",
-    "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic Refinery Deck === Shops === Armor Shop Bar Food Court Juice Bar Live Fire Weapons Platinum Bay == Trading == == Gallery == == References ==",
+    "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.74,
     "mergedSources": [
@@ -122,7 +122,7 @@
   {
     "name": "CRU-L5 Beautiful Glen Station",
     "slug": "cru-l5-beautiful-glen-station",
-    "description": "CRU-L5 Beautiful Glen Station is a Rest & Relax owned Rest Stop located in Crusader's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Crusader (Stanton II), Rest & Relax's Beautiful Glen Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Gas cloud composition == == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic === Shops === Bar Black Market Hot Dog Shop Juice Bar Live Fire Weapons Noodle Bar Platinum Bay Ship Weapons Shop == Trading Info == Last updated with info from patch 3.21.1. ==== Black Market ==== ==== Admin ==== == Develop",
+    "description": "CRU-L5 Beautiful Glen Station is a Rest & Relax owned Rest Stop located in Crusader's L5 Lagrangian point. == In-game description == Located at the L5 Lagrange point of Crusader (Stanton II), Rest & Relax's Beautiful Glen Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Gas cloud composition == == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading Info == Last updated with info from patch 3.21.1. ==== Black Market ==== ==== Admin ==== == Development == Since Alpha 3.8.0, the quantum travel marker for the space station has been removed. The best way to access it is to fly towards the biggest rock and you will event",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.74,
     "mergedSources": [
@@ -142,7 +142,7 @@
   {
     "name": "HUR-L4 Melodic Fields Station",
     "slug": "hur-l4-melodic-fields-station",
-    "description": "HUR-L4 Melodic Fields Station is a Rest & Relax owned Rest Stop located in Hurston's L4 Lagrangian point. == In-game description == Located at the L4 Lagrange point of Hurston (Stanton I), Rest & Relax's Melodic Fields Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Visitor information == === Stores & services === === Food & drink === Storable items can be kept within your personal storage and consumed later. == Services and shops == === Services === Administration Office EZ Hab Kel-To Medical Clinic Ship repair & refueling === Shops === Bar Casaba Outlet Juice Bar Live Fire Weapons Pizza Shop Ship Weapons == Trading == == Nearby Mining Resources == The asteroids at HUR-L4 are composed of the following raw elements: == Gallery == == References ==",
+    "description": "HUR-L4 Melodic Fields Station is a Rest & Relax owned Rest Stop located in Hurston's L4 Lagrangian point. == In-game description == Located at the L4 Lagrange point of Hurston (Stanton I), Rest & Relax's Melodic Fields Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Ship Weapons, Personal Weapons, Clothing, Food, and Habs. == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Nearby Mining Resources == The asteroids at HUR-L4 are composed of the following raw elements: == Gallery == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.74,
     "mergedSources": [
@@ -309,53 +309,8 @@
     ]
   },
   {
-    "name": "Asiatica",
-    "slug": "asiatica",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Banu Friendship Museum",
     "slug": "banu-friendship-museum",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Benny Henge",
-    "slug": "benny-henge",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Caplan Circuit",
-    "slug": "caplan-circuit",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Central Business District (Lorville)",
-    "slug": "central-business-district-lorville",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Checkmate Station",
-    "slug": "checkmate-station",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -381,53 +336,8 @@
     ]
   },
   {
-    "name": "Covalex Hub Gundo",
-    "slug": "covalex-hub-gundo",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Crusader Discovery Center",
-    "slug": "crusader-discovery-center",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Crusader Industries Showroom",
-    "slug": "crusader-industries-showroom",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Cry-Astro (stanton)",
     "slug": "cry-astro-stanton",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Downed Relay AC-652",
-    "slug": "downed-relay-ac-652",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Empire Health Services",
-    "slug": "empire-health-services",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -444,44 +354,8 @@
     ]
   },
   {
-    "name": "Fool's Run",
-    "slug": "fool-s-run",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Forge Quintus",
     "slug": "forge-quintus",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Fortune's Cross",
-    "slug": "fortune-s-cross",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "HDES-Calthrope",
-    "slug": "hdes-calthrope",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "HDMO-Dobbs",
-    "slug": "hdmo-dobbs",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -498,71 +372,8 @@
     ]
   },
   {
-    "name": "Hurston Dynamics Showcase",
-    "slug": "hurston-dynamics-showcase",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Hurston Security Station",
-    "slug": "hurston-security-station",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "ICC ScanHub Stanton",
-    "slug": "icc-scanhub-stanton",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Infinity Custom",
     "slug": "infinity-custom",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "INS Aniene",
-    "slug": "ins-aniene",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "INS Flavus",
-    "slug": "ins-flavus",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "INS Malcolm",
-    "slug": "ins-malcolm",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Inspiration Park",
-    "slug": "inspiration-park",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -579,26 +390,8 @@
     ]
   },
   {
-    "name": "IO-North tower",
-    "slug": "io-north-tower",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Khanos Stadium",
     "slug": "khanos-stadium",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Kudre Ore Mine",
-    "slug": "kudre-ore-mine",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -615,62 +408,8 @@
     ]
   },
   {
-    "name": "Leavsden Square",
-    "slug": "leavsden-square",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "List of Stanton locations",
     "slug": "list-of-stanton-locations",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Lorville Outskirts",
-    "slug": "lorville-outskirts",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Magnus Gateway",
-    "slug": "magnus-gateway",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Mercy Hospital",
-    "slug": "mercy-hospital",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Miner’s Lament",
-    "slug": "miner-s-lament",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "MT OpCenter TLI-4",
-    "slug": "mt-opcenter-tli-4",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -705,33 +444,6 @@
     ]
   },
   {
-    "name": "OB Heller",
-    "slug": "ob-heller",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Olympus Pool",
-    "slug": "olympus-pool",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Operations Depot Lyria",
-    "slug": "operations-depot-lyria",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Pharmacy",
     "slug": "pharmacy",
     "verificationStatus": "community_verified",
@@ -759,35 +471,8 @@
     ]
   },
   {
-    "name": "Port Olisar",
-    "slug": "port-olisar",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "PYAM-EXHANG-0-1",
     "slug": "pyam-exhang-0-1",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Rayari Livengood Research Outpost",
-    "slug": "rayari-livengood-research-outpost",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Reclamation & Disposal",
-    "slug": "reclamation-disposal",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -813,35 +498,8 @@
     ]
   },
   {
-    "name": "Shoel",
-    "slug": "shoel",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Sightseeing and Travel Guide",
     "slug": "sightseeing-and-travel-guide",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Starlight Service Station",
-    "slug": "starlight-service-station",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Test Facility Octagon",
-    "slug": "test-facility-octagon",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -867,15 +525,6 @@
     ]
   },
   {
-    "name": "The Factory Line",
-    "slug": "the-factory-line",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "The Good Doctor",
     "slug": "the-good-doctor",
     "verificationStatus": "community_verified",
@@ -885,44 +534,8 @@
     ]
   },
   {
-    "name": "The Pit",
-    "slug": "the-pit",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Vanduul Attack",
-    "slug": "vanduul-attack",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "Vastac",
     "slug": "vastac",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Vision Center",
-    "slug": "vision-center",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Wheeler's",
-    "slug": "wheeler-s",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
@@ -941,15 +554,6 @@
   {
     "name": "Xenia Shipping Hub",
     "slug": "xenia-shipping-hub",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
-    "name": "Yadar Valley",
-    "slug": "yadar-valley",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
