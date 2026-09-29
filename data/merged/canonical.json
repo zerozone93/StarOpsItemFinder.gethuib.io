@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-09-27T12:28:39.182Z",
+    "generatedAt": "2026-09-29T00:56:32.857Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-09-27T12:25:54.260Z",
+        "fetchedAt": "2026-09-29T00:53:36.026Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-09-27T12:27:00.394Z",
+        "fetchedAt": "2026-09-29T00:54:54.238Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-09-27T12:27:00.395Z",
+        "fetchedAt": "2026-09-29T00:54:54.246Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-09-27T12:27:00.396Z",
+        "fetchedAt": "2026-09-29T00:54:54.247Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-09-27T12:27:01.405Z",
+        "fetchedAt": "2026-09-29T00:54:55.139Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-09-27T12:28:39.180Z",
+        "fetchedAt": "2026-09-29T00:56:32.855Z",
         "skipped": false
       }
     ],
@@ -387,15 +387,6 @@
     {
       "name": "Banu Friendship Museum",
       "slug": "banu-friendship-museum",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cologne",
-      "slug": "cologne",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -930,10 +921,10 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -952,10 +943,10 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -1090,9 +1081,9 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro"
@@ -1114,6 +1105,7 @@
         "new_babbage",
         "lorville",
         "port_tressler",
+        "grimhex",
         "cru_l4",
         "hur_l1",
         "hur_l2",
@@ -1137,10 +1129,10 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -1160,6 +1152,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "cru_l4",
         "hur_l1",

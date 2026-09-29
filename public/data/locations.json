@@ -318,15 +318,6 @@
     ]
   },
   {
-    "name": "Cologne",
-    "slug": "cologne",
-    "verificationStatus": "community_verified",
-    "confidenceScore": 0.68,
-    "mergedSources": [
-      "starcitizentools"
-    ]
-  },
-  {
     "name": "CommArray SCC",
     "slug": "commarray-scc",
     "verificationStatus": "community_verified",

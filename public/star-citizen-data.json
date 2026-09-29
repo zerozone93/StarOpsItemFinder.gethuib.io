@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-27T12:28:39.333Z",
+    "generatedAt": "2026-09-29T00:56:33.033Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -321,15 +321,6 @@
     {
       "name": "Banu Friendship Museum",
       "slug": "banu-friendship-museum",
-      "verificationStatus": "community_verified",
-      "confidenceScore": 0.68,
-      "mergedSources": [
-        "starcitizentools"
-      ]
-    },
-    {
-      "name": "Cologne",
-      "slug": "cologne",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -864,10 +855,10 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -886,10 +877,10 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -1024,9 +1015,9 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech",
         "pyro"
@@ -1048,6 +1039,7 @@
         "new_babbage",
         "lorville",
         "port_tressler",
+        "grimhex",
         "cru_l4",
         "hur_l1",
         "hur_l2",
@@ -1071,10 +1063,10 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "mic_l1",
         "microtech"
       ],
@@ -1094,6 +1086,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "cru_l4",
         "hur_l1",
