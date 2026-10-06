@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-04T01:28:03.292Z",
+    "generatedAt": "2026-10-06T00:55:23.682Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -319,8 +319,35 @@
       ]
     },
     {
+      "name": "Astro Arena",
+      "slug": "astro-arena",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Aydo Polytechnic",
+      "slug": "aydo-polytechnic",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "name": "Banu Friendship Museum",
       "slug": "banu-friendship-museum",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Buloi Sataball Arena",
+      "slug": "buloi-sataball-arena",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -337,8 +364,26 @@
       ]
     },
     {
+      "name": "Corner Four",
+      "slug": "corner-four",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "name": "Cry-Astro (stanton)",
       "slug": "cry-astro-stanton",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Deep Space Scanning & AstroGraphical probe",
+      "slug": "deep-space-scanning-astrographical-probe",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [

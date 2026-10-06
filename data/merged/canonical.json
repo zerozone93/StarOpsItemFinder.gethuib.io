@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-10-04T01:28:03.139Z",
+    "generatedAt": "2026-10-06T00:55:23.511Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-10-04T01:25:12.550Z",
+        "fetchedAt": "2026-10-06T00:52:37.313Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-10-04T01:26:24.592Z",
+        "fetchedAt": "2026-10-06T00:53:44.790Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-10-04T01:26:24.593Z",
+        "fetchedAt": "2026-10-06T00:53:44.791Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-10-04T01:26:24.594Z",
+        "fetchedAt": "2026-10-06T00:53:44.792Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-10-04T01:26:25.612Z",
+        "fetchedAt": "2026-10-06T00:53:45.702Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-10-04T01:28:03.137Z",
+        "fetchedAt": "2026-10-06T00:55:23.510Z",
         "skipped": false
       }
     ],
@@ -385,8 +385,35 @@
       ]
     },
     {
+      "name": "Astro Arena",
+      "slug": "astro-arena",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Aydo Polytechnic",
+      "slug": "aydo-polytechnic",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "name": "Banu Friendship Museum",
       "slug": "banu-friendship-museum",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Buloi Sataball Arena",
+      "slug": "buloi-sataball-arena",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -403,8 +430,26 @@
       ]
     },
     {
+      "name": "Corner Four",
+      "slug": "corner-four",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "name": "Cry-Astro (stanton)",
       "slug": "cry-astro-stanton",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Deep Space Scanning & AstroGraphical probe",
+      "slug": "deep-space-scanning-astrographical-probe",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
