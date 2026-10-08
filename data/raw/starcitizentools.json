@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-10-06T12:29:50.947Z"
+    "fetchedAt": "2026-10-08T00:55:37.925Z"
   },
   "systems": [],
   "locations": [
@@ -819,7 +819,6 @@
         "lorville",
         "port_tressler",
         "grimhex",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-06T12:31:30.263Z",
+    "generatedAt": "2026-10-08T00:56:59.726Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1085,7 +1085,6 @@
         "lorville",
         "port_tressler",
         "grimhex",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1523,7 +1522,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
