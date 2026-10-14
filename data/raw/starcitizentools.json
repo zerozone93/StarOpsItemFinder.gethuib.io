@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-10-13T00:58:24.700Z"
+    "fetchedAt": "2026-10-14T00:46:26.970Z"
   },
   "systems": [],
   "locations": [
@@ -371,8 +371,20 @@
       "confidenceScore": 0.68
     },
     {
+      "name": "Saint Aerik's Hospital",
+      "slug": "saint-aerik-s-hospital",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
       "name": "Sightseeing and Travel Guide",
       "slug": "sightseeing-and-travel-guide",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Thaw",
+      "slug": "thaw",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },

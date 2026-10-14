@@ -534,8 +534,26 @@
     ]
   },
   {
+    "name": "Saint Aerik's Hospital",
+    "slug": "saint-aerik-s-hospital",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
     "name": "Sightseeing and Travel Guide",
     "slug": "sightseeing-and-travel-guide",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Thaw",
+    "slug": "thaw",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
