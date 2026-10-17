@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-10-16T00:46:08.587Z"
+    "fetchedAt": "2026-10-17T00:46:58.405Z"
   },
   "systems": [],
   "locations": [
@@ -750,10 +750,12 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "area18",
         "lorville",
         "grimhex",
         "arc_l1",
-        "pyro"
+        "pyro",
+        "adir"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",

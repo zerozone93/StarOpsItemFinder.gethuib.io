@@ -263,10 +263,12 @@
     "verificationStatus": "community_verified",
     "confidenceScore": 0.82,
     "knownLocations": [
+      "area18",
       "lorville",
       "grimhex",
       "arc_l1",
-      "pyro"
+      "pyro",
+      "adir"
     ],
     "purchaseLocations": [],
     "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
