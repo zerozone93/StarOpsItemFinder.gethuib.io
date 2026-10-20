@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-10-18T00:51:40.627Z"
+    "fetchedAt": "2026-10-20T00:48:22.486Z"
   },
   "systems": [],
   "locations": [
@@ -277,6 +277,18 @@
     {
       "name": "Forge Quintus",
       "slug": "forge-quintus",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Golden Horde",
+      "slug": "golden-horde",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Halloran Circuit",
+      "slug": "halloran-circuit",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },

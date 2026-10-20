@@ -399,6 +399,24 @@
     ]
   },
   {
+    "name": "Golden Horde",
+    "slug": "golden-horde",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Halloran Circuit",
+    "slug": "halloran-circuit",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
     "name": "Hospital",
     "slug": "hospital",
     "verificationStatus": "community_verified",
