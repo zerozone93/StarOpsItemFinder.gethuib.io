@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-23T00:49:26.258Z",
+    "generatedAt": "2026-10-25T00:52:47.959Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -400,6 +400,15 @@
       ]
     },
     {
+      "name": "Fikri Amphitheater",
+      "slug": "fikri-amphitheater",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "name": "Forge Quintus",
       "slug": "forge-quintus",
       "verificationStatus": "community_verified",
@@ -609,6 +618,15 @@
     {
       "name": "The Good Doctor",
       "slug": "the-good-doctor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "slug": "tokyo",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1553,7 +1571,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
@@ -1563,12 +1581,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [

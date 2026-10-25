@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-10-23T00:49:10.716Z"
+    "fetchedAt": "2026-10-25T00:51:26.218Z"
   },
   "systems": [],
   "locations": [
@@ -275,6 +275,12 @@
       "confidenceScore": 0.68
     },
     {
+      "name": "Fikri Amphitheater",
+      "slug": "fikri-amphitheater",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
       "name": "Forge Quintus",
       "slug": "forge-quintus",
       "verificationStatus": "community_verified",
@@ -415,6 +421,12 @@
     {
       "name": "The Good Doctor",
       "slug": "the-good-doctor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68
+    },
+    {
+      "name": "Tokyo",
+      "slug": "tokyo",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68
     },

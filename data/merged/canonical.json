@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-10-23T00:49:26.152Z",
+    "generatedAt": "2026-10-25T00:52:47.822Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-10-23T00:47:35.461Z",
+        "fetchedAt": "2026-10-25T00:50:23.032Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-10-23T00:49:10.716Z",
+        "fetchedAt": "2026-10-25T00:51:26.218Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-10-23T00:49:10.720Z",
+        "fetchedAt": "2026-10-25T00:51:26.220Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-10-23T00:49:10.721Z",
+        "fetchedAt": "2026-10-25T00:51:26.221Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-10-23T00:49:11.644Z",
+        "fetchedAt": "2026-10-25T00:51:27.290Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-10-23T00:49:26.151Z",
+        "fetchedAt": "2026-10-25T00:52:47.820Z",
         "skipped": false
       }
     ],
@@ -466,6 +466,15 @@
       ]
     },
     {
+      "name": "Fikri Amphitheater",
+      "slug": "fikri-amphitheater",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
       "name": "Forge Quintus",
       "slug": "forge-quintus",
       "verificationStatus": "community_verified",
@@ -675,6 +684,15 @@
     {
       "name": "The Good Doctor",
       "slug": "the-good-doctor",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "slug": "tokyo",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -1545,7 +1563,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
@@ -1555,12 +1573,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [

@@ -390,6 +390,15 @@
     ]
   },
   {
+    "name": "Fikri Amphitheater",
+    "slug": "fikri-amphitheater",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
     "name": "Forge Quintus",
     "slug": "forge-quintus",
     "verificationStatus": "community_verified",
@@ -599,6 +608,15 @@
   {
     "name": "The Good Doctor",
     "slug": "the-good-doctor",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Tokyo",
+    "slug": "tokyo",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
