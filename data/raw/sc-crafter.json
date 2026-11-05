@@ -2,7 +2,7 @@
   "meta": {
     "sourceKey": "sc-crafter",
     "sourceName": "SC Crafter",
-    "fetchedAt": "2026-11-03T00:32:20.104Z",
+    "fetchedAt": "2026-11-05T00:34:04.257Z",
     "priority": 55
   },
   "systems": [],
@@ -34,12 +34,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
         }
       ]
     }
