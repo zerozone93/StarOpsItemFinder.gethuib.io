@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-11-05T12:19:35.770Z",
+    "generatedAt": "2026-11-07T00:30:19.638Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-11-05T12:17:05.850Z",
+        "fetchedAt": "2026-11-07T00:28:44.814Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-11-05T12:18:12.920Z",
+        "fetchedAt": "2026-11-07T00:30:04.603Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-11-05T12:18:12.921Z",
+        "fetchedAt": "2026-11-07T00:30:04.607Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-11-05T12:18:12.922Z",
+        "fetchedAt": "2026-11-07T00:30:04.608Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-11-05T12:18:13.905Z",
+        "fetchedAt": "2026-11-07T00:30:05.829Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-11-05T12:19:35.769Z",
+        "fetchedAt": "2026-11-07T00:30:19.637Z",
         "skipped": false
       }
     ],
@@ -1563,7 +1563,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
@@ -1573,12 +1573,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [
