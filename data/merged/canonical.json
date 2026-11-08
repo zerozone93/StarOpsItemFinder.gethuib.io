@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-11-07T00:30:19.638Z",
+    "generatedAt": "2026-11-08T00:35:48.071Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-11-07T00:28:44.814Z",
+        "fetchedAt": "2026-11-08T00:33:47.412Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-11-07T00:30:04.603Z",
+        "fetchedAt": "2026-11-08T00:35:14.063Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-11-07T00:30:04.607Z",
+        "fetchedAt": "2026-11-08T00:35:14.069Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-11-07T00:30:04.608Z",
+        "fetchedAt": "2026-11-08T00:35:14.070Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-11-07T00:30:05.829Z",
+        "fetchedAt": "2026-11-08T00:35:15.574Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-11-07T00:30:19.637Z",
+        "fetchedAt": "2026-11-08T00:35:48.069Z",
         "skipped": false
       }
     ],
@@ -188,7 +188,7 @@
     {
       "name": "CRU-L1 Ambitious Dream Station",
       "slug": "cru-l1-ambitious-dream-station",
-      "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
+      "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Refinery Services == == Gallery == == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.74,
       "mergedSources": [
@@ -405,6 +405,15 @@
     {
       "name": "Banu Friendship Museum",
       "slug": "banu-friendship-museum",
+      "verificationStatus": "community_verified",
+      "confidenceScore": 0.68,
+      "mergedSources": [
+        "starcitizentools"
+      ]
+    },
+    {
+      "name": "Breytenbach Labs",
+      "slug": "breytenbach-labs",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.68,
       "mergedSources": [
@@ -867,11 +876,11 @@
         "port_tressler",
         "arc_l1",
         "arc_l2",
+        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
-        "daymar",
-        "microtech"
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg?qbjeg",
@@ -998,6 +1007,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "cru_l1",
         "hur_l1",
         "hur_l2",
         "hur_l4",
@@ -1023,7 +1033,7 @@
         "grimhex",
         "arc_l1",
         "hur_l1",
-        "hur_l2",
+        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -1044,6 +1054,7 @@
         "lorville",
         "grimhex",
         "arc_l1",
+        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1088,6 +1099,7 @@
         "new_babbage",
         "lorville",
         "arc_l1",
+        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1095,8 +1107,7 @@
         "pyro",
         "pyro-1",
         "ruin-station",
-        "terminus",
-        "bloom"
+        "terminus"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1134,7 +1145,7 @@
         "new_babbage",
         "lorville",
         "grimhex",
-        "hur_l2",
+        "cru_l1",
         "microtech",
         "pyro",
         "pyro-1",
@@ -1158,6 +1169,7 @@
         "new_babbage",
         "lorville",
         "grimhex",
+        "cru_l1",
         "cru_l4",
         "hur_l1",
         "hur_l2",
@@ -1181,6 +1193,7 @@
         "new_babbage",
         "lorville",
         "grimhex",
+        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1206,10 +1219,10 @@
         "port_tressler",
         "grimhex",
         "hur_l1",
-        "hur_l2",
         "hur_l4",
         "hur_l5",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1229,6 +1242,7 @@
         "lorville",
         "grimhex",
         "arc_l1",
+        "cru_l1",
         "hur_l1",
         "hur_l2",
         "mic_l1",
@@ -1252,10 +1266,10 @@
         "lorville",
         "grimhex",
         "arc_l1",
+        "cru_l1",
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l5",
         "microtech"
       ],
       "purchaseLocations": [],
@@ -1275,6 +1289,7 @@
         "new_babbage",
         "lorville",
         "port_tressler",
+        "cru_l1",
         "hur_l1",
         "hur_l4",
         "hur_l5",
@@ -1573,7 +1588,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",

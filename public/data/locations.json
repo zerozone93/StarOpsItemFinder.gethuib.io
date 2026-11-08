@@ -112,7 +112,7 @@
   {
     "name": "CRU-L1 Ambitious Dream Station",
     "slug": "cru-l1-ambitious-dream-station",
-    "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Gallery == == References ==",
+    "description": "CRU-L1 Ambitious Dream Station is a Rest & Relax owned Rest Stop located in Crusader's L1 Lagrangian point. == In-game description == Located at the L1 Lagrange point of Crusader (Stanton II), Rest & Relax's Ambitious Dream Station offers a wide variety of shops and services for the weary traveler including: Refueling, Restocking, Ship Components, Personal Armor, Personal Weapons, Clothing, Food, and Habs. Also features a Refinery. == Gas cloud composition == == Visitor information == === Stores & services === Also at the station: Bar Juice Bar === Food & drink === Storable items can be kept within your personal storage and consumed later. == Trading == == Refinery Services == == Gallery == == References ==",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.74,
     "mergedSources": [
@@ -329,6 +329,15 @@
   {
     "name": "Banu Friendship Museum",
     "slug": "banu-friendship-museum",
+    "verificationStatus": "community_verified",
+    "confidenceScore": 0.68,
+    "mergedSources": [
+      "starcitizentools"
+    ]
+  },
+  {
+    "name": "Breytenbach Labs",
+    "slug": "breytenbach-labs",
     "verificationStatus": "community_verified",
     "confidenceScore": 0.68,
     "mergedSources": [
