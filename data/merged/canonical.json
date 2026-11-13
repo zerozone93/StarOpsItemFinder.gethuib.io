@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-11-12T12:19:53.519Z",
+    "generatedAt": "2026-11-13T12:18:08.277Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-11-12T12:16:58.868Z",
+        "fetchedAt": "2026-11-13T12:16:08.642Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-11-12T12:18:14.586Z",
+        "fetchedAt": "2026-11-13T12:17:20.352Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-11-12T12:18:14.591Z",
+        "fetchedAt": "2026-11-13T12:17:20.359Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-11-12T12:18:14.592Z",
+        "fetchedAt": "2026-11-13T12:17:20.361Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-11-12T12:18:16.015Z",
+        "fetchedAt": "2026-11-13T12:17:21.059Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-11-12T12:19:53.516Z",
+        "fetchedAt": "2026-11-13T12:18:08.275Z",
         "skipped": false
       }
     ],
@@ -1578,7 +1578,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
@@ -1593,7 +1593,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [
@@ -1607,7 +1607,7 @@
     {
       "name": "C54 SMG",
       "slug": "c54-smg",
-      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
+      "description": "The C54 SMG is a 10 mm, fully automatic submachine gun manufactured by Gemini. It boasts a visually appealing design with purple accents and a sleek, well-balanced structure. Its lightweight polymer frame and ergonomic design make it an ideal weapon for close quarter combat. The firearm has an effective range of 35 meters and is capable of firing 10mm rounds on full auto, providing maximum support and target saturation to ensure swift engagement resolution. The C54's features make it a reliable and efficient weapon for tactical operations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Gallery == == Development == The C54 SMG is introduced in Alpha 3.10.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -1633,7 +1633,7 @@
     {
       "name": "P4-AR Rifle",
       "slug": "p4-ar-rifle",
-      "description": "The P4-AR Rifle is a 5.56mm, selective-fire assault rifle manufactured by Behring Applied Technology. It boasts an effective range of 50 meters and can be operated in semi-automatic, three-round burst, and fully automatic modes. The P4-AR rifle is equipped with a collapsible stock and shortened barrel, rendering it a suitable option for close-quarter combat. Its accuracy and user-friendly design have earned it widespread recognition among security, military, and civilian users alike, cementing its status as a highly regarded firearm. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Lore == The P4-AR Rifle was the standard issue rifle for the United Empire of Earth military. == Gallery == == Trivia == In October 2019 it was revealed that the P4-AR Rifle had been the most popular assault rifle for the Janu",
+      "description": "The P4-AR Rifle is a 5.56mm, selective-fire assault rifle manufactured by Behring Applied Technology. It boasts an effective range of 50 meters and can be operated in semi-automatic, three-round burst, and fully automatic modes. The P4-AR rifle is equipped with a collapsible stock and shortened barrel, rendering it a suitable option for close-quarter combat. Its accuracy and user-friendly design have earned it widespread recognition among security, military, and civilian users alike, cementing its status as a highly regarded firearm. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Lore == The P4-AR Rifle was the standard issue rifle for the United Empire of Earth military. == Gallery == == Trivia == In October 2019 it was revealed that the P4-AR Rifle had been the most popular assault rifle for the Januar",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -1659,7 +1659,7 @@
     {
       "name": "P8-SC SMG",
       "slug": "p8-sc-smg",
-      "description": "The P8-SC SMG is a 10-mm, selective-fire submachine gun manufactured by Behring Applied Technology. It boasts an effective range of 30 meters and can be fired in rapid or burst mode. The weapon features a folding stock for ease of transport and storage. The UEE Marines, widely regarded as the top fighting force in the 'verse, have adopted the P8-SC as their standard ballistic submachine gun. However, the weapon has also gained popularity among civilians seeking personal safety and protection. Its widespread use is a testament to its reliability and effectiveness in combat situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The P8-SC SMG is introduced in Alpha 3.0.0. == Trivia == In October 2019 it was revealed that the P8-SC SMG had been the most popular submachine g",
+      "description": "The P8-SC SMG is a 10-mm, selective-fire submachine gun manufactured by Behring Applied Technology. It boasts an effective range of 30 meters and can be fired in rapid or burst mode. The weapon features a folding stock for ease of transport and storage. The UEE Marines, widely regarded as the top fighting force in the 'verse, have adopted the P8-SC as their standard ballistic submachine gun. However, the weapon has also gained popularity among civilians seeking personal safety and protection. Its widespread use is a testament to its reliability and effectiveness in combat situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Gallery == == Development == The P8-SC SMG is introduced in Alpha 3.0.0. == Trivia == In October 2019 it was revealed that the P8-SC SMG had been the most popular submachine gun",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -1685,7 +1685,7 @@
     {
       "name": "FS-9 LMG",
       "slug": "fs-9-lmg",
-      "description": "The FS-9 LMG is a 5-mm light machine gun manufactured by Behring Applied Technology. With an effective range of 40 meters, the FS-9 is designed to be a dominant force on the battlefield. Behring's intention was to create a weapon that could provide overwhelming firepower. The full auto mode of the light machine gun is particularly useful for laying down covering fire or holding back advancing enemies. Additionally, the FS-9 is renowned for its ability to maintain accuracy while unleashing sustained fire, making it a highly effective weapon in combat situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The FS-9 LMG is introduced in Alpha 3.12.0. == References ==",
+      "description": "The FS-9 LMG is a 5-mm light machine gun manufactured by Behring Applied Technology. With an effective range of 40 meters, the FS-9 is designed to be a dominant force on the battlefield. Behring's intention was to create a weapon that could provide overwhelming firepower. The full auto mode of the light machine gun is particularly useful for laying down covering fire or holding back advancing enemies. Additionally, the FS-9 is renowned for its ability to maintain accuracy while unleashing sustained fire, making it a highly effective weapon in combat situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Gallery == == Development == The FS-9 LMG is introduced in Alpha 3.12.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -1711,7 +1711,7 @@
     {
       "name": "Gallant Rifle",
       "slug": "gallant-rifle",
-      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology",
+      "description": "The Gallant Rifle, produced by Klaus & Werner, is a selective-fire assault rifle that utilizes laser technology. With an effective range of 50 meters, it can be fired in three and five burst modes. Klaus & Werner prides itself on creating reliable assault weapons that stand the test of time, and the Gallant is no exception. This energy-based rifle is designed to deliver precise and sustained fire at medium-range targets. Additionally, its high-capacity power system enables operators to fire a greater number of shots per battery, making it a valuable asset in combat situations. == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Gallery == == Development == The Gallant Rifle was formerly known as the ATT-4 Energy Rifle and introduced in Alpha 2.2.0, with the following description: Despite all the advances in weapon technology, ",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -1737,7 +1737,7 @@
     {
       "name": "Custodian SMG",
       "slug": "custodian-smg",
-      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submachine gun FN P90. == References ==",
+      "description": "The Custodian SMG is a laser, fully automatic submachine gun manufactured by Kastak Arms. It is designed to prioritize a high rate of fire over damage and accuracy, making it an optimal selection for navigating through confined spaces and engaging in close quarters combat. With an effective range of 30 meters, this weapon can be utilized in automatic, burst, and charge modes. Its versatility and adaptability make it a valuable asset in various tactical situations. == Description == == Ports == == Acquisition == == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Gallery == == Development == The Custodian SMG was formerly known as the Reaver in the early concept art. It is introduced in Alpha 3.1.0. == Trivia == The Custodian SMG has a top-loaded magazine, similar to the real-life submachine gun FN P90. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
@@ -1763,7 +1763,7 @@
     {
       "name": "S71 Rifle",
       "slug": "s71-rifle",
-      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Crafting == === Blueprints === === Dismantle === == Related == === Variants === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References ==",
+      "description": "The S71 Rifle is a semi-automatic assault rifle manufactured by Gemini. With a caliber of 5 mm, it boasts an effective range of 50 meters and comes with the OT4-RF (4x Telescopic) optics in its default loadout. Gemini's design of the S71 prioritizes ergonomics, making it an ideal weapon for mid-range engagements. Despite its smaller caliber round compared to other weapons in its class, the S71 has gained popularity among private military professionals due to its sleek aesthetics and precise accuracy. == Description == == Ports == == Acquisition == The weapon is not purchasable at in-game shops and is only available in random loot boxes or from NPC's. == Crafting == === Blueprints === === Dismantle === == Related == === Styles === == Gallery == == Development == The S71 Rifle is introduced in Alpha 3.5.0. == References ==",
       "verificationStatus": "community_verified",
       "confidenceScore": 0.76,
       "purchaseLocations": [
