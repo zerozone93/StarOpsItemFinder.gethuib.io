@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-11-14T00:32:19.187Z",
+    "generatedAt": "2026-11-14T12:16:38.694Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-11-14T00:29:43.967Z",
+        "fetchedAt": "2026-11-14T12:14:51.047Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-11-14T00:31:12.341Z",
+        "fetchedAt": "2026-11-14T12:16:06.662Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-11-14T00:31:12.347Z",
+        "fetchedAt": "2026-11-14T12:16:06.665Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-11-14T00:31:12.348Z",
+        "fetchedAt": "2026-11-14T12:16:06.666Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-11-14T00:31:13.451Z",
+        "fetchedAt": "2026-11-14T12:16:07.251Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-11-14T00:32:19.186Z",
+        "fetchedAt": "2026-11-14T12:16:38.693Z",
         "skipped": false
       }
     ],
@@ -1081,7 +1081,7 @@
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l4"
+        "hur_l5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1288,7 +1288,6 @@
         "new_babbage",
         "lorville",
         "everus_harbor",
-        "port_tressler",
         "cru_l1",
         "hur_l1",
         "hur_l4",
@@ -1296,7 +1295,8 @@
         "aberdeen",
         "arial",
         "magda",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1579,22 +1579,22 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [

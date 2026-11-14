@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-11-14T00:31:12.341Z"
+    "fetchedAt": "2026-11-14T12:16:06.662Z"
   },
   "systems": [],
   "locations": [
@@ -746,7 +746,7 @@
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l4"
+        "hur_l5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -926,7 +926,6 @@
         "new_babbage",
         "lorville",
         "everus_harbor",
-        "port_tressler",
         "cru_l1",
         "hur_l1",
         "hur_l4",
@@ -934,7 +933,8 @@
         "aberdeen",
         "arial",
         "magda",
-        "microtech"
+        "microtech",
+        "pyro"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
