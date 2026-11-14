@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-11-13T12:17:20.352Z"
+    "fetchedAt": "2026-11-14T00:31:12.341Z"
   },
   "systems": [],
   "locations": [
@@ -581,13 +581,13 @@
         "lorville",
         "baijini_point",
         "port_tressler",
+        "grimhex",
         "arc_l1",
         "arc_l2",
         "cru_l1",
         "hur_l1",
         "hur_l2",
-        "mic_l1",
-        "daymar"
+        "mic_l1"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg?qbjeg",
@@ -661,6 +661,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -745,7 +746,7 @@
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l5"
+        "hur_l4"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -760,7 +761,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "arc_l1",
+        "grimhex",
         "cru_l1",
         "hur_l1",
         "hur_l2",
@@ -768,8 +769,8 @@
         "microtech",
         "pyro",
         "pyro-1",
-        "ruin-station",
-        "terminus"
+        "pyro-5",
+        "pyro-6"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -782,7 +783,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "grimhex",
         "arc_l1",
         "pyro"
@@ -823,7 +823,6 @@
         "lorville",
         "grimhex",
         "cru_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -926,14 +925,16 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "everus_harbor",
         "port_tressler",
         "cru_l1",
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "microtech",
-        "pyro",
-        "pyro-5"
+        "aberdeen",
+        "arial",
+        "magda",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",

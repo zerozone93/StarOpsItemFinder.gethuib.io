@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-11-13T12:18:08.277Z",
+    "generatedAt": "2026-11-14T00:32:19.187Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-11-13T12:16:08.642Z",
+        "fetchedAt": "2026-11-14T00:29:43.967Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-11-13T12:17:20.352Z",
+        "fetchedAt": "2026-11-14T00:31:12.341Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-11-13T12:17:20.359Z",
+        "fetchedAt": "2026-11-14T00:31:12.347Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-11-13T12:17:20.361Z",
+        "fetchedAt": "2026-11-14T00:31:12.348Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-11-13T12:17:21.059Z",
+        "fetchedAt": "2026-11-14T00:31:13.451Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-11-13T12:18:08.275Z",
+        "fetchedAt": "2026-11-14T00:32:19.186Z",
         "skipped": false
       }
     ],
@@ -874,13 +874,13 @@
         "lorville",
         "baijini_point",
         "port_tressler",
+        "grimhex",
         "arc_l1",
         "arc_l2",
         "cru_l1",
         "hur_l1",
         "hur_l2",
-        "mic_l1",
-        "daymar"
+        "mic_l1"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg?qbjeg",
@@ -984,6 +984,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -1080,7 +1081,7 @@
         "cru_l4",
         "hur_l1",
         "hur_l2",
-        "hur_l5"
+        "hur_l4"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Minerals.png?kctzg",
@@ -1098,7 +1099,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "arc_l1",
+        "grimhex",
         "cru_l1",
         "hur_l1",
         "hur_l2",
@@ -1106,8 +1107,8 @@
         "microtech",
         "pyro",
         "pyro-1",
-        "ruin-station",
-        "terminus"
+        "pyro-5",
+        "pyro-6"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1123,7 +1124,6 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
-        "lorville",
         "grimhex",
         "arc_l1",
         "pyro"
@@ -1170,7 +1170,6 @@
         "lorville",
         "grimhex",
         "cru_l1",
-        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -1288,14 +1287,16 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
+        "everus_harbor",
         "port_tressler",
         "cru_l1",
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "microtech",
-        "pyro",
-        "pyro-5"
+        "aberdeen",
+        "arial",
+        "magda",
+        "microtech"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1593,7 +1594,7 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [
