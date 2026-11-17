@@ -1,48 +1,48 @@
 {
   "meta": {
     "sourceCount": 6,
-    "generatedAt": "2026-11-17T00:33:24.910Z",
+    "generatedAt": "2026-11-17T12:19:23.376Z",
     "sources": [
       {
         "sourceKey": "rsi",
         "sourceName": "Roberts Space Industries",
         "priority": 100,
-        "fetchedAt": "2026-11-17T00:31:27.036Z",
+        "fetchedAt": "2026-11-17T12:16:33.423Z",
         "skipped": false
       },
       {
         "sourceKey": "starcitizentools",
         "sourceName": "StarCitizen.tools",
         "priority": 90,
-        "fetchedAt": "2026-11-17T00:33:07.261Z",
+        "fetchedAt": "2026-11-17T12:17:44.438Z",
         "skipped": false
       },
       {
         "sourceKey": "uex",
         "sourceName": "UEX",
         "priority": 80,
-        "fetchedAt": "2026-11-17T00:33:07.262Z",
+        "fetchedAt": "2026-11-17T12:17:44.439Z",
         "skipped": true
       },
       {
         "sourceKey": "reddit",
         "sourceName": "Reddit",
         "priority": 30,
-        "fetchedAt": "2026-11-17T00:33:07.263Z",
+        "fetchedAt": "2026-11-17T12:17:44.440Z",
         "skipped": true
       },
       {
         "sourceKey": "erkul",
         "sourceName": "Erkul",
         "priority": 50,
-        "fetchedAt": "2026-11-17T00:33:08.438Z",
+        "fetchedAt": "2026-11-17T12:17:45.574Z",
         "skipped": false
       },
       {
         "sourceKey": "sc-crafter",
         "sourceName": "SC Crafter",
         "priority": 55,
-        "fetchedAt": "2026-11-17T00:33:24.908Z",
+        "fetchedAt": "2026-11-17T12:19:23.374Z",
         "skipped": false
       }
     ],
@@ -874,13 +874,13 @@
         "lorville",
         "baijini_point",
         "port_tressler",
-        "grimhex",
         "arc_l1",
         "arc_l2",
         "cru_l1",
         "hur_l1",
         "hur_l2",
-        "mic_l1"
+        "mic_l1",
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg?qbjeg",
@@ -984,7 +984,6 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -1099,7 +1098,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "grimhex",
+        "arc_l1",
         "cru_l1",
         "hur_l1",
         "hur_l2",
@@ -1107,8 +1106,8 @@
         "microtech",
         "pyro",
         "pyro-1",
-        "pyro-5",
-        "pyro-6"
+        "ruin-station",
+        "terminus"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1124,6 +1123,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "lorville",
         "grimhex",
         "arc_l1",
         "pyro"
@@ -1170,6 +1170,7 @@
         "lorville",
         "grimhex",
         "cru_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -1287,16 +1288,14 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "everus_harbor",
+        "port_tressler",
         "cru_l1",
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "aberdeen",
-        "arial",
-        "magda",
         "microtech",
-        "pyro"
+        "pyro",
+        "pyro-5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -1579,22 +1578,22 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Ammo",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Ammo"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Ammo"
         }
       ],
       "mergedSources": [

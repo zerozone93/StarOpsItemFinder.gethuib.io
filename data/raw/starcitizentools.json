@@ -3,7 +3,7 @@
     "sourceName": "StarCitizen.tools",
     "sourceKey": "starcitizentools",
     "priority": 90,
-    "fetchedAt": "2026-11-17T00:33:07.261Z"
+    "fetchedAt": "2026-11-17T12:17:44.438Z"
   },
   "systems": [],
   "locations": [
@@ -581,13 +581,13 @@
         "lorville",
         "baijini_point",
         "port_tressler",
-        "grimhex",
         "arc_l1",
         "arc_l2",
         "cru_l1",
         "hur_l1",
         "hur_l2",
-        "mic_l1"
+        "mic_l1",
+        "daymar"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/a/a7/Hadanite-chunk-in-space-3.10.jpg?qbjeg",
@@ -661,7 +661,6 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "grimhex",
         "arc_l1",
         "hur_l1",
         "hur_l2",
@@ -761,7 +760,7 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "grimhex",
+        "arc_l1",
         "cru_l1",
         "hur_l1",
         "hur_l2",
@@ -769,8 +768,8 @@
         "microtech",
         "pyro",
         "pyro-1",
-        "pyro-5",
-        "pyro-6"
+        "ruin-station",
+        "terminus"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
@@ -783,6 +782,7 @@
       "verificationStatus": "community_verified",
       "confidenceScore": 0.82,
       "knownLocations": [
+        "lorville",
         "grimhex",
         "arc_l1",
         "pyro"
@@ -823,6 +823,7 @@
         "lorville",
         "grimhex",
         "cru_l1",
+        "cru_l4",
         "hur_l1",
         "hur_l2",
         "hur_l5",
@@ -925,16 +926,14 @@
       "knownLocations": [
         "new_babbage",
         "lorville",
-        "everus_harbor",
+        "port_tressler",
         "cru_l1",
         "hur_l1",
         "hur_l4",
         "hur_l5",
-        "aberdeen",
-        "arial",
-        "magda",
         "microtech",
-        "pyro"
+        "pyro",
+        "pyro-5"
       ],
       "purchaseLocations": [],
       "imageUrl": "https://media.starcitizen.tools/2/2f/Cargo_-_Metal.png?n7igy",
