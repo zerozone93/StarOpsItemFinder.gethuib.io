@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-18T00:32:24.275Z",
+    "generatedAt": "2026-11-18T12:18:04.241Z",
     "sourceCount": 6,
     "notes": [
       "Generated automatically by GitHub Actions",
@@ -1591,12 +1591,12 @@
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Armor",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Armor"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Armor"
         },
         {
           "source": "sc-crafter",
           "url": "https://www.sc-crafter.com/?type=Weapons",
-          "note": "error: HTTP 523 for https://www.sc-crafter.com/?type=Weapons"
+          "note": "error: HTTP 522 for https://www.sc-crafter.com/?type=Weapons"
         },
         {
           "source": "sc-crafter",
